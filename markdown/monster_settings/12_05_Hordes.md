@@ -4,13 +4,13 @@
 
 *Horde, Organized, Cautious*
 
-Bite \(d6 damage\) *Close*
+Bite (d6 damage) *Close*
 
 7 HP 4 Armor
 
 **Special Qualities:** Hive connection, Insectoid
 
-With good cause, they say that these creatures \(like all insects, really\) are claimed by the powers of Law. They are order made flesh—a perfectly stratified society in which every larva, hatchling and adult knows its place in the great hive. The formian is some strange intersection of men and ants. \(Though there are winged tribes that look like wasps out in the Western Desert, I’ve heard. And some with great sawtooth arms like mantids in the forests of the east.\) Tall, with a hard shell and a harder mind, these particular formians are the bottom caste. They work the hills and honeycombs with single-minded joy that can be known only by such an alien mind. *Instinct*: To follow orders
+With good cause, they say that these creatures (like all insects, really) are claimed by the powers of Law. They are order made flesh—a perfectly stratified society in which every larva, hatchling and adult knows its place in the great hive. The formian is some strange intersection of men and ants. (Though there are winged tribes that look like wasps out in the Western Desert, I’ve heard. And some with great sawtooth arms like mantids in the forests of the east.) Tall, with a hard shell and a harder mind, these particular formians are the bottom caste. They work the hills and honeycombs with single-minded joy that can be known only by such an alien mind. *Instinct*: To follow orders
 
 - Raise the alarm
 - Create value for the hive
@@ -20,13 +20,13 @@ With good cause, they say that these creatures \(like all insects, really\) are 
 
 *Group, Organized, Intelligent*
 
-Spiked whip \(d8 damage\) *Close, Reach*
+Spiked whip (d8 damage) *Close, Reach*
 
 6 HP 3 Armor
 
 **Special Qualities:** Hive connection, Insectoid
 
-It takes two hands to rule an empire: one to wield the scepter and one to crack the whip. These ant-folk are that whip. Lucky for them, with two extra arms, that’s a lot of whip to crack. They oversee the vast swarms of worker drones that set to build the mighty caverns and ziggurats that dot the places that formians can be found. One in a hundred, these brutes stand two or three feet taller than their pale, near-mindless kin and have a sharper, crueler wit to match. They’ll often ignore the soft races \(as we’re known\) if we don’t interfere in a project, but get in the way of The Great Work and expect nothing less than their full attention. You don’t want their full attention. *Instinct*: To command
+It takes two hands to rule an empire: one to wield the scepter and one to crack the whip. These ant-folk are that whip. Lucky for them, with two extra arms, that’s a lot of whip to crack. They oversee the vast swarms of worker drones that set to build the mighty caverns and ziggurats that dot the places that formians can be found. One in a hundred, these brutes stand two or three feet taller than their pale, near-mindless kin and have a sharper, crueler wit to match. They’ll often ignore the soft races (as we’re known) if we don’t interfere in a project, but get in the way of The Great Work and expect nothing less than their full attention. You don’t want their full attention. *Instinct*: To command
 
 - Order drones into battle
 - Set great numbers in motion
@@ -35,7 +35,7 @@ It takes two hands to rule an empire: one to wield the scepter and one to crack 
 
 *Horde, Intelligent, Organized*
 
-Barbed spear \(b\[2d6\]+2 damage\) *Close, Reach*
+Barbed spear (b[2d6]+2 damage) *Close, Reach*
 
 7 HP 3 Armor
 
@@ -51,7 +51,7 @@ Whether in the form of a legionnaire, part of the formian standing army, or as a
 
 *Solitary, Huge, Organized, Intelligent, Hoarder*
 
-Crushing mandibles \(d10+5 damage\) *Reach, Forceful*
+Crushing mandibles (d10+5 damage) *Reach, Forceful*
 
 24 HP 3 Armor
 
@@ -67,7 +67,7 @@ At the heart of every hive, no matter its size or kind, lives a queen. As large 
 
 *Group, Organized, Intelligent*
 
-Bow \(d8 damage\) *Near, Far*
+Bow (d8 damage) *Near, Far*
 
 6 HP 1 Armor
 
@@ -82,7 +82,7 @@ Once they scent your blood, you can’t escape. Not without intervention from th
 
 *Solitary, Divine, Intelligent, Organized*
 
-Ceremonial dagger \(d10+2 damage\) *Close, Reach*
+Ceremonial dagger (d10+2 damage) *Close, Reach*
 
 18 HP 1 Armor
 
@@ -97,7 +97,7 @@ Oh, an emissary\! How nice. I suspect you didn’t know the gnolls had ambassado
 
 *Solitary, Intelligent, Organized*
 
-Sword \(b\[2d10\] damage, 1 piercing\) *Close*
+Sword (b[2d10] damage, 1 piercing) *Close*
 
 12 HP 2 Armor
 
@@ -112,7 +112,7 @@ Every pack has its top dog. Bigger, maybe—that’d be the simplest way. Often,
 
 *Horde, Intelligent, Organized*
 
-Jagged blade \(d6+2 damage, 1 piercing\) *Close, Messy*
+Jagged blade (d6+2 damage, 1 piercing) *Close, Messy*
 
 3 HP 0 Armor
 
@@ -125,7 +125,7 @@ The orcish horde is a savage, bloodthirsty, and hateful collection of tribes. Th
 
 *Solitary, Large, Divine, Intelligent, Organized*
 
-Cleaver \(d10+5 damage\) *Close, Reach*
+Cleaver (d10+5 damage) *Close, Reach*
 
 20 HP 0 Armor
 
@@ -140,7 +140,7 @@ Stained in the unholy ritual of Anointing By The Night’s Blood, some warriors 
 
 *Solitary, Large*
 
-Hammer \(d10+3 damage ignores armor\) *Close, Reach, Forceful*
+Hammer (d10+3 damage ignores armor) *Close, Reach, Forceful*
 
 16 HP 0 Armor
 
@@ -153,7 +153,7 @@ Hammer \(d10+3 damage ignores armor\) *Close, Reach, Forceful*
 
 *Group, Divine, Magical, Intelligent, Organized*
 
-Inflict Wounds \(d8+2 damage ignores armor\) *Close, Reach, Near, Far*
+Inflict Wounds (d8+2 damage ignores armor) *Close, Reach, Near, Far*
 
 6 HP 0 Armor
 
@@ -169,7 +169,7 @@ In the name of He of Riven Sight and by the First Sacrifice of Elf-Flesh do we i
 
 *Solitary, Intelligent, Organized*
 
-Elemental blast \(d10 damage ignores armor\) *Close, Reach, Near, Far*
+Elemental blast (d10 damage ignores armor) *Close, Reach, Near, Far*
 
 12 HP 0 Armor
 
@@ -186,7 +186,7 @@ The orcs are as old a race as any. They cast bones in the dirt and called to the
 
 *Horde, Stealthy, Intelligent, Organized*
 
-Whip \(d6 damage\) *Close, Reach*
+Whip (d6 damage) *Close, Reach*
 
 3 HP 0 Armor
 
@@ -200,7 +200,7 @@ Red sails fly in the southern sea. Red sails and ships of bone, old wood and iro
 
 *Solitary, Stealthy, Magical, Intelligent*
 
-Poisoned dagger \(d10 damage, 1 piercing\) *Close, Reach*
+Poisoned dagger (d10 damage, 1 piercing) *Close, Reach*
 
 10 HP 0 Armor
 
@@ -216,7 +216,7 @@ Not every attack by orcs is torches and screaming and enslavement. Among those w
 
 *Solitary, Intelligent, Organized*
 
-Iron Sword of Ages \(b\[2d10\]+2 damage\) *Close, Reach*
+Iron Sword of Ages (b[2d10]+2 damage) *Close, Reach*
 
 16 HP 0 Armor
 
@@ -232,7 +232,7 @@ There are chiefs and there are leaders of the tribes among the orcs. There are t
 
 *Solitary, Stealthy, Intelligent, Organized*
 
-Trident \(w\[2d10\] damage\) *Close, Near*
+Trident (w[2d10] damage) *Close, Near*
 
 12 HP 2 Armor
 
@@ -247,7 +247,7 @@ A fishing village caught one in their net, some time ago. Part a man and part so
 
 *Group, Divine, Magical, Intelligent*
 
-Waves \(d8+2 damage, ignores armor\) *Near, Far*
+Waves (d8+2 damage, ignores armor) *Near, Far*
 
 6 HP 2 Armor
 
@@ -263,7 +263,7 @@ Part priest, part outcast among their kind, the tidecaller speaks with the voice
 
 *Group, Organized, Intelligent*
 
-Harpoon \(b\[2d8\] damage\) *Close, Near, Far*
+Harpoon (b[2d8] damage) *Close, Near, Far*
 
 6 HP 3 Armor
 
@@ -278,7 +278,7 @@ The triton are not a militant race by nature. They shy away from battle except w
 
 *Group, Organized, Intelligent*
 
-Trident \(d8 damage\) *Close, Near, Far*
+Trident (d8 damage) *Close, Near, Far*
 
 6 HP 2 Armor
 

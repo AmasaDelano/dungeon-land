@@ -4,7 +4,7 @@
 
 *Group, Large*
 
-Bite \(d8+1 damage\) *Close, Reach*
+Bite (d8+1 damage) *Close, Reach*
 10 HP 3 Armor
 
 **Special Qualities:** Burrowing
@@ -19,20 +19,20 @@ A hide like plate armor and great crushing mandibles are problematic. A stomach 
 
 *Horde, Small*
 
-Gnaw \(d6 damage 1 piercing\) *Close, Messy*
+Gnaw (d6 damage 1 piercing) *Close, Messy*
 
 7 HP 1 Armor
 
 Who hasn’t seen a rat before? It’s like that, but nasty and big and not afraid of you anymore. Maybe this one was a cousin to that one you caught in a trap or the one you killed with a knife in that filthy tavern in Darrow. Maybe he’s looking for a little ratty revenge. *Instinct*: To devour
 
 - Swarm
-- Rip something \(or someone\) apart
+- Rip something (or someone) apart
 
 ## Choker
 
 Solitary, Stealthy, Intelligent
 
-Choke \(d10 damage\) *Close, Reach*
+Choke (d10 damage) *Close, Reach*
 
 15 HP 2 Armor
 
@@ -47,7 +47,7 @@ Some say these things descended from the family of a cruel wizard who forced the
 
 *Solitary, Stealthy*
 
-Constrict \(d10 damage ignores armor\) *Close*
+Constrict (d10 damage ignores armor) *Close*
 
 12 HP 1 Armor
 
@@ -59,9 +59,9 @@ Don’t put on that cloak, Gareth. Don’t. You don’t know where it’s been. 
 
 ## Dwarven Warrior
 
-*Horde, Organized*
+*Horde, Organized, Intelligent*
 
-Axe \(d6 damage\) *Close*
+Axe (d6 damage) *Close*
 
 7 HP 2 Armor
 
@@ -74,7 +74,7 @@ For ages, men believed all dwarves were male and all were of this ilk: stoic and
 
 *Solitary, Huge*
 
-Smash \(d10+5 damage\) *Reach, Forceful*
+Smash (d10+5 damage) *Reach, Forceful*
 
 27 HP 4 Armor
 
@@ -89,7 +89,7 @@ Our shaman says that all the things of the world have a spirit. Stones, trees, a
 
 *Horde, Small*
 
-Flames \(d6 damage ignores armor\) *Near*
+Flames (d6 damage ignores armor) *Near*
 
 3 HP 3 Armor
 
@@ -105,7 +105,7 @@ Flames \(d6 damage ignores armor\) *Near*
 
 *Horde, Stealthy, Hoarder*
 
-Claw \(d6 damage\) *Close*
+Claw (d6 damage) *Close*
 
 3 HP 2 Armor
 
@@ -121,7 +121,7 @@ It’s a sad thing, really. Guardians bred by magi of the past with no more cast
 
 *Solitary, Large, Stealthy, Amorphous*
 
-Engulf \(d10+1 damage ignores armor\) *Hand*
+Engulf (d10+1 damage ignores armor) *Hand*
 
 20 HP 1 Armor
 
@@ -136,7 +136,7 @@ How many adventurers’ last thoughts were “strange, this tunnel seems cleaner
 
 *Horde, Small, Intelligent, Organized*
 
-Spear \(d6 damage\) *Close, Reach*
+Spear (d6 damage) *Close, Reach*
 
 3 HP 1 Armor
 
@@ -144,13 +144,13 @@ Nobody seems to know where these things came from. Elves say they’re the dwarv
 
 - Charge\!
 - Call more goblins
-- Retreat and return with \(many\) more
+- Retreat and return with (many) more
 
 ## Goblin Orkaster
 
 *Solitary, Small, Magical, Intelligent, Organized*
 
-Acid orb \(d10+1 damage ignores armor\) *Near, Far*
+Acid orb (d10+1 damage ignores armor) *Near, Far*
 
 12 HP 0 Armor
 
@@ -164,7 +164,7 @@ Oh lord, who taught them magic? *Instinct*: To tap power beyond their stature
 
 *Group, Huge, Organized, Intelligent*
 
-Mace \(d8+7 damage\) *Reach, Forceful*
+Mace (d8+7 damage) *Reach, Forceful*
 
 14 HP 1 Armor
 
@@ -177,7 +177,7 @@ They dwell beneath the earth because they do not belong above it any longer. An 
 
 *Solitary, Large*
 
-Tentacles \(d10+3 damage\) *Close, Reach, Forceful*
+Tentacles (d10+3 damage) *Close, Reach, Forceful*
 
 20 HP 1 Armor
 
@@ -192,7 +192,7 @@ The mating call of the otyugh is a horrible, blaring cry that sounds like a cros
 
 *Horde, Small*
 
-Chew \(d6 damage\) *Close*
+Chew (d6 damage) *Close*
 
 3 HP 1 Armor
 
@@ -206,7 +206,7 @@ The gods that made this thing were playing some sick joke on the civilized folk 
 
 *Solitary, Huge*
 
-Bite \(d10+5 damage\) *Reach, Forceful*
+Bite (d10+5 damage) *Reach, Forceful*
 
 20 HP 2 Armor
 
@@ -221,7 +221,7 @@ Iä\! Iä\! The Purple Worm\! Blessed is its holy slime\! We walk, unworthy, in 
 
 *Solitary, Large, Stealthy, Intelligent*
 
-Bite \(d10+1 damage\) *Close, Reach*
+Bite (d10+1 damage) *Close, Reach*
 
 16 HP 1 Armor
 
@@ -237,7 +237,7 @@ Evolutionary happenstance has created a clever underground predator. Disguised a
 
 *Horde, Tiny*
 
-Burrow \(d6-2 damage\) *Hand*
+Burrow (d6-2 damage) *Hand*
 
 3 HP 0 Armor
 
@@ -253,13 +253,13 @@ They live in your skin. Or your organ meat. Or your eyeballs. They grow there an
 
 *Solitary, Large, Devious, Intelligent*
 
-Mandibles \(d8+4 damage\) *Close, Reach*
+Mandibles (d8+4 damage) *Close, Reach*
 
 16 HP 3 Armor
 
 **Special Qualities:** Burrowing
 
-Even spiders have their gods, whispered to in webs with little praying arms. *Instinct*: To weave webs \(literal and metaphorical\)
+Even spiders have their gods, whispered to in webs with little praying arms. *Instinct*: To weave webs (literal and metaphorical)
 
 - Enmesh in webbing
 - Put a plot into motion
@@ -268,7 +268,7 @@ Even spiders have their gods, whispered to in webs with little praying arms. *In
 
 *Group, Organized*
 
-Club \(d8 damage\) *Close*
+Club (d8 damage) *Close*
 
 10 HP 1 Armor
 

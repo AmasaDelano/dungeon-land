@@ -1,6 +1,6 @@
 # Example of Play
 
-> I’m GMing a game with Isaac \(playing Omar\), Ben \(playing Brianne\), Amy \(playing Nora\), and Dan \(playing Rath\). The group has come upon a tribe of goblins preparing the ritual sacrifice of a rare and valuable albino crocodile \(highly regarded as pets among the wealthy of the city\).
+> I’m GMing a game with Isaac (playing Omar), Ben (playing Brianne), Amy (playing Nora), and Dan (playing Rath). The group has come upon a tribe of goblins preparing the ritual sacrifice of a rare and valuable albino crocodile (highly regarded as pets among the wealthy of the city).
 >
 > Three of the goblin warriors—drugged on narcotic vapors—charge the fighter Brianne, shrieking. Two others take cover, prepare their bows and gesture urgently toward Rath, as they make signs to ward off the evil eye. Another group of three slips into the shadows around the outer edge of the chamber, preparing a sneak attack. The high priest and her acolyte carry on with the ritual, rubbing the croc’s upturned belly to keep it compliant, and bringing out the sacred knife to slit its throat.
 >

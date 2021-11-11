@@ -46,11 +46,11 @@ You are a professional. When you spout lore or discern realities about criminal 
 
 ### Trap Expert
 
-When you **spend a moment to survey a dangerous area**, roll+DEX. ✴On a 10+, hold 3. ✴On a 7–9, hold 1. Spend your hold as you walk through the area to ask these questions:
+When you **spend a moment to survey a dangerous area**, ask the GM to define the extent of the area (this room, this building, to the end of this hallway), then roll+DEX. ✴On a 10+, hold 3. ✴On a 7–9, hold 1. Spend your hold as you walk through the area to ask these questions:
 
-- Is there a trap here and if so, what activates it?
+- Is there a trap in this area, and, if so, what activates it?
 - What does the trap do when activated?
-- What else is hidden here?
+- What else is hidden in this area?
 
 ### Tricks of the Trade
 
@@ -60,14 +60,14 @@ When you **pick locks or pockets or disable traps**, roll+DEX. ✴On a 10+, you 
 
 When you **attack a surprised or defenseless enemy with a melee weapon**, you can choose to deal your damage or roll+DEX. ✴On a 10+ choose two. ✴On a 7–9 choose one.
 
-- You don’t get into melee with them
+- You slip away before they can react
 - You deal your damage+1d6
 - You create an advantage, +1 forward to you or an ally acting on it
 - Reduce their armor by 1 until they repair it
 
 ---
 
-Reducing armor until they repair it means that they lose armor until they do something that compensates for your damage. If you’re fighting an armored knight that might mean a fresh suit of armor, but for a thick-hided ogre it’s until they’ve had time to heal up \(or protect the wound you left\).
+Reducing armor until they repair it means that they lose armor until they do something that compensates for your damage. If you’re fighting an armored knight that might mean a fresh suit of armor, but for a thick-hided ogre it’s until they’ve had time to heal up (or protect the wound you left).
 
 ### Flexible Morals
 
@@ -77,10 +77,10 @@ When someone tries to detect your alignment you can tell them any alignment you 
 
 You’ve mastered the care and use of a poison. Choose a poison from the list below; that poison is no longer dangerous for you to use. You also start with three uses of the poison you choose. Whenever you have time to gather materials and a safe place to brew you can make three uses of the poison you choose for free. Note that some poisons are applied, meaning you have to carefully apply it to the target or something they eat or drink. Touch poisons just need to touch the target, they can even be used on the blade of a weapon.
 
-- Oil of Tagit \(applied\): The target falls into a light sleep
-- Bloodweed \(touch\): The target deals -1d4 damage ongoing until cured
-- Goldenroot \(applied\): The target treats the next creature they see as a trusted ally, until proved otherwise
-- Serpent’s Tears \(touch\): Anyone dealing damage to the target rolls twice and takes the better result.
+- Oil of Tagit (applied): The target falls into a light sleep
+- Bloodweed (touch): The target deals -1d4 damage ongoing until cured
+- Goldenroot (applied): The target treats the next creature they see as a trusted ally, until proved otherwise
+- Serpent’s Tears (touch): Anyone dealing damage to the target rolls twice and takes the better result.
 
 ---
 
@@ -104,20 +104,20 @@ Shift danger or blame from yourself to someone else.
 
 ## Gear
 
-Your load is 9+STR. You start with dungeon rations \(5 uses, 1 weight\), leather armor \(1 armor, 1 weight\), 3 uses of your chosen poison, and 10 coins. Choose your arms:
+Your load is 9+STR. You start with dungeon rations (5 uses, 1 weight), leather armor (1 armor, 1 weight), 3 uses of your chosen poison, and 10 coins. Choose your arms:
 
-- Dagger \(hand, 1 weight\) and short sword \(close, 1 weight\)
-- Rapier \(close, precise, 1 weight\)
+- Dagger (hand, 1 weight) and short sword (close, 1 weight)
+- Rapier (close, precise, 1 weight)
 
 Choose a ranged weapon:
 
-- 3 throwing daggers \(thrown, near, 0 weight\)
-- Ragged Bow \(near, 2 weight\) and bundle of arrows \(3 ammo, 1 weight\)
+- 3 throwing daggers (thrown, near, 0 weight)
+- Ragged Bow (near, 2 weight) and bundle of arrows (3 ammo, 1 weight)
 
 Choose one:
 
-- Adventuring gear \(1 weight\)
-- Healing potion \(0 weight\)
+- Adventuring gear (1 weight)
+- Healing potion (0 weight)
 
 ## Bonds
 

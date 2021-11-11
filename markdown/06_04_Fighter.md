@@ -54,18 +54,22 @@ When you defy danger and **use your small size to your advantage**, take +1.
 
 ### Human
 
-Once per battle you may reroll a single damage roll \(yours or someone else’s\).
+Once per battle you may reroll a single damage roll (yours or someone else’s).
 
 **You start with these moves:**
 
 ### Bend Bars, Lift Gates
 
-When you **use pure strength to destroy an inanimate obstacle**, roll+STR. ✴On a 10+, choose 3. ✴On a 7-9 choose 2.
+When you **use pure strength to destroy an inanimate obstacle**, roll+STR. ✴On a 10+, choose 1. ✴On a 7-9 choose 2.
 
-- It doesn’t take a very long time
-- Nothing of value is damaged
-- It doesn’t make an inordinate amount of noise
-- You can fix the thing again without a lot of effort
+- It takes a very long time
+- Something of value is damaged
+- It makes an inordinate amount of noise
+- You can't fix the thing again without a lot of effort
+
+---
+
+This is for bashing your way onto the next thing. If what you're destroying isn't inanimate (for example, a stone golem), then this move doesn't apply. If what you're destroying isn't an obstacle (for example, a boulder in the middle of a field), then this move doesn't apply.
 
 ### Armored
 
@@ -131,16 +135,16 @@ Kill a defenseless or surrendered enemy.
 
 ## Gear
 
-Your load is 12+STR. You carry your signature weapon and dungeon rations \(5 uses, 1 weight\). Choose your defenses:
+Your load is 12+STR. You carry your signature weapon and dungeon rations (5 uses, 1 weight). Choose your defenses:
 
-- Chainmail \(1 armor, 1 weight\) and adventuring gear \(1 weight\)
-- Scale armor \(2 armor, 3 weight\)
+- Chainmail (1 armor, 1 weight) and adventuring gear (1 weight)
+- Scale armor (2 armor, 3 weight)
 
 Choose two:
 
-- 2 Healing potions \(0 weight\)
-- Shield \(+1 armor, 2 weight\)
-- Antitoxin \(0 weight\), dungeon rations \(1 weight\), and poultices and herbs \(1 weight\)
+- 2 Healing potions (0 weight)
+- Shield (+1 armor, 2 weight)
+- Antitoxin (0 weight), dungeon rations (1 weight), and poultices and herbs (1 weight)
 - 22 coins
 
 ## Bonds
@@ -169,11 +173,11 @@ When you **consult the spirits that reside within your signature weapon**, they 
 
 ---
 
-The exact nature of the spirits \(and therefore what knowledge they can offer to you\) is up to you and the GM to decide. Maybe they’re dead ancestors, echoes of people you’ve slain, or a minor demon. Up to you.
+The exact nature of the spirits (and therefore what knowledge they can offer to you) is up to you and the GM to decide. Maybe they’re dead ancestors, echoes of people you’ve slain, or a minor demon. Up to you.
 
 ### Armor Mastery
 
-When you **make your armor take the brunt of damage dealt to you**, the damage is negated but you must reduce the armor value of your armor or shield \(your choice\) by 1. The value is reduced each time you make this choice. If the reduction leaves the item with 0 armor it is destroyed.
+When you **make your armor take the brunt of damage dealt to you**, the damage is negated but you must reduce the armor value of your armor or shield (your choice) by 1. The value is reduced each time you make this choice. If the reduction leaves the item with 0 armor it is destroyed.
 
 ---
 
@@ -219,7 +223,7 @@ When you deal damage, deal +1d8 damage.
 
 *Replaces: Armor Mastery*
 
-When you **choose to let your armor take the brunt of damage dealt to you**, the damage is negated and you take +1 forward against the attacker, but you must reduce the armor value of your armor or shield \(your choice\) by 1. The value is reduced each time you make this choice. If the reduction leaves the item with 0 armor it is destroyed.
+When you **choose to let your armor take the brunt of damage dealt to you**, the damage is negated and you take +1 forward against the attacker, but you must reduce the armor value of your armor or shield (your choice) by 1. The value is reduced each time you make this choice. If the reduction leaves the item with 0 armor it is destroyed.
 
 ### Evil Eye
 

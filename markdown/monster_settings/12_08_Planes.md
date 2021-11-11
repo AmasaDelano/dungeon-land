@@ -4,7 +4,7 @@
 
 *Solitary, Terrifying, Divine, Intelligent, Organized*
 
-Sword of Flames \(b\[2d10\]+4 damage, ignores armor\) *Close, Forceful*
+Sword of Flames (b[2d10]+4 damage, ignores armor) *Close, Forceful*
 
 18 HP 4 Armor
 
@@ -20,7 +20,7 @@ Sword of Flames \(b\[2d10\]+4 damage, ignores armor\) *Close, Forceful*
 
 *Solitary, Large, Planar, Terrifying*
 
-Spines \(d10+3 damage, 3 piercing\) *Close, Reach, Messy*
+Spines (d10+3 damage, 3 piercing) *Close, Reach, Messy*
 
 16 HP 3 Armor
 
@@ -35,7 +35,7 @@ There are a thousand forms of devil, maybe more. Some common and some unique. Ea
 
 *Solitary, Planar*
 
-Crush \(d10 damage, ignores armor\) *Close, Reach*
+Crush (d10 damage, ignores armor) *Close, Reach*
 
 12 HP 3 Armor
 
@@ -59,7 +59,7 @@ The planes are not as literal as our world. Clothed in the elemental chaos are p
 
 *Solitary, Devious, Planar, Hoarder*
 
-Secret dagger \(w\[2d8\] damage\) *Close*
+Secret dagger (w[2d8] damage) *Close*
 
 12 HP 0 Armor
 
@@ -73,7 +73,7 @@ Secret dagger \(w\[2d8\] damage\) *Close*
 
 *Group, Large, Magical*
 
-Flame \(d8+1 damage, ignores armor\) *Close, Reach*
+Flame (d8+1 damage, ignores armor) *Close, Reach*
 
 14 HP 4 Armor
 
@@ -88,7 +88,7 @@ Flame \(d8+1 damage, ignores armor\) *Close, Reach*
 
 *Group, Planar, Organized*
 
-Fiery Bite \(d8 damage\) *Close*
+Fiery Bite (d8 damage) *Close*
 
 10 HP 1 Armor
 
@@ -102,9 +102,9 @@ When one reneges on a deal, does not the debtor come for payment? Does the owed 
 
 ## Imp
 
-*Horde, Planar, Intelligent, Organized*
+*Horde, Tiny, Planar, Intelligent, Organized*
 
-Flame gout \(d6 damage, ignores armor\) *Close, Near, Far*
+Flame gout (d6-2 damage, ignores armor) *Hand, Near, Far*
 
 7 HP 1 Armor
 
@@ -117,7 +117,7 @@ These tiny observer-demons often act as a first-time binding subject by neophyte
 
 *Group, Large, Magical, Cautious, Amorphous, Planar*
 
-Hammer \(d10+1 damage\) *Close, Reach*
+Hammer (d10+1 damage) *Close, Reach*
 
 21 HP 5 Armor
 
@@ -133,7 +133,7 @@ All things come to an end. Reality bleeds from the cut of entropy’s knife. At 
 
 *Horde, Devious, Planar, Intelligent*
 
-Slime \(w\[2d4\] damage\) *Close*
+Slime (w[2d4] damage) *Close*
 
 10 HP 0 Armor
 
@@ -147,7 +147,7 @@ Those who have seen visions of the Planes Below, and survived with their sanity 
 
 *Horde, Large, Magical, Terrifying, Planar*
 
-Trample \(d6+1 damage\) *Close, Reach*
+Trample (d6+1 damage) *Close, Reach*
 
 7 HP 4 Armor
 
@@ -160,9 +160,9 @@ The herd came from a pact made in the days when folk still inhabited the Blasted
 
 ## Quasit
 
-*Horde, Planar*
+*Horde, Tiny, Planar*
 
-Hellish weaponry \(d6 damage\) *Close*
+Hellish weaponry (d6-2 damage) *Close*
 
 7 HP 2 Armor
 

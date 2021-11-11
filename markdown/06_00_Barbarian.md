@@ -194,4 +194,4 @@ Whenever the unclean magic wielded by mortal men causes you to **Defy Danger**, 
 
 ### For The Blood God
 
-You are initiated in the old ways, the ways of sacrifice. Choose something your gods (or the ancestor spirits, or your totem, etc) value—gold, blood, bones or the like. When you **sacrifice those things as per your rites and rituals**, roll+WIS. ✴On a 10+ the GM will grant you insight into your current trouble or a boon to help you. ✴On a 7-9 the sacrifice is not enough and your gods take of your flesh as well, but still grant you some insight or boon. ✴On a miss, you earn the ire of the fickle spirits.
+You are initiated in the old ways, the ways of sacrifice. Choose something your gods (or the ancestor spirits, or your totem, etc) value—gold, blood, bones or the like. When you **sacrifice those things as per your rites and rituals**, roll+WIS. ✴On a 10+ the GM will grant you insight into your current trouble or a boon to help you. ✴On a 7-9 the sacrifice is not enough and your gods take of your flesh as well, but still grant you some insight or boon. ✴On a 6-, you earn the ire of the fickle spirits.

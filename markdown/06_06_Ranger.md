@@ -44,20 +44,22 @@ When you make camp in a dungeon or city, you don’t need to consume a ration.
 
 **You start with these moves:**
 
-### Hunt and Track \(WIS\)
+### Hunt and Track
 
-When you **follow a trail of clues left behind by passing creatures**, roll+WIS. ✴On a 7+, you follow the creature’s trail until there’s a significant change in its direction or mode of travel. ✴On a 10+, you also choose 1:
+When you **find and follow a trail of clues left behind by passing creatures**, roll+WIS. ✴On a 7+, you follow the creature’s trail until there’s a significant change in its direction or mode of travel. ✴On a 10+, you also choose 1:
 
 - Gain a useful bit of information about your quarry, the GM will tell you what
 - Determine what caused the trail to end
 
 ### Called Shot
 
-When you **attack a defenseless or surprised enemy at range**, you can choose to deal your damage or name your target and roll+DEX.
+When you **attack a defenseless or surprised enemy at range**, you can choose to deal your damage or choose a body part to target below and roll+DEX.
 
-- Head ✴10+: As 7–9, plus your damage ✴7-9: They do nothing but stand and drool for a few moments.
-- Arms ✴10+: As 7-9, plus your damage ✴7-9: They drop anything they’re holding.
-- Legs ✴10+: As 7-9, plus your damage ✴7-9: They’re hobbled and slow moving.
+- Head ✴On a 7+: They do nothing but stand and drool for a few moments.
+- Arms ✴On a 7+: They drop anything they’re holding.
+- Legs ✴On a 7+: They’re hobbled and slow moving.
+
+On a 10+, also deal your damage.
 
 ### Animal Companion
 
@@ -86,14 +88,14 @@ Choose as many weaknesses as its instinct:
 
 ### Command
 
-When you work with your animal companion on something it’s trained in…
+When you **work with your animal companion on something it’s trained in**…
 
-- …and you attack the same target, add its ferocity to your damage
-- …and you track, add its cunning to your roll
-- …and you take damage, add its armor to your armor
-- …and you discern realities, add its cunning to your roll
-- …and you parley, add its cunning to your roll
-- …and someone interferes with you, add its instinct to their roll
+- …and you **attack the same target**, add its ferocity to your damage
+- …and you **track**, add its cunning to your roll
+- …and you **take damage**, add its armor to your armor
+- …and you **discern realities**, add its cunning to your roll
+- …and you **parley**, add its cunning to your roll
+- …and **someone interferes with you**, add its instinct to their roll
 
 ---
 
@@ -117,15 +119,15 @@ Help an animal or spirit of the wild.
 
 ## Gear
 
-Your load is 11+STR. You start with dungeon rations \(5 uses, 1 weight\), leather armor \(1 armor, 1 weight\), and a bundle of arrows \(3 ammo, 1 weight\). Choose your armament:
+Your load is 11+STR. You start with dungeon rations (5 uses, 1 weight), leather armor (1 armor, 1 weight), and a bundle of arrows (3 ammo, 1 weight). Choose your armament:
 
-- Hunter’s bow \(near, far, 1 weight\) and short sword \(close, 1 weight\)
-- Hunter’s bow \(near, far, 1 weight\) and spear \(reach, 1 weight\)
+- Hunter’s bow (near, far, 1 weight) and short sword (close, 1 weight)
+- Hunter’s bow (near, far, 1 weight) and spear (reach, 1 weight)
 
 Choose one:
 
-- Adventuring gear \(1 weight\) and dungeon rations \(1 weight\)
-- Adventuring gear \(1 weight\) and bundle of arrows \(3 ammo, 1 weight\)
+- Adventuring gear (1 weight) and dungeon rations (1 weight)
+- Adventuring gear (1 weight) and bundle of arrows (3 ammo, 1 weight)
 
 ## Bonds
 
@@ -179,7 +181,7 @@ Choose another training for your animal companion.
 
 ### God Amidst the Wastes
 
-Dedicate yourself to a deity \(name a new one or choose one that’s already been established\). You gain the commune and cast a spell cleric moves. When you select this move, treat yourself as a cleric of level 1 for using spells. Every time you gain a level thereafter, increase your effective cleric level by 1.
+Dedicate yourself to a deity (name a new one or choose one that’s already been established). You gain the commune and cast a spell cleric moves. When you select this move, treat yourself as a cleric of level 1 for using spells. Every time you gain a level thereafter, increase your effective cleric level by 1.
 
 ### Follow Me
 
@@ -227,7 +229,7 @@ When you set the watch for the night everyone takes +1 to take watch. After a ni
 
 ### Observant
 
-When you hunt and track, on a hit you may also ask one question about the creature you are tracking from the discern realities list for free.
+When you hunt and track, on a 7+ you may also ask one question about the creature you are tracking from the discern realities list for free.
 
 ### Special Trick
 

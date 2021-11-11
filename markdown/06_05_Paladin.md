@@ -40,9 +40,9 @@ When you **pray for guidance, even for a moment, and ask, “What here is evil?�
 
 **You start with these moves:**
 
-### Lay on Hands \(CHA\)
+### Lay on Hands
 
-When you **touch someone, skin to skin, and pray for their well-being**, roll+CHA. ✴On a 10+ you heal 1d8 damage or remove one disease. ✴On a 7–9, they are healed, but the damage or disease is transferred to you.
+When you **touch someone else, skin to skin, and pray for their well-being**, roll+CHA. ✴On a 10+ you heal 1d8 damage or remove one disease. ✴On a 7–9, they are healed, but the damage or disease is transferred to you.
 
 ### Armored
 
@@ -56,7 +56,7 @@ When you **give an NPC an order based on your divine authority**, roll+CHA. ✴O
 - Back away cautiously, then flee
 - Attack you
 
-✴On a 10+, you also take +1 forward against them. ✴On a miss, they do as they please and you take -1 forward against them.
+✴On a 10+, you also take +1 forward against them. ✴On a 6-, they do as they please and you take -1 forward against them.
 
 ### Quest
 
@@ -69,7 +69,7 @@ When you **dedicate yourself to a mission through prayer and ritual cleansing**,
 Then choose up to two boons:
 
 - An unwavering sense of direction to \_\_\_\_\_\_\_.
-- Invulnerability to \_\_\_\_\_\_\_ \(e.g., edged weapons, fire, enchantment, etc.\)
+- Invulnerability to \_\_\_\_\_\_\_ (e.g., edged weapons, fire, enchantment, etc.)
 - A mark of divine authority
 - Senses that pierce lies
 - A voice that transcends language
@@ -77,12 +77,12 @@ Then choose up to two boons:
 
 The GM will then tell you what vow or vows is required of you to maintain your blessing:
 
-- Honor \(forbidden: cowardly tactics and tricks\)
-- Temperance \(forbidden: gluttony in food, drink, and pleasure of the flesh\)
-- Piety \(required: observance of daily holy services\)
-- Valor \(forbidden: suffering an evil creature to live\)
-- Truth \(forbidden: lies\)
-- Hospitality \(required: comfort to those in need, no matter who they are\)
+- Honor (forbidden: cowardly tactics and tricks)
+- Temperance (forbidden: gluttony in food, drink, and pleasure of the flesh)
+- Piety (required: observance of daily holy services)
+- Valor (forbidden: suffering an evil creature to live)
+- Truth (forbidden: lies)
+- Hospitality (required: comfort to those in need, no matter who they are)
 
 ## Alignment
 
@@ -98,15 +98,15 @@ Endanger yourself to protect someone weaker than you.
 
 ## Gear
 
-Your load is 12+STR. You start with dungeon rations \(5 uses, 1 weight\), scale armor \(2 armor, 3 weight\), and some mark of faith, describe it \(0 weight\). Choose your weapon:
+Your load is 12+STR. You start with dungeon rations (5 uses, 1 weight), scale armor (2 armor, 3 weight), and some mark of faith, describe it (0 weight). Choose your weapon:
 
-- Halberd \(reach, +1 damage, two-handed, 2 weight\)
-- Long sword \(close, +1 damage, 1 weight\) and shield \(+1 armor, 2 weight\)
+- Halberd (reach, +1 damage, two-handed, 2 weight)
+- Long sword (close, +1 damage, 1 weight) and shield (+1 armor, 2 weight)
 
 Choose one:
 
-- Adventuring gear \(1 weight\)
-- Dungeon rations \(1 weight\) and healing potion \(0 weight\)
+- Adventuring gear (1 weight)
+- Dungeon rations (1 weight) and healing potion (0 weight)
 
 ## Bonds
 
@@ -126,7 +126,7 @@ I respect the beliefs of \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ but hope they will somed
 
 ### Divine Favor
 
-Dedicate yourself to a deity \(name a new one or choose one that’s already been established\). You gain the commune and cast a spell cleric moves. When you select this move, treat yourself as a cleric of level 1 for using spells. Every time you gain a level thereafter, increase your effective cleric level by 1.
+Dedicate yourself to a deity (name a new one or choose one that’s already been established). You gain the commune and cast a spell cleric moves. When you select this move, treat yourself as a cleric of level 1 for using spells. Every time you gain a level thereafter, increase your effective cleric level by 1.
 
 ### Bloody Aegis
 
@@ -220,7 +220,7 @@ When you heal an ally, you heal +2d8 damage.
 
 ### Indomitable
 
-When you suffer a debility \(even through Bloody Aegis\) take +1 forward against whatever caused it.
+When you suffer a debility (even through Bloody Aegis) take +1 forward against whatever caused it.
 
 ### Perfect Knight
 

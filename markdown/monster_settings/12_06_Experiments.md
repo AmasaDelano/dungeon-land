@@ -4,7 +4,7 @@
 
 *Solitary, Huge, Construct*
 
-Bite \(d10+5 damage, 3 piercing\) *Close, Forceful*
+Bite (d10+5 damage, 3 piercing) *Close, Forceful*
 
 20 HP 3 Armor
 
@@ -20,7 +20,7 @@ A seasoned caravan guard learns to listen for the calls of a scout or sentry wit
 
 *Solitary, Large, Construct*
 
-Bite \(d10+1 damage\) *Reach*
+Bite (d10+1 damage) *Reach*
 
 16 HP 1 Armor
 
@@ -34,7 +34,7 @@ Well-known and categorized, the chimera is a perfected creature. From the codice
 
 *Horde, Devious, Intelligent, Organized*
 
-Pickaxe \(d6 damage\) *Close*
+Pickaxe (d6 damage) *Close*
 
 3 HP 2 Armor
 
@@ -49,7 +49,7 @@ It’s typical to think that all the malignant arcane monsters made in this worl
 
 *Solitary, Large, Construct*
 
-Acid \(d10+1 damage ignores armor\) *Close, Reach*
+Acid (d10+1 damage ignores armor) *Close, Reach*
 
 16 HP 1 Armor
 
@@ -64,7 +64,7 @@ It’s okay, magical experimentation is a messy science. For every beautiful peg
 
 *Solitary, Devious, Planar*
 
-Stolen dagger \(w\[2d8\] damage\) *Close, Reach*
+Stolen dagger (w[2d8] damage) *Close, Reach*
 
 12 HP 1 Armor
 
@@ -80,7 +80,7 @@ Things go missing. A sock, a silver spoon, your dead mother’s bones. We blame 
 
 *Solitary, Large, Construct*
 
-Club \(d10+3 damage\) *Close, Reach, Forceful*
+Club (d10+3 damage) *Close, Reach, Forceful*
 
 16 HP 1 Armor
 
@@ -95,7 +95,7 @@ What could possibly be better than an idiotic angry hill giant? One with two hea
 
 *Solitary, Huge*
 
-Rending hands \(d10+5 damage\) *Reach, Forceful*
+Rending hands (d10+5 damage) *Reach, Forceful*
 
 20 HP 1 Armor
 
@@ -111,7 +111,7 @@ The pounding of the jungle drums calls to it. The slab of meat on the sacrificia
 
 *Group, Large, Construct*
 
-Metal fists \(d8+5 damage\) *Close, Reach, Forceful*
+Metal fists (d8+5 damage) *Close, Reach, Forceful*
 
 10 HP 3 Armor
 
@@ -126,13 +126,13 @@ A staple of the enchanter’s art. Every golemist and mechano-thaumaturge in the
 
 *Horde*
 
-Miscellaneous Claws and Teeth \(d6+2 damage\) *Close, Forceful*
+Miscellaneous Claws and Teeth (d6+2 damage) *Close, Forceful*
 
 3 HP 0 Armor
 
 **Special Qualities:** Many body parts
 
-Stolen bits and pieces in the night. Graveyards stealthily uprooted and maybe tonight an arm, a leg, another head \(the last one came apart too soon\). Even the humblest hedge-enchanter can make do with what he can and, with a little creativity, well—it’s not only the college that can make life, hmm? We’ll show them. *Instinct*: To live
+Stolen bits and pieces in the night. Graveyards stealthily uprooted and maybe tonight an arm, a leg, another head (the last one came apart too soon). Even the humblest hedge-enchanter can make do with what he can and, with a little creativity, well—it’s not only the college that can make life, hmm? We’ll show them. *Instinct*: To live
 
 - Follow orders
 - Detach a body part
@@ -141,7 +141,7 @@ Stolen bits and pieces in the night. Graveyards stealthily uprooted and maybe to
 
 *Solitary, Huge*
 
-Giant tentacles \(d10+5 damage\) *Reach, Forceful*
+Giant tentacles (d10+5 damage) *Reach, Forceful*
 
 20 HP 2 Armor
 
@@ -157,7 +157,7 @@ Giant tentacles \(d10+5 damage\) *Reach, Forceful*
 
 *Solitary, Large, Construct*
 
-Stinger \(d10+1 damage, 1 piercing\) *Close, Reach, Messy*
+Stinger (d10+1 damage, 1 piercing) *Close, Reach, Messy*
 
 16 HP 3 Armor
 
@@ -172,7 +172,7 @@ If the chimera is the first step down a dark path, the manticore is a door that 
 
 *Solitary, Construct*
 
-Claws \(d10 damage\) *Close*
+Claws (d10 damage) *Close*
 
 12 HP 2 Armor
 
@@ -184,7 +184,7 @@ Body of a bear. Feathers of an owl. Beak, claws, and excellent night vision. Wha
 
 *Group, Construct*
 
-Sharp hooves \(d8 damage\) *Close*
+Sharp hooves (d8 damage) *Close*
 
 10 HP 1 Armor
 
@@ -199,7 +199,7 @@ Don’t go thinking that every creature not natural-born is a horrible abominati
 
 *Group, Construct*
 
-Corrosive touch \(d8 damage, ignores armor\) *Close*
+Corrosive touch (d8 damage, ignores armor) *Close*
 
 6 HP 3 Armor
 
@@ -214,7 +214,7 @@ A very distinctive-looking creature. Something like a reddish cricket, I think. 
 
 *Solitary, Large, Construct*
 
-Maw \(d10 damage\) *Close, Reach*
+Maw (d10 damage) *Close, Reach*
 
 12 HP 2 Armor
 

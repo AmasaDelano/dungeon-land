@@ -4,7 +4,7 @@ Great heroes need horrendous antagonists. This section is about how to create an
 
 ## Using Monsters
 
-A monster is any living \(or undead\) thing that stands in the characters’ way.
+A monster is any living (or undead) thing that stands in the characters’ way.
 
 How you use these monsters follows directly from your agenda and principles. Stay true to your principles, use your moves and pursue your agenda—you can’t go wrong.
 
@@ -16,7 +16,7 @@ The principle of *think dangerous* sums up that philosophy—think of every mons
 
 A monster stops being mere ammunition when something in the world puts the spotlight on it. This might be a spout lore roll that leads your description in an interesting direction or the result of your asking questions and building on the players’ answers. Maybe the characters were overwhelmed in battle and had to run away, giving them a new-found fear and respect for the beast they fought. When these things happen, feel free to give the monster a name and consider creating a danger to represent it.
 
-One thing that your agenda and principles don’t say anything about is setting up a fair fight. Heroes are often outnumbered or faced with ridiculous odds—sometimes they have to retreat and make a new plan. Sometimes they suffer loss. When adding a monster to a front, placing them in a dungeon, or making them up on the fly your first responsibility is to the fiction \(*portray a fantastic world*\) and to give the characters a real threat \(*make the characters heroes*\), not to make a balanced fight. Dungeon World isn’t about balancing encounter levels or counting experience points; it’s about adventure and death-defying feats\!
+One thing that your agenda and principles don’t say anything about is setting up a fair fight. Heroes are often outnumbered or faced with ridiculous odds—sometimes they have to retreat and make a new plan. Sometimes they suffer loss. When adding a monster to a front, placing them in a dungeon, or making them up on the fly your first responsibility is to the fiction (*portray a fantastic world*) and to give the characters a real threat (*make the characters heroes*), not to make a balanced fight. Dungeon World isn’t about balancing encounter levels or counting experience points; it’s about adventure and death-defying feats!
 
 ## Elements of a Monster
 
@@ -28,7 +28,7 @@ The monster’s **description** is where all its other features come from. The d
 
 **Damage** is a measure of how much pain the monster can inflict at once. Just like player damage it’s a die to roll, maybe with some modifiers. A monster deals its damage to another monster or a player whenever it causes them physical harm.
 
-Each monster has **tags** that describe how it deals damage, including the range\(s\) of its attacks. When trying to attack something out of its range \(too close or too far\) the monster’s out of luck, no damage. Any tag that can go on a weapon \(like messy or slow\) can also go on a monster.
+Each monster has **tags** that describe how it deals damage, including the range(s) of its attacks. When trying to attack something out of its range (too close or too far) the monster’s out of luck, no damage. Any tag that can go on a weapon (like messy or slow) can also go on a monster.
 
 There are special tags that apply only to monsters. These tags, listed below, describe the key attributes of the monster—qualities that describe how big they are and how, if at all, they organize themselves.
 
@@ -130,7 +130,7 @@ This is its instinct. Write it as an intended action.
 - Plate or bone: 3 armor
 - Permanent magical protection: 4 armor, magical
 
-### What is it known for? \(Choose all that apply\)
+### What is it known for? (Choose all that apply)
 
 - Unrelenting strength: +2 damage, forceful
 - Skill in offense: roll damage twice and take the better roll
@@ -139,7 +139,7 @@ This is its instinct. Write it as an intended action.
 - Uncanny endurance: +4 HP
 - Deceit and trickery: stealthy, write a move about dirty tricks
 - A useful adaptation like being amphibious or having wings: Add a special quality for the adaptation
-- The favor of the gods: divine, +2 damage or +2 HP or both \(your call\)
+- The favor of the gods: divine, +2 damage or +2 HP or both (your call)
 - Spells and magic: magical, write a move about its spells
 
 ### What is its most common form of attack?
@@ -150,34 +150,34 @@ Note it along with the creature’s damage. Common answers include: a type of we
 - It lets the monster keep others at bay: reach
 - Its armaments are small and weak: reduce its damage die size by one
 - Its armaments can slice or pierce metal: messy, +1 piercing or +3 piercing if it can just tear metal apart
-- Armor doesn’t help with the damage it deals \(due to magic, size, etc.\): ignores armor
-- It usually attacks at range \(with arrows, spells, or other projectiles\): near or far or both \(your call\)
+- Armor doesn’t help with the damage it deals (due to magic, size, etc.): ignores armor
+- It usually attacks at range (with arrows, spells, or other projectiles): near or far or both (your call)
 
-### Which of these describe it? \(Choose all that apply\)
+### Which of these describe it? (Choose all that apply)
 
 - It isn’t dangerous because of the wounds it inflicts, but for other reasons: devious, reduce its damage die size by one, write a move about why it’s dangerous
 - It organizes into larger groups that it can call on for support: organized, write a move about calling on others for help
 - It’s as smart as a human or thereabouts: intelligent
 - It actively defends itself with a shield or similar: cautious, +1 Armor
-- It collects trinkets that humans would consider valuable \(gold, gems, secrets\): hoarder
+- It collects trinkets that humans would consider valuable (gold, gems, secrets): hoarder
 - It’s from beyond this world: planar, write a move about using its otherworldly knowledge and power
 - It’s kept alive by something beyond simple biology: +4 HP
 - It was made by someone: construct, give it a special quality or two about its construction or purpose
 - Its appearance is disturbing, terrible, or horrible: terrifying, write a special quality about why it’s so horrendous
 - It doesn’t have organs or discernible anatomy: amorphous, +1 Armor, +3 HP
-- It \(or its species\) is ancient—older than man, elves, and dwarves: increase its damage die size by one
+- It (or its species) is ancient—older than man, elves, and dwarves: increase its damage die size by one
 - It abhors violence: roll damage twice and take the worst result
 
 ## Treasure
 
-Monsters, much like adventurers, collect shiny useful things. When the players search the belongings of a monster \(be they on their person or tucked away somewhere\) describe them honestly.
+Monsters, much like adventurers, collect shiny useful things. When the players search the belongings of a monster (be they on their person or tucked away somewhere) describe them honestly.
 
 If the monster has accumulated some wealth you can roll that randomly. Start with the monster’s damage die, modified if the monster is:
 
 - Hoarder: roll damage die twice, take higher result
-- Far from home: add at least one ration \(usable by anyone with similar taste\)
+- Far from home: add at least one ration (usable by anyone with similar taste)
 - Magical: some strange item, possibly magical
-- Divine: a sign of a deity \(or deities\)
+- Divine: a sign of a deity (or deities)
 - Planar: something not of this earth
 - Lord over others: +1d4 to the roll
 - Ancient and noteworthy: +1d4 to the roll
@@ -187,19 +187,19 @@ Roll the monster’s damage die plus any added dice to find the monster’s trea
 1. A few coins, 2d8 or so
 2. An item useful to the current situation
 3. Several coins, about 4d10
-4. A small item \(gem, art\) of considerable value, worth as much as 2d10×10 coins, 0 weight
+4. A small item (gem, art) of considerable value, worth as much as 2d10×10 coins, 0 weight
 5. Some minor magical trinket
-6. Useful information \(in the form of clues, notes, etc.\)
+6. Useful information (in the form of clues, notes, etc.)
 7. A bag of coins, 1d4×100 or thereabouts. 1 weight per 100.
-8. A very valuable small item \(gem, art\) worth 2d6×100, 0 weight
+8. A very valuable small item (gem, art) worth 2d6×100, 0 weight
 9. A chest of coins and other small valuables. 1 weight but worth 3d6×100 coins.
 10. A magical item or magical effect
 11. Many bags of coins for a total of 2d4×100 or so
-12. A sign of office \(crown, banner\) worth at least 3d4×100 coins
+12. A sign of office (crown, banner) worth at least 3d4×100 coins
 13. A large art item worth 4d4×100 coins, 1 weight
 14. A unique item worth at least 5d4×100 coins
 15. All the information needed to learn a new spell and roll again
-16. A portal or secret path \(or directions to one\) and roll again
+16. A portal or secret path (or directions to one) and roll again
 17. Something relating to one of the characters and roll again
 18. A hoard: 1d10×1000 coins and 1d10×10 gems worth 2d6×100 each
 

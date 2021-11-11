@@ -68,7 +68,7 @@ Chose a tell—a physical attribute that marks you as born of the soil—that re
 
 ### By Nature Sustained
 
-You don’t need to eat or drink. If a move tells you to mark off a ration just ignore it.
+You don’t need to eat or drink. If a move tells you to mark off a ration, you don't.
 
 ### Spirit Tongue
 
@@ -76,9 +76,13 @@ The grunts, barks, chirps, and calls of the creatures of the wild are as languag
 
 ### Shapeshifter
 
-When you call upon the spirits to change your shape, roll+WIS. ✴On a 10+ hold 3. ✴On a 7–9 hold 2. ✴On a miss hold 1 in addition to whatever the GM says.
+When you call upon the spirits to change your shape, roll+WIS. ✴On a 10+ hold 3. ✴On a 7–9 hold 2. ✴On a 6- hold 1 in addition to whatever the GM says.
 
-You may take on the physical form of any species whose essence you have studied or who lives in your land: you and your possessions meld into a perfect copy of the species’ form. You have any innate abilities and weaknesses of the form: claws, wings, gills, breathing water instead of air. You still use your normal stats but some moves may be harder to trigger—a housecat will find it hard to do battle with an ogre. The GM will also tell you one or more moves associated with your new form. Spend 1 hold to make that move. Once you’re out of hold, you return to your natural form. At any time, you may spend all your hold and revert to your natural form.
+You may take on the physical form of any species whose essence you have studied or who lives in your land: you and your possessions meld into a perfect copy of the species’ form, tell us what it looks like and how long it takes. You have any innate abilities and weaknesses of the form: claws, wings, gills, breathing water instead of air. You still use your normal stats but some moves may be harder to trigger—a housecat will find it hard to do battle with an ogre.
+
+When you take on a new form, the GM will also tell you one or more actions associated with your new form (for example, something useful, something obvious, and something unusual). Spend 1 hold to take that action, no roll needed.
+
+Once you’re out of hold, you return to your natural form, the GM will say when. At any time you choose, you may spend all your hold and revert to your natural form.
 
 ### Studied Essence
 
@@ -106,21 +110,21 @@ Your load is 6+STR. You carry some token of your land, describe it.
 
 Choose your defenses:
 
-- Hide armor \(1 armor, 1 weight\)
-- Wooden shield \(+1 armor, 1 weight\)
+- Hide armor (1 armor, 1 weight)
+- Wooden shield (+1 armor, 1 weight)
 
 Choose your armament:
 
-- Shillelagh \(close, 2 weight\)
-- Staff \(close, two-handed, 1 weight\)
-- Spear \(close, thrown, near, 1 weight\)
+- Shillelagh (close, 2 weight)
+- Staff (close, two-handed, 1 weight)
+- Spear (close, thrown, near, 1 weight)
 
 Choose one:
 
-- Adventuring gear \(1 weight\)
-- Poultices and herbs \(2 uses, 1 weight\)
-- Halfling pipeleaf \(0 weight\)
-- 3 antitoxin \(0 weight\)
+- Adventuring gear (1 weight)
+- Poultices and herbs (2 uses, 1 weight)
+- Halfling pipeleaf (0 weight)
+- 3 antitoxin (0 weight)
 
 ## Bonds
 
@@ -144,11 +148,11 @@ Choose one move from the ranger class list.
 
 ### Red of Tooth and Claw
 
-When you **are in an appropriate animal form** \(something dangerous\) increase your damage to d8.
+When you **are in an appropriate animal form** (something dangerous) increase your damage to d8.
 
 ### Communion of Whispers
 
-When **you spend time in a place, making note of its resident spirits and calling on the spirits of the land**, roll+WIS. You will be granted a vision of significance to you, your allies, and the spirits around you. ✴On a 10+ the vision will be clear and helpful to you. ✴On a 7–9 the vision is unclear, its meaning murky. ✴On a miss, the vision is upsetting, frightening, or traumatizing. The GM will describe it. Take -1 forward.
+When **you spend time in a place, making note of its resident spirits and calling on the spirits of the land**, roll+WIS. You will be granted a vision of significance to you, your allies, and the spirits around you. ✴On a 10+ the vision will be clear and helpful to you. ✴On a 7–9 the vision is unclear, its meaning murky. ✴On a 6-, the vision is upsetting, frightening, or traumatizing. The GM will describe it. Take -1 forward.
 
 ### Barkskin
 
@@ -156,7 +160,7 @@ So long as your feet touch the ground you have +1 armor.
 
 ### Eyes of the Tiger
 
-When you mark an animal \(with mud, dirt, or blood\) you can see through that animal’s eyes as if they were your own, no matter what distance separates you. Only one animal at a time may be marked in this way.
+When you mark an animal (with mud, dirt, or blood) you can see through that animal’s eyes as if they were your own, no matter what distance separates you. Only one animal at a time may be marked in this way.
 
 ### Shed
 
@@ -164,7 +168,7 @@ When you **take damage while shapeshifted** you may choose to revert to your nat
 
 ### Thing-Talker
 
-You see the spirits in the sand, the sea and the stone. You may now apply your spirit tongue, shapeshifting and studied essence to inanimate natural objects \(plants and rocks\) or creatures made thereof, as well as animals. Thing- talker forms can be exact copies or can be mobile vaguely humanoid-shaped entities.
+You see the spirits in the sand, the sea and the stone. You may now apply your spirit tongue, shapeshifting and studied essence to inanimate natural objects (plants and rocks) or creatures made thereof, as well as animals. Thing- talker forms can be exact copies or can be mobile vaguely humanoid-shaped entities.
 
 ### Formcrafter
 
@@ -172,11 +176,12 @@ When you shapeshift choose a stat: you take +1 ongoing to rolls using that stat 
 
 ### Elemental Mastery
 
-When you **call on the primal spirits of fire, water, earth or air to perform a task for you** roll+WIS. ✴On a 10+ choose two. ✴On a 7–9 choose one. ✴On a miss, some catastrophe occurs as a result of your calling.
+When you **call on the primal spirits of fire, water, earth or air to perform a task for you** roll+WIS. ✴On a 7+, the effect you desire comes to pass. ✴On a 10+ choose one. ✴On a 7–9 choose both.
 
-- The effect you desire comes to pass
-- You avoid paying nature’s price
-- You retain control
+- You pay nature’s price
+- You lose control
+
+✴On a 6-, some catastrophe occurs as a result of your calling.
 
 ### Balance
 
@@ -196,7 +201,7 @@ You are able to study the essence of specific individuals to take their exact fo
 
 *Replaces: Red of Tooth and Claw*
 
-When you **are in an appropriate animal form** \(something dangerous\) increase your damage to d10.
+When you **are in an appropriate animal form** (something dangerous) increase your damage to d10.
 
 ### The Druid Sleep
 

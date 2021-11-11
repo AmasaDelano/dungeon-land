@@ -12,17 +12,22 @@ Each move is presented here starting with its name, then the rules of the move. 
 
 ## Hack and Slash
 
-When you **attack an enemy in melee**, roll+STR. ✴On a 10+, you deal your damage to the enemy and avoid their attack. At your option, you may choose to do +1d6 damage but expose yourself to the enemy’s attack. ✴On a 7–9, you deal your damage to the enemy and the enemy makes an attack against you.
+When you **attack one or more prepared enemies in melee**, roll+STR. ✴On a 10+, you deal your damage to them and choose one:
+
+- Avoid their attack
+- Do +1d6 damage
+
+✴On a 7–9, you deal your damage to the enemy and the enemy makes an attack against you.
 
 ---
 
 Hack and slash is for attacking a prepared enemy plain and simple. If the enemy isn’t prepared for your attack—if they don’t know you’re there or they’re restrained and helpless—then that’s not hack and slash. You just deal your damage or murder them outright, depending on the situation. Nasty stuff.
 
+If the action that triggers the move could reasonably hurt multiple targets, roll once and apply damage to each target (they each get their armor).
+
 The enemy’s counterattack can be any GM move made directly with that creature. A goblin might just attack you back, or they might jam a poisoned needle into your veins. Life’s tough, isn’t it?
 
-Note that an “attack” is some action that a player undertakes that has a chance of causing physical harm to someone else. Attacking a dragon with inch- thick metal scales full of magical energy using a typical sword is like swinging a meat cleaver at a tank: it just isn’t going to cause any harm, so hack and slash doesn’t apply. Note that circumstances can change that: if you’re in a position to stab the dragon on its soft underbelly \(good luck with getting there\) it could hurt, so it’s an attack.
-
-If the action that triggers the move could reasonably hurt multiple targets roll once and apply damage to each target \(they each get their armor\).
+Note that an “attack” is some action that a player undertakes that has a chance of causing physical harm to someone else. Attacking a dragon with inch-thick metal scales full of magical energy using a typical sword is like swinging a meat cleaver at a tank: it just isn’t going to cause any harm, so hack and slash doesn’t apply. Note that circumstances can change that: if you’re in a position to stab the dragon on its soft underbelly (good luck with getting there) it could hurt, so it’s an attack.
 
 Some attacks may have additional effects depending on the triggering action, the circumstances, or the weapons involved. An attack could also knock someone down, restrain them, or leave a big bloody splatter.
 
@@ -58,11 +63,11 @@ Some attacks may have additional effects depending on the triggering action, the
 
 ## Volley
 
-When you **take aim and shoot at an enemy at range**, roll+DEX. ✴On a 10+, you have a clear shot—deal your damage. ✴On a 7–9, choose one \(whichever you choose you deal your damage\):
+When you **take aim and shoot at an enemy at range**, roll+DEX. ✴On a 10+, you have a clear shot—deal your damage. ✴On a 7–9, deal your damage and choose one that's possible in the fiction:
 
-- You have to move to get the shot placing you in danger as described by the GM
-- You have to take what you can get: -1d6 damage
-- You have to take several shots, reducing your ammo by one
+- You have to move to get the shot placing you in danger as described by the GM.
+- You have to take what you can get: -1d6 damage.
+- You have to take several shots, reducing your ammo by one.
 
 ---
 
@@ -70,7 +75,7 @@ Volley covers the entire act of drawing, aiming, and firing a ranged weapon or t
 
 On a 7–9, read “danger” broadly. It can be bad footing or ending in the path of a sword or maybe just giving up your sweet sniper nest to your enemies. Whatever it is, it’s impending and it’s always something that causes the GM to say “What do you do?” Quite often, the danger will be something that will then require you to dedicate yourself to avoiding it or force you to defy danger.
 
-If you’re throwing something that doesn’t have ammo \(maybe you’ve got a move that makes your shield throwable\) you can’t choose to mark off ammo. Choose from the other two options instead.
+If you’re throwing something that doesn’t have ammo (maybe you’ve got a move that makes your shield throwable) you can’t choose to mark off ammo. Choose from the other two options instead.
 
 > Aranwe: So, I’m stuck down here on the floor of the ritualarium and that orc eyegouger is chanting his ritual up on the pedestal? Since Thelian has the rest of the rabble busy, I’ll aim my bow and take a shot at the chanting orc.
 >
@@ -94,7 +99,7 @@ If you’re throwing something that doesn’t have ammo \(maybe you’ve got a m
 
 ## Defy Danger
 
-When you **act despite an imminent threat** or **suffer a calamity**, say how you deal with it and roll. If you do it…
+When you **act despite a previously established threat not covered by another move, say how you deal with it** and roll. If you do it…
 
 - …by powering through, +STR
 - …by getting out of the way or acting fast, +DEX
@@ -103,15 +108,15 @@ When you **act despite an imminent threat** or **suffer a calamity**, say how yo
 - …through mental fortitude, +WIS
 - …using charm and social grace, +CHA
 
-✴On a 10+, you do what you set out to, the threat doesn’t come to bear. ✴On a 7–9, you stumble, hesitate, or flinch: the GM will offer you a worse outcome, hard bargain, or ugly choice.
+✴On a 10+, you do what you set out to, the threat doesn’t come to bear. ✴On a 7–9,<!-- you stumble, hesitate, or flinch:--> the GM will offer you a worse outcome, hard bargain, or ugly choice.
 
 ---
 
-You defy danger when you do something in the face of impending peril. This may seem like a catch-all. It is\! Defy danger is for those times when it seems like you clearly should be rolling but no other move applies.
+You defy danger when you do something in the face of impending peril. Defy danger is a catch-all for those times when it seems like you clearly should be rolling but no other move applies.
 
 Defy danger also applies when you make another move despite danger not covered by that move. For example, hack and slash assumes that’s you’re trading blows in battle—you don’t need to defy danger because of the monster you’re fighting unless there’s some specific danger that wouldn’t be part of your normal attack. On the other hand, if you’re trying to hack and slash while spikes shoot from hidden traps in the walls, those spikes are a whole different danger.
 
-Danger, here, is anything that requires resilience, concentration, or poise. This move will usually be called for by the GM. She’ll tell you what the danger is as you make the move. Something like “You’ll have to defy danger first. The danger is the steep and icy floor you’re running across. If you can keep your footing, you can make it to the door before the necromancer’s magic gets you.”
+Danger, here, is anything that requires resilience, concentration, or poise. The GM will tell you what the danger is as or before you make the move. Something like “You’ll have to defy danger first. The danger is the steep and icy floor you’re running across. If you can keep your footing, you can make it to the door before the necromancer’s magic gets you.”
 
 Which stat applies depends on what action you take and your action has to trigger the move. That means you can’t defy danger from a steep and icy floor with a charming smile just so you can use CHA, since charmingly smiling at the icy floor does nothing to it. On the other hand, making a huge leap over the ice would be STR, placing your feet carefully would be DEX, and so on. Make the move to get the results.
 
@@ -147,8 +152,10 @@ When you **stand in defense of a person, item, or location** under attack, roll+
 
 - Redirect an attack from the thing you defend to yourself
 - Halve the attack’s effect or damage
-- Open up the attacker to an ally giving that ally +1 forward against the attacker
+- Open up the attacker to an ally, giving that ally +1 forward against the attacker
 - Deal damage to the attacker equal to your level
+
+When you’re no longer near what you defend or you stop devoting your attention to incoming attacks, you lose all remaining hold.
 
 ---
 
@@ -194,7 +201,9 @@ Defending yourself is certainly an option. It amounts to giving up on making att
 
 ## Spout Lore
 
-When you **consult your accumulated knowledge about something**, roll+INT. ✴On a 10+, the GM will tell you something interesting and useful about the subject relevant to your situation. ✴On a 7–9, the GM will only tell you something interesting—it’s on you to make it useful. The GM might ask you “How do you know this?” Tell them the truth, now.
+When you **wonder if or declare that you know something about the world**, the GM will tell you what's common knowledge, then ask, "Do you think you know more?"
+
+If you say "Yes," **clarify what would be useful for you to know in this situation** and **explain why you probably know it**, then roll+INT. On a 10+, the GM will tell you something interesting and useful. On a 7–9, the GM will only tell you something interesting—it’s on you to make it useful. On a 6-, the GM will tell you something true, though not necessarily what you wanted to know.
 
 ---
 
@@ -202,7 +211,7 @@ You spout lore any time you want to search your memory for knowledge or facts ab
 
 The knowledge you get is like consulting a bestiary, travel guide, or library. You get facts about the subject matter. On a 10+ the GM will show you how those facts can be immediately useful, on a 7–9 they’re just facts.
 
-On a miss the GM’s move will often involve the time you take thinking. Maybe you miss that goblin moving around behind you, or the tripwire across the hallway. It’s also a great chance to reveal an unwelcome truth.
+On a 6-, the GM’s move will often involve the time you take thinking. Maybe you miss that goblin moving around behind you, or the tripwire across the hallway. It’s also a great chance to reveal an unwelcome truth.
 
 Just in case it isn’t clear: the answers are always true, even if the GM had to make them up on the spot. Always say what honesty demands.
 
@@ -232,16 +241,20 @@ Just in case it isn’t clear: the answers are always true, even if the GM had t
 
 ## Discern Realities
 
-When you **closely study a situation or person**, roll+WIS. ✴On a 10+, ask the GM 3 questions from the list below. ✴On a 7–9, ask 1.
+When you **observe a situation or person**, the GM will tell you what's obvious and clear, then ask, "Do you want to learn more?"
 
-Either way, take +1 forward when acting on the answers.
+If you say "Yes," **clarify how you act to get extra info** and **what you pay close attention to**, then roll+WIS. On a 10+, ask the GM 3 questions from the list below. On a 7–9, ask 1.
 
-- What happened here recently?
-- What is about to happen?
-- What should I be on the lookout for?
-- What here is useful or valuable to me?
-- Who’s really in control here?
-- What here is not what it appears to be?
+The GM will answer your questions truthfully. Take +1 forward when acting on the answers.
+
+• What happened here recently?
+• What is about to happen?
+• What should I be on the lookout for?
+• What here is useful or valuable to me?
+• Who’s really in control here?
+• What here is not what it appears to be?
+
+On a 6-, the GM will tell you something true, though not necessarily what you wanted to know.
 
 ---
 
@@ -285,7 +298,7 @@ On a 7+ they ask you for something related to whatever leverage you have. If you
 
 Whatever they ask for, on a 10+, you just have to promise it clearly and unambiguously. On a 7–9, that’s not enough: you also have to give them some assurance, right now, before they do what you want. If you promise that you’ll ensure their safety from the wolves if they do what you want and you roll a 7–9 they won’t do their part until you bring a fresh wolf pelt to prove you can do it, for example. It’s worth noting that you don’t actually have to keep your promise. Whether you’ll follow up or not, well, that’s up to you. Of course breaking promises leads to problems. People don’t take kindly to oath- breakers and aren’t likely to deal with them in the future.
 
-In some cases when you state what you want you may include a possible promise for the creature to make, as in “flee and I’ll let you live.” It’s up to the target of the parley if that’s the promise they want or if they have something else in mind. They can say “yes, let me live and I’ll go” \(with assurances, if you rolled a 7–9\) or “promise me you won’t follow me.”
+In some cases when you state what you want you may include a possible promise for the creature to make, as in “flee and I’ll let you live.” It’s up to the target of the parley if that’s the promise they want or if they have something else in mind. They can say “yes, let me live and I’ll go” (with assurances, if you rolled a 7–9) or “promise me you won’t follow me.”
 
 > Leena: “Lord Hywn, I need you to vouch for me or the Queen will never grant me an audience.”
 >
@@ -319,6 +332,8 @@ Aid is a little more obvious. If a player can explain how they’re helping with
 
 No matter how many people aid or interfere with a given roll, the target only gets the +1 or -2 once. Even if a whole party of adventurers aid in attacking an ogre, the one who makes the final attack only gets +1.
 
+If you aid or interfere with someone who you have no bonds with, you roll+0.
+
 > GM: Ozruk, you stand alone and bloodied before a pack of angry hellhounds. Behind you cowers the Prince of Lescia, weeping in terror.
 >
 > Ozruk: I stand firm and lift my shield. Despite certain doom, I will do my duty and defend the princeling.
@@ -333,13 +348,19 @@ Special moves are moves that come up less often or in more specific situations. 
 
 ## Last Breath
 
-When **you’re dying** you catch a glimpse of what lies beyond the Black Gates of Death’s Kingdom \(the GM will describe it\). Then roll \(just roll, +nothing—yeah, Death doesn’t care how tough or cool you are\). ✴On a 10+, you’ve cheated Death—you’re in a bad spot but you’re still alive. ✴On a 7–9, Death himself will offer you a bargain. Take it and stabilize or refuse and pass beyond the Black Gates into whatever fate awaits you. ✴On 6-, your fate is sealed. You’re marked as Death’s own and you’ll cross the threshold soon. The GM will tell you when.
+When **you’re dying** you catch a glimpse of what lies beyond the Black Gates of Death’s Kingdom (the GM will describe it). Then roll (just roll, +nothing—yeah, Death doesn’t care how tough or cool you are). ✴On a 10+, you’ve cheated Death—you’re in a bad spot but you’re still alive. ✴On a 7–9, Death himself will offer you a bargain. Take it and stabilize or refuse and pass beyond the Black Gates into whatever fate awaits you. ✴On 6-, your fate is sealed. You’re marked as Death’s own and you’ll cross the threshold soon. The GM will tell you when.
 
 ---
 
+No one knows what lies beyond the Black Gates of Death, but it is said that many secrets of the mortal plane are laid bare in the land of Death’s dominion. When you die, you might just see them.
+
+Death offers bargains to some, from the simple to the costly. Death is capricious and may ask a favor in the future or exact a toll. He may demand a sacrifice or ask for something strange and seemingly innocent. Death’s whim cannot be predicted.
+
+Death comes for commoner and king alike—no bonus is ever added to the Last Breath roll, including from aid, unless an effect says so specifically.
+
 The Last Breath is that moment standing between life and death. Time stands still as Death appears to claim the living for his own. Even those who do not pass beyond the Black Gates catch a glimpse of the other side and what might await them—friends and enemies past, rewards or punishment for acts in life or other, stranger vistas. All are changed in some way by this moment—even those who escape.
 
-There are three outcomes to this move. On a 10+, the Character has cheated Death in some meaningful way. He’s escaped with something that, by rights, isn’t his anymore. Death is powerless to stop this, but he remembers this slight. On a 7–9, the GM should offer a real choice with significant consequence. Think about the behaviors of the character and the things you’ve learned about him in play. Death knows and sees all and tailors his bargains accordingly. This is a trade, remember. Offer something that will be a challenge to play out but will lead the game in fun new direction. On a miss, death is inevitable. The most obvious approach is to say “Death takes you across the threshold, into his bleak kingdom.” and move on. However, sometimes Death comes slowly. You might say “you have a week to live” or “you can feel the cold hand of Death on you…” and leave it at that, for now. The player may want to give in and accept death at this point—that’s okay. Let them create a new character as normal. The key thing to remember is that a brush with death, succeed or fail, is a significant moment that should always lead to change.
+There are three outcomes to this move. On a 10+, the Character has cheated Death in some meaningful way. He’s escaped with something that, by rights, isn’t his anymore. Death is powerless to stop this, but he remembers this slight. On a 7–9, the GM should offer a real choice with significant consequence. Think about the behaviors of the character and the things you’ve learned about him in play. Death knows and sees all and tailors his bargains accordingly. This is a trade, remember. Offer something that will be a challenge to play out but will lead the game in fun new direction. On a 6-, death is inevitable. The most obvious approach is to say “Death takes you across the threshold, into his bleak kingdom.” and move on. However, sometimes Death comes slowly. You might say “you have a week to live” or “you can feel the cold hand of Death on you…” and leave it at that, for now. The player may want to give in and accept death at this point—that’s okay. Let them create a new character as normal. The key thing to remember is that a brush with death, succeed or fail, is a significant moment that should always lead to change.
 
 > GM: Sparrow, as the knife blade disappears into your guts, the world fades away and you stand before the Black Gates of Death. Among the throngs of suffering souls, you spot Lord Hwyn, that sickly cur. It looks like all his ill deals caught up with him at last. He spots you across the bleak gulf and you feel the chill of his hunger in your very soul. Take your Last Breath.
 >
@@ -347,7 +368,7 @@ There are three outcomes to this move. On a 10+, the Character has cheated Death
 >
 > GM: Death appears to you, wisps of black cloth dancing around his shadowy form. A pale hand touches your face. You hear his voice in your mind. “Come to me so soon, pretty Sparrow? You follow a river of souls, sent here by your blade. I do so love you for them. I’ll return you to the world, but you must make me a promise. In shadow you dwell, so shadow you shall become. Shun the light of day forever or find a quick trip back to my company. What do you say, little thief?”
 >
-> Sparrow: \(gulp\)
+> Sparrow: (gulp)
 
 ## Encumbrance
 
@@ -365,7 +386,7 @@ This move only applies to things a person could walk around with and still act. 
 
 ## Make Camp
 
-When you **settle in to rest** consume a ration. If you’re somewhere dangerous decide the watch order as well. If you have enough XP you may level up. When you wake from at least a few uninterrupted hours of sleep heal damage equal to half your max HP.
+When you **settle in to rest**, consume a ration. If you’re somewhere dangerous decide the watch order as well. If you have enough XP you may level up. When you wake from at least a few uninterrupted hours of sleep heal damage equal to half your max HP.
 
 ---
 
@@ -375,14 +396,14 @@ Staying a night in an inn or house is making camp, too. Regain your hit points a
 
 ## Take Watch
 
-When **you’re on watch and something approaches the camp** roll+WIS. ✴On a 10+, you’re able to wake the camp and prepare a response, everyone in the camp takes +1 forward. ✴On a 7–9, you react just a moment too late; your companions in camp are awake but haven’t had time to prepare. They have weapons and armor but little else. ✴On a miss, whatever lurks outside the campfire’s light has the drop on you.
+When **you’re on watch and something approaches the camp**, roll+WIS. ✴On a 10+, you’re able to wake the camp and prepare a response, everyone in the camp takes +1 forward. ✴On a 7–9, you react just a moment too late; your companions in camp are awake but haven’t had time to prepare. They have weapons and armor but little else. ✴On a 6-, whatever lurks outside the campfire’s light has the drop on you.
 
 ## Undertake a Perilous Journey
 
 When you **travel through hostile territory**, choose one member of the party to act as *trailblazer*, one to *scout* ahead, and one to be *quartermaster*. Each character with a job to do rolls+WIS. ✴On a 10+:
 
 - the quartermaster reduces the number of rations required by one
-- the trailblazer reduces the amount of time it takes to reach your destination \(the GM will say by how much\)
+- the trailblazer reduces the amount of time it takes to reach your destination (the GM will say by how much)
 - the scout will spot any trouble quick enough to let you get the drop on it
 
 ✴On a 7–9, each role performs their job as expected: the normal number of rations are consumed, the journey takes about as long as expected, no one gets the drop on you but you don’t get the drop on them either.
@@ -399,7 +420,7 @@ This move only applies when you know where you’re going. Setting off to explor
 
 ## End of Session
 
-When you **reach the end of a session**, choose one of your bonds that you feel is resolved \(completely explored, no longer relevant, or otherwise\). Ask the player of the character you have the bond with if they agree. If they do, mark XP and write a new bond with whomever you wish.
+When you **reach the end of a session**, choose one of your bonds that you feel is resolved (completely explored, no longer relevant, or otherwise). Ask the player of the character you have the bond with if they agree. If they do, mark XP and write a new bond with whomever you wish.
 
 Once bonds have been updated look at your alignment. If you fulfilled that alignment at least once this session, mark XP. Then answer these three questions as a group:
 
@@ -411,17 +432,17 @@ For each “yes” answer everyone marks XP.
 
 ## Level Up
 
-When you **have downtime \(hours or days\) and XP equal to \(or greater than\) your current level+7**, you can reflect on your experiences and hone your skills.
+When you **have downtime (hours or days) and XP equal to (or greater than) your current level+7**, you can reflect on your experiences and hone your skills.
 
 - Subtract your current level+7 from your XP.
 - Increase your level by 1.
 - Choose a new advanced move from your class.
 - If you are the wizard, you also get to add a new spell to your spellbook.
-- Choose one of your stats and increase it by 1 \(this may change your modifier\). Changing your Constitution increases your maximum and current HP. Ability scores can’t go higher than 18.
+- Choose one of your stats and increase it by 1 (this may change your modifier). Changing your Constitution increases your maximum and current HP. Ability scores can’t go higher than 18.
 
 ## Carouse
 
-When you **return triumphant and throw a big party**, spend 100 coins and roll +1 for every extra 100 coins spent. ✴On a 10+, choose 3. ✴On a 7–9, choose 1. ✴On a miss, you still choose one, but things get really out of hand \(the GM will say how\).
+When you **return triumphant and throw a big party**, spend 100 coins and roll +1 for every extra 100 coins spent. ✴On a 10+, choose 3. ✴On a 7–9, choose 1. ✴On a 6-, you still choose one, but things get really out of hand (the GM will say how).
 
 - You befriend a useful NPC.
 - You hear rumors of an opportunity.
@@ -438,7 +459,7 @@ When you **go to buy something with gold on hand**, if it’s something readily 
 
 ## Recover
 
-When you **do nothing but rest in comfort and safety** after a day of rest you recover all your HP. After three days of rest you remove one debility of your choice. If you’re under the care of a healer \(magical or otherwise\) you heal a debility for every two days of rest instead.
+When you **do nothing but rest in comfort and safety** after a day of rest you recover all your HP. After three days of rest you remove one debility of your choice. If you’re under the care of a healer (magical or otherwise) you heal a debility for every two days of rest instead.
 
 ## Recruit
 
@@ -449,7 +470,7 @@ When you **put out word that you’re looking to hire help**, roll:
 - +1 if you make it known that they’ll get a share of whatever you find
 - +1 if you have a useful reputation around these parts
 
-✴On a 10+, you’ve got your pick of a number of skilled applicants, your choice who you hire, no penalty for not taking them along. ✴On a 7–9, you’ll have to settle for someone close to what you want or turn them away. ✴On a miss someone influential and ill-suited declares they’d like to come along \(a foolhardy youth, a loose-cannon, or a veiled enemy, for example\), bring them and take the consequences or turn them away. If you turn away applicants you take -1 forward to recruit.
+✴On a 10+, you’ve got your pick of a number of skilled applicants, your choice who you hire, no penalty for not taking them along. ✴On a 7–9, you’ll have to settle for someone close to what you want or turn them away. ✴On a 6- someone influential and ill-suited declares they’d like to come along (a foolhardy youth, a loose-cannon, or a veiled enemy, for example), bring them and take the consequences or turn them away. If you turn away applicants you take -1 forward to recruit.
 
 ## Outstanding Warrants
 

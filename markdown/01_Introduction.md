@@ -98,7 +98,7 @@ This book is going to teach you how to play Dungeon World. If you’re going to 
 
 ## Setting Up
 
-To play Dungeon World, you’ll need to gather yourself and 2–5 friends. A group of 4 to 6, including you, is best. Choose one person to be the Game Master \(GM\). Everyone else will be players, taking the role of the characters in the game \(we call these the player characters or PCs\). As you play, the players say what their characters say, think, and do. The GM describes everything else in the world.
+To play Dungeon World, you’ll need to gather yourself and 2–5 friends. A group of 4 to 6, including you, is best. Choose one person to be the Game Master (GM). Everyone else will be players, taking the role of the characters in the game (we call these the player characters or PCs). As you play, the players say what their characters say, think, and do. The GM describes everything else in the world.
 
 You can play a single session or string together multiple sessions into a campaign. Plan accordingly if you plan on playing a campaign, maybe setting aside a night of the week to play. Each session will usually be a few hours and you’ll be able to start playing right away within the first session.
 

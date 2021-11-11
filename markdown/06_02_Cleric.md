@@ -46,7 +46,7 @@ Your faith is diverse. Choose one wizard spell. You can cast and be granted that
 
 ### Deity
 
-You serve and worship some deity or power which grants you spells. Give your god a name \(maybe Helferth, Sucellus, Zorica or Krugon the Bleak\) and choose your deity’s domain:
+You serve and worship some deity or power which grants you spells. Give your god a name (maybe Helferth, Sucellus, Zorica or Krugon the Bleak) and choose your deity’s domain:
 
 - Healing and Restoration
 - Bloody Conquest
@@ -72,17 +72,17 @@ When you **hold your holy symbol aloft and call on your deity for protection**, 
 
 ### Commune
 
-When you **spend uninterrupted time \(an hour or so\) in quiet communion with your deity**, you:
+When you **spend uninterrupted time (an hour or so) in quiet communion with your deity**, you:
 
 - Lose any spells already granted to you.
-- Are granted new spells of your choice whose total levels don’t exceed your own level+1, and none of which is a higher level than your own level.
-- Prepare all of your rotes, which never count against your limit.
+- Are granted new spells (excluding rotes) of your choice whose total levels don’t exceed your own level+1, and none of which is a higher level than your own level (you may choose the same spell more than once).
+- Are granted each of your rotes once.
 
 ---
 
 If you like you can prepare the same spell more than once.
 
-### Cast a Spell
+### Cast a Spell (WIS)
 
 When you **unleash a spell granted to you by your deity**, roll+WIS. ✴On a 10+, the spell is successfully cast and your deity does not revoke the spell, so you may cast it again. ✴On a 7–9, the spell is cast, but choose one:
 
@@ -110,21 +110,21 @@ Harm another to prove the superiority of your church or god.
 
 ## Gear
 
-Your load is 10+STR. You carry dungeon rations \(5 uses, 1 weight\) and some symbol of the divine, describe it \(0 weight\). Choose your defenses:
+Your load is 10+STR. You carry dungeon rations (5 uses, 1 weight) and some symbol of the divine, describe it (0 weight). Choose your defenses:
 
-- Chainmail \(1 armor, 1 weight\)
-- Shield \(+1 armor, 2 weight\)
+- Chainmail (1 armor, 1 weight)
+- Shield (+1 armor, 2 weight)
 
 Choose your armament:
 
-- Warhammer \(close, 1 weight\)
-- Mace \(close, 1 weight\)
-- Staff \(close, two-handed, 1 weight\) and bandages \(0 weight\)
+- Warhammer (close, 1 weight)
+- Mace (close, 1 weight)
+- Staff (close, two-handed, 1 weight) and bandages (0 weight)
 
 Choose one:
 
-- Adventuring gear \(1 weight\) and dungeon rations \(5 uses, 1 weight\)
-- Healing potion \(0 weight\)
+- Adventuring gear (1 weight) and dungeon rations (5 uses, 1 weight)
+- Healing potion (0 weight)
 
 ## Bonds
 
@@ -144,11 +144,7 @@ I am working on converting \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ to my faith.
 
 ### Chosen One
 
-Choose one spell. You are granted that spell as if it was one level lower.
-
-<!-- ---
-
-If you choose a level 1 spell, it becomes a rote. -->
+Choose one spell. You are granted that spell as if it was one level lower. If you choose a level 1 spell, you are granted it as a rote.
 
 ### Invigorate
 
@@ -168,11 +164,11 @@ Cure Light Wounds is a rote for you, and therefore doesn’t count against your 
 
 ### Divine Intervention
 
-When you commune you get 1 hold and lose any hold you already had. Spend that hold when you or an ally takes damage to call on your deity, they intervene with an appropriate manifestation \(a sudden gust of wind, a lucky slip, a burst of light\) and negate the damage.
+When you commune you get 1 hold and lose any hold you already had. Spend that hold when you or an ally takes damage to call on your deity, they intervene with an appropriate manifestation (a sudden gust of wind, a lucky slip, a burst of light) and negate the damage.
 
 ### Penitent
 
-When you **take damage and embrace the pain**, you may take +1d4 damage \(ignoring armor\). If you do, take +1 forward to cast a spell.
+When you **take damage and embrace the pain**, you may take +1d4 damage (ignoring armor). If you do, take +1 forward to cast a spell.
 
 ### Empower
 
@@ -199,15 +195,11 @@ When you heal someone else of damage, add your level to the amount of damage hea
 
 *Requires: Chosen One*
 
-Choose one spell in addition to the one you picked for chosen one. You are granted that spell as if it was one level lower.
-
-<!-- ---
-
-If you choose a level 1 spell, it becomes a rote. -->
+Choose one spell in addition to the one you picked for chosen one. You are granted that spell as if it was one level lower. If you choose a level 1 spell, you are granted it as a rote.
 
 ### Apotheosis
 
-The first time you **spend time in prayer as appropriate to your god** after taking this move, choose a feature associated with your deity \(rending claws, wings of sapphire feathers, an all-seeing third eye, etc.\). When you emerge from prayer, you permanently gain that physical feature.
+The first time you **spend time in prayer as appropriate to your god** after taking this move, choose a feature associated with your deity (rending claws, wings of sapphire feathers, an all-seeing third eye, etc.). When you emerge from prayer, you permanently gain that physical feature.
 
 ### Reaper
 
@@ -229,13 +221,13 @@ Cure Moderate Wounds is a rote for you, and therefore doesn’t count against yo
 
 *Replaces: Divine Intervention*
 
-When you commune you gain 2 hold and lose any hold you already had. Spend that hold when you or an ally takes damage to call on your deity, who intervenes with an appropriate manifestation \(a sudden gust of wind, a lucky slip, a burst of light\) and negates the damage.
+When you commune you gain 2 hold and lose any hold you already had. Spend that hold when you or an ally takes damage to call on your deity, who intervenes with an appropriate manifestation (a sudden gust of wind, a lucky slip, a burst of light) and negates the damage.
 
 ### Martyr
 
 *Replaces: Penitent*
 
-When you **take damage and embrace the pain**, you may take +1d4 damage \(ignoring armor\). If you do, take +1 forward to cast a spell and add your level to any damage done or healed by the spell.
+When you **take damage and embrace the pain**, you may take +1d4 damage (ignoring armor). If you do, take +1 forward to cast a spell and add your level to any damage done or healed by the spell.
 
 ### Divine Armor
 
@@ -260,7 +252,7 @@ Get one move from another class. Treat your level as one lower for choosing the 
 
 ### Rotes
 
-Every time you commune, you gain access to all<!-- each --> of your rotes <!-- once -->without having to select them or count them toward your allotment of spells.
+Every time you commune, you gain access to each of your rotes once without having to select them or count them toward your allotment of spells.
 
 #### Light
 
@@ -282,7 +274,7 @@ The symbol of your deity appears before you and gestures towards the direction o
 
 ---
 
-It’s up to the creativity of your deity \(and the GM\) to communicate as much as possible through the motions and gestures of your deity’s symbol. You don’t get visions or a voice from heaven, just some visual cue of what your deity would have you do \(even if it’s not in your best interest\).
+It’s up to the creativity of your deity (and the GM) to communicate as much as possible through the motions and gestures of your deity’s symbol. You don’t get visions or a voice from heaven, just some visual cue of what your deity would have you do (even if it’s not in your best interest).
 
 ### Level 1 Spells
 
@@ -296,7 +288,7 @@ Your deity smiles upon a combatant of your choice. They take +1 ongoing so long 
 
 *Level 1*
 
-At your touch wounds scab and bones cease to ache. Heal an ally you touch of 1d8 damage.
+At your touch wounds scab and bones cease to ache. Heal yourself or an ally you touch of 1d8 damage.
 
 #### Detect Alignment
 
@@ -308,7 +300,7 @@ When you cast this spell choose an alignment: Good, Evil, Lawful, or Chaotic. On
 
 *Level 1, Ongoing*
 
-Choose a target you can see and a nearby object. The target is afraid of the object so long as you maintain the spell. Their reaction is up to them: flee, panic, beg, fight. While this spell is ongoing you take -1 to cast a spell. You cannot target entities with less than animal intelligence \(magical constructs, undead, automatons, and the like\).
+Choose a target you can see and a nearby object. The target is afraid of the object so long as you maintain the spell. Their reaction is up to them: flee, panic, beg, fight. While this spell is ongoing you take -1 to cast a spell. You cannot target entities with less than animal intelligence (magical constructs, undead, automatons, and the like).
 
 #### Magic Weapon
 
@@ -326,7 +318,7 @@ That said, even a weak enchantment is nothing to be scoffed at. Having a magic w
 
 *Level 1*
 
-As you cast this spell, you walk the perimeter of an area, consecrating it to your deity. As long as you stay within that area you are alerted whenever someone acts with malice within the sanctuary \(including entering with harmful intent\). Anyone who receives healing within a sanctuary heals +1d4 HP.
+As you cast this spell, you walk the perimeter of an area, consecrating it to your deity. As long as you stay within that area you are alerted whenever someone acts with malice within the sanctuary (including entering with harmful intent). Anyone who receives healing within a sanctuary heals +1d4 HP.
 
 #### Speak With Dead
 
@@ -357,7 +349,7 @@ Treating the zombie as your character means you make moves with its stats based 
 
 *Level 3*
 
-You staunch bleeding and set bones through magic. Heal an ally you touch of 2d8 damage.
+You staunch bleeding and set bones through magic. Heal yourself or an ally you touch of 2d8 damage.
 
 #### Darkness
 
@@ -369,7 +361,7 @@ Choose an area you can see: it’s filled with supernatural darkness and shadow.
 
 *Level 3*
 
-Tell the GM you would like to resurrect a corpse whose soul has not yet fully departed this world. Resurrection is always possible, but the GM will give you one or more \(possibly all\) of these conditions to fulfill:
+Tell the GM you would like to resurrect a corpse whose soul has not yet fully departed this world. Resurrection is always possible, but the GM will give you one or more (possibly all) of these conditions to fulfill:
 
 - It’s going to take days/weeks/months
 - You must get help from \_\_\_\_
@@ -396,7 +388,7 @@ Your deity answers your prayers with a moment of perfect understanding. The GM w
 
 *Level 5*
 
-Heal an ally you touch of 3d8 damage.
+Heal yourself or an ally you touch of 3d8 damage.
 
 #### Divination
 
@@ -440,7 +432,7 @@ Choose a word. The first time after casting this spell that you speak the chosen
 
 *Level 7*
 
-Touch an ally and you may heal their damage a number of points up to your maximum HP.
+Heal yourself or an ally you touch a number of damage points up to your maximum HP.
 
 #### Harm
 
@@ -496,4 +488,4 @@ The mindless undead creature you touch is destroyed and you steal its death ener
 
 *Level 9, Ongoing*
 
-Name a city, town, encampment, or other place where people live. As long as this spell is active that place is beset by a plague appropriate to your deity’s domains \(locusts, death of the first born, etc.\) While this spell is ongoing you take -1 to cast a spell.
+Name a city, town, encampment, or other place where people live. As long as this spell is active that place is beset by a plague appropriate to your deity’s domains (locusts, death of the first born, etc.) While this spell is ongoing you take -1 to cast a spell.

@@ -4,7 +4,7 @@
 
 *Solitary, Large, Intelligent, Messy, Forceful*
 
-Bite \(d10+3 damage, 1 piercing\) *Close, Reach*
+Bite (d10+3 damage, 1 piercing) *Close, Reach*
 
 16 HP 2 Armor
 
@@ -20,7 +20,7 @@ Dragon-Turtle’s sister is a mighty serpent queen. Ten yards of scales and musc
 
 *Solitary, Hoarder*
 
-Bite \(d10 damage\) *Close*
+Bite (d10 damage) *Close*
 
 12 HP 2 Armor
 
@@ -33,7 +33,7 @@ Bite \(d10 damage\) *Close*
 
 *Solitary, Amorphous*
 
-Corrosive touch \(d10 damage, ignores armor\) *Close*
+Corrosive touch (d10 damage, ignores armor) *Close*
 
 15 HP 1 Armor
 
@@ -48,7 +48,7 @@ How do you kill a pile of goo? A great, squishy pile of goo that also happens to
 
 *Solitary, Intelligent Devious*
 
-Light ray \(d8 damage, ignores armor\) *Close*
+Light ray (d8 damage, ignores armor) *Close*
 
 12 HP 2 Armor
 
@@ -64,7 +64,7 @@ As if in direct defiance of the decay and filth of the world, the gods granted u
 
 *Group, Large*
 
-Bite \(d8+3 damage\) *Close, Reach*
+Bite (d8+3 damage) *Close, Reach*
 
 10 HP 2 Armor
 
@@ -80,7 +80,7 @@ It’s a really, really big crocodile. Seriously. So big. *Instinct*: To eat
 
 *Solitary, Devious, Intelligent*
 
-Dagger \(d6 damage\) *Close*
+Dagger (d6 damage) *Close*
 
 12 HP 0 Armor
 
@@ -96,7 +96,7 @@ Their natural form, if you ever see it, is hideous. Like a creature who stopped 
 
 *Solitary, Huge, Cautious*
 
-Bite \(d10+3 damage\) *Reach*
+Bite (d10+3 damage) *Reach*
 
 20 HP 4 Armor
 
@@ -112,7 +112,7 @@ Bakunawa has a brother. Where she is quick to anger and hungry for gold, he is s
 
 *Solitary, Small, Intelligent, Cautious, Hoarder*
 
-Elemental breath \(d10+2 damage\) *Close, Near*
+Elemental breath (d10+2 damage) *Close, Near*
 
 16 HP 3 Armor
 
@@ -128,7 +128,7 @@ What? Did you think they were all a mile long? Did you think they didn’t come 
 
 *Horde*
 
-Talons \(d6 damage\) *Close*
+Talons (d6 damage) *Close*
 
 3 HP 1 Armor
 
@@ -143,7 +143,7 @@ Ugly, wrinkled bird-folk, these. Once, maybe, in some ancient past, they were a 
 
 *Horde, Tiny*
 
-Burning touch \(d6-2 damage, ignores armor\) *Hand*
+Burning touch (d6-2 damage, ignores armor) *Hand*
 
 3 HP 0 Armor
 
@@ -151,14 +151,14 @@ Burning touch \(d6-2 damage, ignores armor\) *Hand*
 
 These strange creatures are no bigger or smarter than their mundane kin. They have the same vicious nature. Over their relations they have one advantage—an oily secretion that oozes from their skin. It makes them hard to catch. On top of that, with a twist of their body they can ignite the stuff, leaving pools of burning oil atop the surface of the water and roasting prey and predator alike. I hear the slimy things make good ingredients for fire-resistant gear, but you have to get your hands on one, first. *Instinct*: To ignite
 
-- Catch someone or something on fire \(even underwater\)
+- Catch someone or something on fire (even underwater)
 - Consume burning prey
 
 ## Frogman
 
 *Horde, Small, Intelligent*
 
-Spear \(d6 damage\) *Close*
+Spear (d6 damage) *Close*
 
 7 HP 1 Armor
 
@@ -173,7 +173,7 @@ Croak croak croak. Little warty munchkins. Some wizard or godling’s idea of a 
 
 *Solitary, Large*
 
-Bite \(d10+3 damage\) *Close, Reach*
+Bite (d10+3 damage) *Close, Reach*
 
 16 HP 2 Armor
 
@@ -182,13 +182,13 @@ Bite \(d10+3 damage\) *Close, Reach*
 A bit like a dragon, wingless though it may be. Heads, nine in number at birth, spring from a muscled trunk and weave a sinuous pattern in the air. A hydra is to be feared—a scaled terror of the marsh. The older ones, though, they have more heads, for every failed attempt to murder it just makes it stronger. Cut off a head and two more grow in its place. Only a strike, true and strong, to the heart can end a hydra’s life. Not time or tide or any other thing but this. *Instinct*: To grow
 
 - Attack many enemies at once
-- Regenerate a body part \(especially a head\)
+- Regenerate a body part (especially a head)
 
 ## Kobold
 
 *Horde, Small, Stealthy, Intelligent, Organized*
 
-Spear \(d6 damage\) *Close, Reach*
+Spear (d6 damage) *Close, Reach*
 
 3 HP 1 Armor
 
@@ -204,7 +204,7 @@ Some are wont to lump these little, rat-like dragon-men in with goblins and orcs
 
 *Group, Stealthy, Intelligent, Organized*
 
-Spear \(d8 damage\) *Close, Reach*
+Spear (d8 damage) *Close, Reach*
 
 6 HP 2 Armor
 
@@ -219,7 +219,7 @@ A traveling sorcerer once told me that lizardmen came before we did. That before
 
 *Solitary, Devious, Intelligent, Hoarder*
 
-Claws \(d6 damage\) *Close*
+Claws (d6 damage) *Close*
 
 12 HP 0 Armor
 
@@ -235,7 +235,7 @@ The medusa are children of a serpent-haired mother, birthing them in ancient tim
 
 *Horde, Intelligent*
 
-Endless teeth \(d6+4 damage, 1 piercing\) *Close, Forceful, Messy*
+Endless teeth (d6+4 damage, 1 piercing) *Close, Forceful, Messy*
 
 3 HP 2 Armor
 
@@ -251,7 +251,7 @@ The shape and craft of men wedded to the hunger and the endless teeth of a shark
 
 *Group, Huge, Cautious*
 
-Trample \(d10+5 damage\) *Reach*
+Trample (d10+5 damage) *Reach*
 
 18 HP 4 Armor
 
@@ -267,7 +267,7 @@ Great lumbering beasts, they live in places long since forgotten by the thinking
 
 *Solitary, Large, Magical*
 
-Lash \(d10+1 damage\) *Close, Reach, Forceful*
+Lash (d10+1 damage) *Close, Reach, Forceful*
 
 23 HP 1 Armor
 
@@ -283,7 +283,7 @@ Some elementals are conjured up in sacred circles etched in chalk. Most, in fact
 
 *Solitary, Large*
 
-Club \(d10+3 damage\) *Close, Reach, Forceful*
+Club (d10+3 damage) *Close, Reach, Forceful*
 
 20 HP 1 Armor
 
@@ -291,14 +291,14 @@ Club \(d10+3 damage\) *Close, Reach, Forceful*
 
 Tall. Real tall. Eight or nine feet when they’re young or weak. Covered all over in warty, tough skin, too. Big teeth, stringy hair like swamp moss and long, dirty nails. Some are green, some gray, some black. They’re clannish and hateful of each other, not to mention all the rest of us. Near impossible to kill, too, unless you’ve fire or acid to spare—cut a limb off and watch. In a few days, you’ve got two trolls where you once had one. A real serious problem, as you can imagine. *Instinct*: To smash
 
-- Undo the effects of an attack \(unless caused by a weakness, your call\)
+- Undo the effects of an attack (unless caused by a weakness, your call)
 - Hurl something or someone
 
 ## Will-o-wisp
 
 *Solitary, Tiny, Magical*
 
-Ray \(w\[2d8-2\] damage\) *Near*
+Ray (w[2d8-2] damage) *Near*
 
 12 HP 0 Armor
 

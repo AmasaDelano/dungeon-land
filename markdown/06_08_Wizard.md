@@ -54,17 +54,17 @@ You have mastered several spells and inscribed them in your spellbook. You start
 
 ### Prepare Spells
 
-When you **spend uninterrupted time \(an hour or so\) in quiet contemplation of your spellbook**, you:
+When you **spend uninterrupted time (an hour or so) in quiet contemplation of your spellbook**, you:
 
-- Lose any spells you already have prepared
-- Prepare new spells of your choice from your spellbook whose total levels don’t exceed your own level+1.
-- Prepare your cantrips which never count against your limit.
+- Lose any spells you already have prepared.
+- Prepare new spells (excluding cantrips) of your choice from your spellbook, whose total levels don’t exceed your own level+1 (you may choose the same spell more than once).
+- Prepare each of your cantrips once.
 
 ---
 
 You can prepare the same spell more than once if you like.
 
-### Cast a Spell \(INT\)
+### Cast a Spell (INT)
 
 When you **release a spell you’ve prepared**, roll+INT. ✴On a 10+, the spell is successfully cast and you do not forget the spell—you may cast it again later. ✴On a 7-9, the spell is cast, but choose one:
 
@@ -108,20 +108,20 @@ Use magic to cause terror and fear.
 
 ## Gear
 
-Your load is 7+STR. You start with your spellbook \(1 weight\) and dungeon rations \(5 uses, 1 weight\). Choose your defenses:
+Your load is 7+STR. You start with your spellbook (1 weight) and dungeon rations (5 uses, 1 weight). Choose your defenses:
 
-- Leather armor \(1 armor, 1 weight\)
-- Bag of books \(5 uses, 2 weight\) and 3 healing potions
+- Leather armor (1 armor, 1 weight)
+- Bag of books (5 uses, 2 weight) and 3 healing potions
 
 Choose your weapon:
 
-- Dagger \(hand, 1 weight\)
-- Staff \(close, two-handed, 1 weight\)
+- Dagger (hand, 1 weight)
+- Staff (close, two-handed, 1 weight)
 
 Choose one:
 
-- Healing potion \(0 weight\)
-- 3 antitoxins \(0 weight\)
+- Healing potion (0 weight)
+- 3 antitoxins (0 weight)
 
 ## Bonds
 
@@ -139,11 +139,7 @@ Fill in the name of one of your companions in at least one:
 
 ### Prodigy
 
-Choose a spell. You prepare that spell as if it were one level lower.
-
-<!-- ---
-
-If you choose a level 1 spell, it becomes a cantrip. -->
+Choose one spell. You prepare that spell as if it was one level lower. If you choose a level 1 spell, you prepare it as a cantrip.
 
 ### Empowered Magic
 
@@ -196,11 +192,7 @@ When you **see the effects of an arcane spell**, ask the GM the name of the spel
 
 *Requires: Prodigy*
 
-Choose one spell in addition to the one you picked for prodigy. You prepare that spell as if it were one level lower.
-
-<!-- ---
-
-If you choose a level 1 spell, it becomes a cantrip. -->
+Choose one spell in addition to the one you picked for prodigy. You prepare that spell as if it was one level lower. If you choose a level 1 spell, you prepare it as a cantrip.
 
 ### Greater Empowered Magic
 
@@ -281,7 +273,7 @@ You perform minor tricks of true magic. If you touch an item as part of the cast
 
 *Level 1, Summoning*
 
-Name the spirit you wish to contact \(or leave it to the GM\). You pull that creature through the planes, just close enough to speak to you. It is bound to answer any one question you ask to the best of its ability.
+Name the spirit you wish to contact (or leave it to the GM). You pull that creature through the planes, just close enough to speak to you. It is bound to answer any one question you ask to the best of its ability.
 
 #### Detect Magic
 
@@ -299,13 +291,13 @@ You form a telepathic bond with a single person you touch, enabling you to conve
 
 *Level 1, Enchantment Ongoing*
 
-The person \(not beast or monster\) you touch while casting this spell counts you as a friend until they take damage or you prove otherwise.
+The person (not beast or monster) you touch while casting this spell counts you as a friend until they take damage or you prove otherwise.
 
 #### Invisibility
 
 *Level 1, Illusion Ongoing*
 
-Touch an ally: nobody can see them. They’re invisible\! The spell persists until the target attacks or you dismiss the effect. While the spell is ongoing you can’t cast a spell.
+Choose yourself or an ally you touch: nobody can see them. They’re invisible\! The spell persists until the target attacks or you dismiss the effect. While the spell is ongoing you can’t cast a spell.
 
 #### Magic Missile
 
@@ -436,7 +428,7 @@ You see all things as they truly are. This effect persists until you tell a lie 
 
 *Level 7, Illusion*
 
-The shadows you target with this spell become a portal for you and your allies. Name a location, describing it with a number of words up to your level. Stepping through the portal deposits you and any allies present when you cast the spell at the location you described. The portal may only be used once by each ally.
+The shadows you target with this spell become a portal for you and your allies. Name a location, describing it with a number of words up to your level. Stepping through the portal deposits you and any allies present when you cast the spell at the location you described. The portal may only be used once by yourself and each ally.
 
 #### Contingency
 

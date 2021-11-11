@@ -44,7 +44,7 @@ If you like you can prepare the same spell more than once.
 
 ## Guidance
 
-It’s up to the creativity of your deity \(and the GM\) to communicate as much as possible through the motions and gestures of your deity’s symbol. You don’t get visions or a voice from heaven, just some visual cue of what your deity would have you do \(even if it’s not in your best interest\).
+It’s up to the creativity of your deity (and the GM) to communicate as much as possible through the motions and gestures of your deity’s symbol. You don’t get visions or a voice from heaven, just some visual cue of what your deity would have you do (even if it’s not in your best interest).
 
 ## Magic Weapon
 
@@ -64,7 +64,7 @@ The base description you choose is just a description. Choosing a spear doesn’
 
 ## Heirloom
 
-The exact nature of the spirits \(and therefore what knowledge they can offer to you\) is up to you and the GM to decide. Maybe they’re dead ancestors, echoes of people you’ve slain, or a minor demon. Up to you.
+The exact nature of the spirits (and therefore what knowledge they can offer to you) is up to you and the GM to decide. Maybe they’re dead ancestors, echoes of people you’ve slain, or a minor demon. Up to you.
 
 ## Armor Mastery
 
@@ -86,7 +86,7 @@ Your bonuses only apply when your animal is doing something it’s trained in. A
 
 ## Backstab
 
-Reducing armor until they repair it means that they lose armor until they do something that compensates for your damage. If you’re fighting an armored knight that might mean a fresh suit of armor, but for a thick-hided ogre it’s until they’ve had time to heal up \(or protect the wound you left\).
+Reducing armor until they repair it means that they lose armor until they do something that compensates for your damage. If you’re fighting an armored knight that might mean a fresh suit of armor, but for a thick-hided ogre it’s until they’ve had time to heal up (or protect the wound you left).
 
 ## Poisoner
 

@@ -2,7 +2,7 @@
 
 Fronts are secret tomes of GM knowledge. Each is a collection of linked dangers—threats to the characters specifically and to the people, places, and things the characters care about. It also includes one or more impending dooms, the horrible things that will happen without the characters’ intervention. “Fronts” comes, of course, from “fighting on two fronts” which is just where you want the characters to be—surrounded by threats, danger and adventure.
 
-Fronts are built outside of active play. They’re the solo fun that you get to have between games—rubbing your hands and cackling evilly to yourself as you craft the foes with which to challenge your PCs. You may tweak or adjust your fronts during play \(who knows when inspiration will strike?\) but the meat of them comes from preparation between sessions.
+Fronts are built outside of active play. They’re the solo fun that you get to have between games—rubbing your hands and cackling evilly to yourself as you craft the foes with which to challenge your PCs. You may tweak or adjust your fronts during play (who knows when inspiration will strike?) but the meat of them comes from preparation between sessions.
 
 Fronts are designed to help you organize your thoughts on what opposes the players. They’re here to contain your notes, ideas, and plans for these opposing forces. When you’re in a bind your fronts are where you’re going to turn and say, “Oh, so *that’s* what I should do.” Consider them an organizational tool, as inspiration for present and future mayhem.
 
@@ -29,7 +29,7 @@ Here’s how a front comes together:
 - Choose campaign front or adventure front
 - Create 2-3 dangers
 - Choose an impending doom for each danger
-- Add grim portents \(1-3 for an adventure front, 3-5 for the campaign front\)
+- Add grim portents (1-3 for an adventure front, 3-5 for the campaign front)
 - Write 1–3 stakes questions
 - List the general cast of the front
 
@@ -63,7 +63,7 @@ Creating dangers is a way to slice up your overall front concept into smaller, e
 
 Once you’ve named and added a danger to the front you need to choose a type for that danger from the list below. Alternately, you can use the list of types to inspire dangers: with your front in mind, peruse the list and pick one or two that fit.
 
-> For our three dangers \(The College of Arcanists, The White Gate and the Argent Seraphim\) we’ve selected Cabal, Dark Portal and Choir of Angels, respectively.
+> For our three dangers (The College of Arcanists, The White Gate and the Argent Seraphim) we’ve selected Cabal, Dark Portal and Choir of Angels, respectively.
 
 ## Types of Dangers
 
@@ -75,36 +75,36 @@ Once you’ve named and added a danger to the front you need to choose a type fo
 
 ### Ambitious Organizations
 
-- Misguided Good \(*impulse: to do what is “right” no matter the cost*\)
-- Thieves Guild \(*impulse: to take by subterfuge*\)
-- Cult \(*impulse: to infest from within*\)
-- Religious Organization \(*impulse: to establish and follow doctrine*\)
-- Corrupt Government \(*impulse: to maintain the status quo*\)
-- Cabal \(*impulse: to absorb those in power, to grow*\)
+- Misguided Good (*impulse: to do what is “right” no matter the cost*)
+- Thieves Guild (*impulse: to take by subterfuge*)
+- Cult (*impulse: to infest from within*)
+- Religious Organization (*impulse: to establish and follow doctrine*)
+- Corrupt Government (*impulse: to maintain the status quo*)
+- Cabal (*impulse: to absorb those in power, to grow*)
 
 #### GM Moves for Ambitious Organizations
 
-- Attack someone by stealthy means \(kidnapping, etc.\)
-- Attack someone directly \(with a gang or single assailant\)
-- Absorb or buy out someone important \(an ally, perhaps\)
-- Influence a powerful institution \(change a law, manipulate doctrine\)
-- Establish a new rule \(within the organization\)
+- Attack someone by stealthy means (kidnapping, etc.)
+- Attack someone directly (with a gang or single assailant)
+- Absorb or buy out someone important (an ally, perhaps)
+- Influence a powerful institution (change a law, manipulate doctrine)
+- Establish a new rule (within the organization)
 - Claim territory or resources
 - Negotiate a deal
 - Observe a potential foe in great detail
 
 ### Planar Forces
 
-- God \(*impulse: to gather worshippers*\)
-- Demon Prince \(*impulse: to open the gates of Hell*\)
-- Elemental Lord \(*impulse: to tear down creation to its component parts*\)
-- Force of Chaos \(*impulse: to destroy all semblance of order*\)
-- Choir of Angels \(*impulse: to pass judgement*\)
-- Construct of Law \(*impulse: to eliminate perceived disorder*\)
+- God (*impulse: to gather worshippers*)
+- Demon Prince (*impulse: to open the gates of Hell*)
+- Elemental Lord (*impulse: to tear down creation to its component parts*)
+- Force of Chaos (*impulse: to destroy all semblance of order*)
+- Choir of Angels (*impulse: to pass judgement*)
+- Construct of Law (*impulse: to eliminate perceived disorder*)
 
 #### GM Moves for Planar Forces
 
-- Turn an organization \(corrupt or infiltrate with influence\)
+- Turn an organization (corrupt or infiltrate with influence)
 - Give dreams of prophecy
 - Lay a Curse on a foe
 - Extract a promise in exchange for a boon
@@ -115,12 +115,12 @@ Once you’ve named and added a danger to the front you need to choose a type fo
 
 ### Arcane Enemies
 
-- Lord of the Undead \(*impulse: to seek true immortality*\)
-- Power-mad Wizard \(*impulse: to seek magical power*\)
-- Sentient Artifact \(*impulse: to find a worthy wielder*\)
-- Ancient Curse \(*impulse: to ensnare*\)
-- Chosen One \(*impulse: to fulfill or resent their destiny*\)
-- Dragon \(*impulse: to hoard gold and jewels, to protect the clutch*\)
+- Lord of the Undead (*impulse: to seek true immortality*)
+- Power-mad Wizard (*impulse: to seek magical power*)
+- Sentient Artifact (*impulse: to find a worthy wielder*)
+- Ancient Curse (*impulse: to ensnare*)
+- Chosen One (*impulse: to fulfill or resent their destiny*)
+- Dragon (*impulse: to hoard gold and jewels, to protect the clutch*)
 
 #### GM Moves for Arcane Enemies
 
@@ -134,10 +134,10 @@ Once you’ve named and added a danger to the front you need to choose a type fo
 
 ### Hordes
 
-- Wandering Barbarians \(*impulse: to grow strong, to drive their enemies before them*\)
-- Humanoid Vermin \(*impulse: to breed, to multiply and consume*\)
-- Underground Dwellers \(*impulse: to defend the complex from outsiders*\)
-- Plague of the Undead \(*impulse: to spread*\)
+- Wandering Barbarians (*impulse: to grow strong, to drive their enemies before them*)
+- Humanoid Vermin (*impulse: to breed, to multiply and consume*)
+- Underground Dwellers (*impulse: to defend the complex from outsiders*)
+- Plague of the Undead (*impulse: to spread*)
 
 #### GM Moves for Hordes
 
@@ -153,12 +153,12 @@ Once you’ve named and added a danger to the front you need to choose a type fo
 
 ### Cursed Places
 
-- Abandoned Tower \(*impulse: to draw in the weak-willed*\)
-- Unholy Ground \(*impulse: to spawn evil*\)
-- Elemental Vortex \(*impulse: to grow, to tear apart reality*\)
-- Dark Portal \(*impulse: to disgorge demons*\)
-- Shadowland \(*impulse: to corrupt or consume the living*\)
-- Place of Power \(*impulse: to be controlled or tamed*\)
+- Abandoned Tower (*impulse: to draw in the weak-willed*)
+- Unholy Ground (*impulse: to spawn evil*)
+- Elemental Vortex (*impulse: to grow, to tear apart reality*)
+- Dark Portal (*impulse: to disgorge demons*)
+- Shadowland (*impulse: to corrupt or consume the living*)
+- Place of Power (*impulse: to be controlled or tamed*)
 
 #### GM Moves for Cursed Places
 
@@ -175,15 +175,15 @@ Once you’ve named and added a danger to the front you need to choose a type fo
 
 ## Description and Cast
 
-Write up something short to remind you just what this danger is about, something to describe it in a nutshell. Don’t worry about where it’s going or what could happen—grim portents and the impending doom will handle that for you; you’ll get to those in a bit. If there are multiple people involved in the danger \(an orc warlord and his clansmen, a hateful god and his servants\) go ahead and give them names and a detail or two now. Leave yourself some space as you’ll be adding to this section as you play.
+Write up something short to remind you just what this danger is about, something to describe it in a nutshell. Don’t worry about where it’s going or what could happen—grim portents and the impending doom will handle that for you; you’ll get to those in a bit. If there are multiple people involved in the danger (an orc warlord and his clansmen, a hateful god and his servants) go ahead and give them names and a detail or two now. Leave yourself some space as you’ll be adding to this section as you play.
 
 ## Custom Moves
 
-Sometimes a danger will suggest a move that isn’t covered by any existing ones. You can write custom moves to fill the gaps or to add the right effects for the danger. They can be player moves or GM moves, as you see fit. Of course, if you’re writing a player move, keep your hands off the dice and mind the basic structure of a move. A 10+ is a complete success, while a 7–9 is a partial success. On a miss, maybe the custom move does something specific, or maybe not—maybe you just get to make a move or work towards fulfilling a grim portent. The formatting of these moves varies from move to move.
+Sometimes a danger will suggest a move that isn’t covered by any existing ones. You can write custom moves to fill the gaps or to add the right effects for the danger. They can be player moves or GM moves, as you see fit. Of course, if you’re writing a player move, keep your hands off the dice and mind the basic structure of a move. A 10+ is a complete success, while a 7–9 is a partial success. On a 6-, maybe the custom move does something specific, or maybe not—maybe you just get to make a move or work towards fulfilling a grim portent. The formatting of these moves varies from move to move.
 
 > For the Opening of the White Gate, I just know some fool PC is going to end up in the light that spills from the gate, so I’m writing a move to show what might occur.
 >
-> When you **stand in the presence of the Light From Beyond**, roll+WIS: ✴On a 10+ you are judged worthy, the Argent Seraphim will grant you a vision or boon. ✴On a 7-9 you are under suspicion and see a vision of what dark fate might befall you if you do not correct your ways. ✴On a miss, thou art weighed in the balance and art found wanting.
+> When you **stand in the presence of the Light From Beyond**, roll+WIS: ✴On a 10+ you are judged worthy, the Argent Seraphim will grant you a vision or boon. ✴On a 7-9 you are under suspicion and see a vision of what dark fate might befall you if you do not correct your ways. ✴On a 6-, thou art weighed in the balance and art found wanting.
 
 ## Grim Portents
 
@@ -211,12 +211,12 @@ You can advance a grim portent descriptively or prescriptively. Descriptively me
 
 At the end of every danger’s path is an impending doom. This is the final toll of the bell that signals the danger’s triumphant resolution. When a grim portent comes to pass the impending doom grows stronger, more apparent and present in the world. These are the very bad things that every danger, in some way, seeks to bring into effect. Choose one of the types of impending dooms and give it a concrete form in your front. These often change in play, as the characters meddle in the affairs of the world. Don’t fret, you can change them later.
 
-- Tyranny \(of the strong over the weak or the few over the many\)
-- Pestilence \(the spread of sickness and disease, the end of wellness\)
-- Destruction \(apocalypse, ruin and woe\)
-- Usurpation \(the chain of order comes apart, someone rightful is displaced\)
-- Impoverishment \(enslavement, the abandonment of goodness and right\)
-- Rampant Chaos \(laws of reality, of society, or any order is dissolved\)
+- Tyranny (of the strong over the weak or the few over the many)
+- Pestilence (the spread of sickness and disease, the end of wellness)
+- Destruction (apocalypse, ruin and woe)
+- Usurpation (the chain of order comes apart, someone rightful is displaced)
+- Impoverishment (enslavement, the abandonment of goodness and right)
+- Rampant Chaos (laws of reality, of society, or any order is dissolved)
 
 When all of the grim portents of a danger come to pass, the impending doom sets in. The danger is then resolved but the setting has changed in some meaningful way. This will almost certainly change the front at large as well. Making sure that these effects reverberate throughout the world is a big part of making them feel real.
 
@@ -262,7 +262,7 @@ When dealing with multiple adventure fronts the players are likely to prioritize
 
 ### Dangers
 
-#### The College of Arcanists \(Cabal\)
+#### The College of Arcanists (Cabal)
 
 **Impulse:** to absorb those in power, to grow
 
@@ -276,7 +276,7 @@ When dealing with multiple adventure fronts the players are likely to prioritize
 
 **Impending Doom:** Usurpation
 
-#### The White Gate \(Dark Portal\)
+#### The White Gate (Dark Portal)
 
 **Impulse:** to disgorge demons
 
@@ -288,7 +288,7 @@ When dealing with multiple adventure fronts the players are likely to prioritize
 
 **Impending Doom:** Destruction
 
-#### The Argent Seraphim \(Choir of Angels\)
+#### The Argent Seraphim (Choir of Angels)
 
 **Impulse:** to pass judgement
 
@@ -311,7 +311,7 @@ An ancient gate, buried for aeons in the icy north. It opens into a realm of pur
 
 ### Custom Moves
 
-When you **stand in the presence of the Light From Beyond**, roll+WIS. ✴On a 10+ you are judged worthy, the Argent Seraphim will grant you a vision or boon. ✴On a 7-9 you are under suspicion and see a vision of what dark fate might befall you if you do not correct your ways. ✴On a miss, thou art weighed in the balance and art found wanting.
+When you **stand in the presence of the Light From Beyond**, roll+WIS. ✴On a 10+ you are judged worthy, the Argent Seraphim will grant you a vision or boon. ✴On a 7-9 you are under suspicion and see a vision of what dark fate might befall you if you do not correct your ways. ✴On a 6-, thou art weighed in the balance and art found wanting.
 
 ### Stakes
 

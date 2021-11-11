@@ -2,7 +2,7 @@
 
 The musty tombs and forgotten treasure troves of the world are filled with useful items. The fighter can find a sharp new sword or the thief might stumble across a deadly poison. Most items are mundane—not magical or intrinsically unique in any way. Any item that is magical or one-of-a-kind is not mundane for the purposes of moves. The fighter’s signature weapon is never mundane.
 
-Each piece of equipment will have a number of tags. These will tell you something about how the equipment affects the character using it \(like +Armor\) or suggest something about the way it is used \(like the Range tags\). Like everything else in Dungeon World, these guide the fiction you’re creating in play. If a weapon is awkward, it might mean that you’re more likely to drop it when you fail that hack and slash roll.
+Each piece of equipment will have a number of tags. These will tell you something about how the equipment affects the character using it (like +Armor) or suggest something about the way it is used (like the Range tags). Like everything else in Dungeon World, these guide the fiction you’re creating in play. If a weapon is awkward, it might mean that you’re more likely to drop it when you fail that hack and slash roll.
 
 By no means is this an exhaustive list—feel free to create your own tags.
 
@@ -16,7 +16,7 @@ These are general tags that can apply to just about any piece of gear. You’ll 
 
 *+Bonus*: It modifies your effectiveness in a specified situation. It might be “+1 forward to spout lore” or “-1 ongoing to hack and slash.”
 
-*n coins*: How much it costs to buy, normally. If the cost includes “-Charisma” a little negotiation subtracts the haggler’s Charisma score \(not modifier\) from the price.
+*n coins*: How much it costs to buy, normally. If the cost includes “-Charisma” a little negotiation subtracts the haggler’s Charisma score (not modifier) from the price.
 
 *Dangerous*: It’s easy to get in trouble with it. If you interact with it without proper precautions the GM may freely invoke the consequences of your foolish actions.
 
@@ -42,7 +42,7 @@ Weapons don’t kill monsters, people do. That’s why weapons in Dungeon World 
 
 ### Weapon Tags
 
-Weapons may have tags that are primarily there to help you describe them \(like Rusty or Glowing\) but these tags have a specific, mechanical effect.
+Weapons may have tags that are primarily there to help you describe them (like Rusty or Glowing) but these tags have a specific, mechanical effect.
 
 *n Ammo*: It counts as ammunition for appropriate ranged weapons. The number indicated does not represent individual arrows or sling stones, but represents what you have left on hand.
 
@@ -295,7 +295,7 @@ It is crafted of shining steel, glowing with a golden light and imbued with myth
 
 *0 weight*
 
-A nail or spike, twisted and forever cold, said to have been pried from the Gates of Death. When hammered into a corpse, it disappears and ensures that corpse will never be risen again—no magic short of that of Death himself can reignite the flame of life \(natural or otherwise\) in the body.
+A nail or spike, twisted and forever cold, said to have been pried from the Gates of Death. When hammered into a corpse, it disappears and ensures that corpse will never be risen again—no magic short of that of Death himself can reignite the flame of life (natural or otherwise) in the body.
 
 ### Bag of Holding
 
@@ -314,7 +314,7 @@ No matter how many items it contains, a bag of holding is always 0 weight.
 
 An ancient wooden wheel, as might appear on a war-wagon, banded with steel. On a glance, it appears to be nothing special—many spokes are shattered and the thing seems mundane. Under the scrutiny of magic or the eyes of an expert, its true nature is revealed: the Burning Wheel is a gift from the God of Fire and burns with his authority.
 
-When you hold The Burning Wheel and speak a god’s name, roll+CON. ✴On a 7+, the god you name takes notice and grants you an audience. An audience with a god is not without a price: on a 10+, you choose one of your stats and reduce it to the next lowest modifier \(for example, a 14 is +1, so it would be reduced to 12, a +0\). ✴On a 7–9, the GM chooses which stat to reduce.
+When you hold The Burning Wheel and speak a god’s name, roll+CON. ✴On a 7+, the god you name takes notice and grants you an audience. An audience with a god is not without a price: on a 10+, you choose one of your stats and reduce it to the next lowest modifier (for example, a 14 is +1, so it would be reduced to 12, a +0). ✴On a 7–9, the GM chooses which stat to reduce.
 
 Once used, the Burning Wheel ignites and burns with brilliant light. It does not confer any protection from those flames, nor does it provide any bonus to swimming.
 
@@ -328,7 +328,7 @@ A brass naval horn, curled and ornate, carved with symbols of the gods of Plenty
 
 *Reach, Thrown, 3 weight*
 
-None know from whence this spear of twisted white coral comes. Those who bear it too long find their minds full of alien dreams and begin to hear the strange thoughts of the Others. None are impervious. Used against any “natural” target \(men, goblins, owlbears and the like\) the Spire acts as a mere mortal spear. Its true purpose is to do harm to those things whose strange natures protect them against mundane weapons. Used thus, the Spire can wound foes otherwise invulnerable to harm. The wielder will recognize these twisted foes on sight—the Spire knows its own.
+None know from whence this spear of twisted white coral comes. Those who bear it too long find their minds full of alien dreams and begin to hear the strange thoughts of the Others. None are impervious. Used against any “natural” target (men, goblins, owlbears and the like) the Spire acts as a mere mortal spear. Its true purpose is to do harm to those things whose strange natures protect them against mundane weapons. Used thus, the Spire can wound foes otherwise invulnerable to harm. The wielder will recognize these twisted foes on sight—the Spire knows its own.
 
 ### Cloak of Silent Stars
 
@@ -378,7 +378,7 @@ An archmage, old and too frail to leave his tower, crafted this intricate and fr
 
 *1 weight*
 
-Swirling clouds fill this smoky orb and those in its presence often hear strange whispers. In ancient times, it was part of a network of such stones, used to communicate and surveil across great distances. When you gaze into the stone, name a location and roll+WIS. ✴On a 10+, you see a clear vision of the location and can maintain it as long as you concentrate on the orb. ✴On a 7–9, you still see the vision, but you draw the attention of some other thing \(an angel, a demon, or the holder of another Farsight stone\) that uses the stone to surveil you, as well.
+Swirling clouds fill this smoky orb and those in its presence often hear strange whispers. In ancient times, it was part of a network of such stones, used to communicate and surveil across great distances. When you gaze into the stone, name a location and roll+WIS. ✴On a 10+, you see a clear vision of the location and can maintain it as long as you concentrate on the orb. ✴On a 7–9, you still see the vision, but you draw the attention of some other thing (an angel, a demon, or the holder of another Farsight stone) that uses the stone to surveil you, as well.
 
 ### The Fiasco Codex
 
@@ -460,7 +460,7 @@ An old skull, missing its jaw and very much worse-for-wear. The skull remembers 
 
 *0 weight*
 
-This key unlocks any door for you, provided you don’t belong where you intend to go. So long as you do nothing that would alert another to your presence \(remaining unheard, unseen and unnoticed\) and takes nothing more than your memories out with you, the key’s magic will prevent your intrusion from ever being discovered. It’s like you were never there at all.
+This key unlocks any door for you, provided you don’t belong where you intend to go. So long as you do nothing that would alert another to your presence (remaining unheard, unseen and unnoticed) and takes nothing more than your memories out with you, the key’s magic will prevent your intrusion from ever being discovered. It’s like you were never there at all.
 
 ### Sacred Herbs
 
@@ -478,7 +478,7 @@ An odd, hand-carved wooden duck. Who would make such a funny thing? While you be
 
 *0 weight*
 
-Cloudy red gemstones the size of a thumbnail, the Tears of Annalise are always found in pairs. When swallowed by two different people, they bind the swallowers together—when either feels strong emotions \(particularly sadness, loss, fear or desire\) the other feels it, as well. The effects last until one spills the blood of the other.
+Cloudy red gemstones the size of a thumbnail, the Tears of Annalise are always found in pairs. When swallowed by two different people, they bind the swallowers together—when either feels strong emotions (particularly sadness, loss, fear or desire) the other feels it, as well. The effects last until one spills the blood of the other.
 
 ### Teleportation Room
 
@@ -508,7 +508,7 @@ A rope that listens. Does tricks, too, like a smart and more obedient snake migh
 
 *0 weight*
 
-Crafted by dwarven whitesmiths, this mirrored-metal hand is deeply scored with runes of power and rejuvenation. Meant to replace wounded or destroyed limbs from mining accidents, the Sterling Hand bonds to the wound, old or new, and is strong and stout. It can be used as a weapon \(Near range\) and is made of pure enough silver to harm creatures affected by such.
+Crafted by dwarven whitesmiths, this mirrored-metal hand is deeply scored with runes of power and rejuvenation. Meant to replace wounded or destroyed limbs from mining accidents, the Sterling Hand bonds to the wound, old or new, and is strong and stout. It can be used as a weapon (Near range) and is made of pure enough silver to harm creatures affected by such.
 
 ### Vellius’s Gauntlets
 
@@ -520,10 +520,10 @@ Crafted in the name of Vellius the Clumsy, Vellius the Butter-Fingered, Vellius 
 
 *Reach, 2 weight*
 
-A legendary blade, said to have been thrust backwards in time from some grim future, the violation glaive is crafted of strange green iron. The blade strikes at the mind of those it wounds, as well as the body. When you hack and slash on a 10+ you have an additional option: you can deal your normal damage, let them counterattack you, and instill the emotion of your choice \(maybe fear, reverence, or trust\).
+A legendary blade, said to have been thrust backwards in time from some grim future, the violation glaive is crafted of strange green iron. The blade strikes at the mind of those it wounds, as well as the body. When you hack and slash on a 10+ you have an additional option: you can deal your normal damage, let them counterattack you, and instill the emotion of your choice (maybe fear, reverence, or trust).
 
 ### Vorpal Sword
 
 *Close, 3 piercing, 2 weight*
 
-Snicker-snack and all that. Sharp as anything, this simple-seeming sword means to separate one thing from another—the limb from the body or folk from their lives. When you deal damage with the Vorpal Sword, your enemy must choose something \(an item, an advantage, a limb\) and lose it, permanently.
+Snicker-snack and all that. Sharp as anything, this simple-seeming sword means to separate one thing from another—the limb from the body or folk from their lives. When you deal damage with the Vorpal Sword, your enemy must choose something (an item, an advantage, a limb) and lose it, permanently.

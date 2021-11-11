@@ -1,10 +1,10 @@
 # Advanced Delving
 
-Dungeon World portrays a specific kind of fantasy adventure—one with elves and dwarves, heroes and villains, and characters struggling for riches and glory in a dangerous world. Maybe you’ve got an idea for something different—maybe your Dungeon World is set on a blasted desert planet, peopled by savage cannibals and ruled by haughty psychics. Or maybe you want to play a game where humans are the only race available, but they belong to clans or families as different from each other as a gnome is from a dwarf. All that is possible \(and, in fact, encouraged\) with a little effort. This chapter will explain how you can turn this Dungeon World into *your* Dungeon World.
+Dungeon World portrays a specific kind of fantasy adventure—one with elves and dwarves, heroes and villains, and characters struggling for riches and glory in a dangerous world. Maybe you’ve got an idea for something different—maybe your Dungeon World is set on a blasted desert planet, peopled by savage cannibals and ruled by haughty psychics. Or maybe you want to play a game where humans are the only race available, but they belong to clans or families as different from each other as a gnome is from a dwarf. All that is possible (and, in fact, encouraged) with a little effort. This chapter will explain how you can turn this Dungeon World into *your* Dungeon World.
 
 ## Making Moves
 
-The best place to start your journey into hacking Dungeon World is with the moves. Many of the fronts, dangers and other elements of your game will already contain custom moves, so it’s a natural, easy place to start. You might want to create moves to reflect the effects of some particular threat \(“When you go alone into the Unhallowed Halls…”\). You might create moves to cover something that’s particularly important to your setting \(“When you swim in the dark waters…”\). As you get more experienced you might create moves to expand a class or create your own class entirely.
+The best place to start your journey into hacking Dungeon World is with the moves. Many of the fronts, dangers and other elements of your game will already contain custom moves, so it’s a natural, easy place to start. You might want to create moves to reflect the effects of some particular threat (“When you go alone into the Unhallowed Halls…”). You might create moves to cover something that’s particularly important to your setting (“When you swim in the dark waters…”). As you get more experienced you might create moves to expand a class or create your own class entirely.
 
 ### Getting Started
 
@@ -60,7 +60,7 @@ When you **claim a room for your deity**, mark every entrance and roll+WIS: ✴O
 
 ---
 
-This move presents a slightly different side of Dungeon World, one that can demand peace \(something that usually doesn’t come easily to PCs\). This may not be right for every Dungeon World game, but it’s a great way to show how your Dungeon World looks, reflected in the characters.
+This move presents a slightly different side of Dungeon World, one that can demand peace (something that usually doesn’t come easily to PCs). This may not be right for every Dungeon World game, but it’s a great way to show how your Dungeon World looks, reflected in the characters.
 
 When adding a move, look carefully at what class it belongs to. Avoid giving a class moves that infringe on another class’s areas of expertise. If the thief can cast spells just as well as the wizard the wizard is likely to feel marginalized. This is why the multiclass moves act as one level lower, so that each class’s niche is somewhat protected.
 
@@ -72,7 +72,7 @@ Once you’ve gotten your feet wet creating new moves and customizing the classe
 
 Your first consideration should be how the class relates to the existing classes. No character exists in isolation, so you should think carefully about why this class is different.
 
-An excellent first step to creating a new class is to think about what fictional characters you’d like to take inspiration from. Don’t slavishly follow what that fictional character can do \(after all, they weren’t in Dungeon World\) but use them as a guide for what’s so cool about that character.
+An excellent first step to creating a new class is to think about what fictional characters you’d like to take inspiration from. Don’t slavishly follow what that fictional character can do (after all, they weren’t in Dungeon World) but use them as a guide for what’s so cool about that character.
 
 The inspirations for the classes in this book are fairly clear, and made clearer by the notes in the margins. Note that not every inspiration is taken entirely: the wizards of Discworld inspired the slightly pompous style of the wizard, but the wizard is far more competent and casts spells more like a wizard from Vance’s Dying Earth. The inspiration is one of style, not an attempt to recreate what a certain character could do in a certain book.
 
@@ -82,7 +82,7 @@ A class’s HP is some base+Constitution. Base HP is almost always 4, 6, 8, or 1
 
 Damage is chosen from the dice available: d4, d6, d8, d10. The classes presented here all use a single die with no static bonus, but there’s no reason not to experiment with other options: 2d4 or 1d6+2, for example. High HP and damage tend to go together, but your new class could be a pacifistic brick wall or a glass cannon—fragile but dangerous.
 
-Alignments show the starting outlook of the class. Most classes will have Neutral as an option, since only the most dedicated classes are so tied up to an ideal that the self can’t come first. A good alignment move is something that happens with some regularity and guides the player to a particular type of action they might not otherwise consider. An alignment that happens as part of the normal course of play, like “When you gain treasure…,” doesn’t really show the character’s ideals. Adding some requirements, maybe “When you gain treasure through lies and deceit…,” adds an element of ideals. Now the alignment says something about the character \(they prize pulling a con on the unsuspecting\) and requires the player to think about how they play. Alignment is a telling fact about the class in the world, too. Everyone knows that paladins are supposed to be paragons of Good and Law, right?
+Alignments show the starting outlook of the class. Most classes will have Neutral as an option, since only the most dedicated classes are so tied up to an ideal that the self can’t come first. A good alignment move is something that happens with some regularity and guides the player to a particular type of action they might not otherwise consider. An alignment that happens as part of the normal course of play, like “When you gain treasure…,” doesn’t really show the character’s ideals. Adding some requirements, maybe “When you gain treasure through lies and deceit…,” adds an element of ideals. Now the alignment says something about the character (they prize pulling a con on the unsuspecting) and requires the player to think about how they play. Alignment is a telling fact about the class in the world, too. Everyone knows that paladins are supposed to be paragons of Good and Law, right?
 
 Bonds are where the class’ outlook shines through. It’s the place where you, the designer, will most clearly interact with the player at character creation. Unless the class is particularly social or antisocial, write four bonds. If the class is very connected to others, add a bond; if they’re cloistered, remove one. Avoid bonds that dictate a moral or ethical stance but do think about how your class interacts with their allies—the thief steals things but helps protect the party from traps, the fighter defends his allies and kills monsters that might harm them, the wizard knows secret knowledge and shares or hoards it. You can use the rules for writing new bonds as a starting point, but avoid including proper names in starting bonds.
 
@@ -102,7 +102,7 @@ When you enter the bodily presence of a god or their avatar the next time you ga
 
 ### Divine Bond
 
-When you write a new bond, instead of using the name of another character you can use the name of a deity you’ve had contact with. Anytime a bond with a deity applies to the current situation you can mark it off \(as if it was resolved\) to call on the deity’s favor in a clear and decisive way that the GM describes. At the end of the session you then replace the marked off bond with a new one, with a deity or player character.
+When you write a new bond, instead of using the name of another character you can use the name of a deity you’ve had contact with. Anytime a bond with a deity applies to the current situation you can mark it off (as if it was resolved) to call on the deity’s favor in a clear and decisive way that the GM describes. At the end of the session you then replace the marked off bond with a new one, with a deity or player character.
 
 ---
 
@@ -144,19 +144,19 @@ When you end the session, instead of using the normal end of session questions, 
 
 ### Move Structure
 
-Moves always follow a similar structure. The most basic parts of a move are the trigger \(“when…”\) and the effect \(“then…”\). Every move follows this basic format.
+Moves always follow a similar structure. The most basic parts of a move are the trigger (“when…”) and the effect (“then…”). Every move follows this basic format.
 
 ### Triggers
 
-Triggers are often fictional actions undertaken by the player characters but they can also be part of character creation or trigger at the beginning or end of a session. Note that a trigger never deals with precise units of time. Don’t write a move that begins “When you start a round adjacent to a dragon.” There’s no rounds \(and adjacent is maybe not the best phrasing, as it sounds removed from the fiction of *standing next to a damned fire-breathing dragon*\). Prepare Spells isn’t “When you spend one hour studying your spellbook” for good reason. Time in Dungeon World is a bit fluid, like in a movie where pacing depends on the circumstances. Don’t rely on concrete units either around the table \(rounds\) or in the fiction \(seconds, minutes, days\).
+Triggers are often fictional actions undertaken by the player characters but they can also be part of character creation or trigger at the beginning or end of a session. Note that a trigger never deals with precise units of time. Don’t write a move that begins “When you start a round adjacent to a dragon.” There’s no rounds (and adjacent is maybe not the best phrasing, as it sounds removed from the fiction of *standing next to a damned fire-breathing dragon*). Prepare Spells isn’t “When you spend one hour studying your spellbook” for good reason. Time in Dungeon World is a bit fluid, like in a movie where pacing depends on the circumstances. Don’t rely on concrete units either around the table (rounds) or in the fiction (seconds, minutes, days).
 
 Here are some broad types of triggers:
 
-- **When a character takes action**. Examples: Discern Realities, Arcane Art \(Bard\), Command \(Ranger\).
-- **When a character takes action under specific circumstances**. Examples: Hack and Slash, Seeing Red \(Fighter\), Backstab \(Thief\).
+- **When a character takes action**. Examples: Discern Realities, Arcane Art (Bard), Command (Ranger).
+- **When a character takes action under specific circumstances**. Examples: Hack and Slash, Seeing Red (Fighter), Backstab (Thief).
 - **When circumstances dictate, no character action**. Examples: Order Hirelings, End of Session.
-- **When a character uses a thing**. Examples: Magic items, Heirloom \(Fighter\).
-- **From now on**. Examples: Serenity \(Cleric\), Poisoner \(Thief\).
+- **When a character uses a thing**. Examples: Magic items, Heirloom (Fighter).
+- **From now on**. Examples: Serenity (Cleric), Poisoner (Thief).
 
 ### Effect
 
@@ -164,18 +164,18 @@ Moves effects can be anything you can think of; they are as limitless as your id
 
 Here are some broad types of effects, any given move may use more than one of them:
 
-- **Roll**. Examples: Defy Danger, Cast a Spell \(Wizard\), Called Shot \(Ranger\).
-- **Substitute stats**. Examples: Dwarf \(Fighter\).
-- **Negate damage**. Examples: Man's Best Friend \(Ranger\).
-- **Give a bonus or penalty, forward or ongoing.** Examples: Underdog \(Thief\), Smite \(Paladin\).
-- **Deal or heal damage**. Examples: Volley, Backstab \(Thief\), Arcane Art \(Bard\).
-- **Choose options**. Examples: Spout Lore, Discern Realities, Ritual \(Wizard\).
-- **Hold & Spend**. Examples: Dominate \(Wizard spell\), Trap Expert \(Thief\).
-- **Ask & Answer**. Examples: Charming and Open \(Bard\), Spout Lore.
-- **Change circumstances**. Examples: Reputation \(Bard\).
+- **Roll**. Examples: Defy Danger, Cast a Spell (Wizard), Called Shot (Ranger).
+- **Substitute stats**. Examples: Dwarf (Fighter).
+- **Negate damage**. Examples: Man's Best Friend (Ranger).
+- **Give a bonus or penalty, forward or ongoing.** Examples: Underdog (Thief), Smite (Paladin).
+- **Deal or heal damage**. Examples: Volley, Backstab (Thief), Arcane Art (Bard).
+- **Choose options**. Examples: Spout Lore, Discern Realities, Ritual (Wizard).
+- **Hold & Spend**. Examples: Dominate (Wizard spell), Trap Expert (Thief).
+- **Ask & Answer**. Examples: Charming and Open (Bard), Spout Lore.
+- **Change circumstances**. Examples: Reputation (Bard).
 - **Mark experience**. Examples: End of Session.
-- **Call for more information**. Examples: Parley, Ritual \(Wizard\).
-- **Add options**. Examples: Called Shot \(Ranger\).
+- **Call for more information**. Examples: Parley, Ritual (Wizard).
+- **Add options**. Examples: Called Shot (Ranger).
 
 ## Changing the Basics
 
@@ -191,7 +191,7 @@ Moves like this change one of the basic features of the game. Be very careful wi
 
 There are some parts of the game that are exceptionally easy to change. The amount of XP to level reflects our view, but you can easily make leveling more or less rare. As well, the kinds of things players are awarded XP for can be easily changed—if your game isn’t about exploring, fighting monsters and finding treasure, change the End of Session move to reflect that difference. Make sure to share it with your players before you start the game.
 
-Another basic that’s occasionally asked for is a way to make, say, fighting a dragon harder. The best answer here is that fighting a dragon is harder because the dragon is fictionally stronger. Just stabbing a dragon with a normal blade isn’t hack and slash because a typical blade can’t hurt it. If, however, that isn’t enough, consider this move from Vincent Baker, originally from Apocalypse World \(reworded slightly to match Dungeon World rules\):
+Another basic that’s occasionally asked for is a way to make, say, fighting a dragon harder. The best answer here is that fighting a dragon is harder because the dragon is fictionally stronger. Just stabbing a dragon with a normal blade isn’t hack and slash because a typical blade can’t hurt it. If, however, that isn’t enough, consider this move from Vincent Baker, originally from Apocalypse World (reworded slightly to match Dungeon World rules):
 
 ---
 
@@ -203,7 +203,7 @@ The problem with this move is that the move no longer reflects anything concrete
 
 ## Development of a Move
 
-Let’s look at how one move developed over time. Hack and slash was one of the earliest Dungeon World moves, originally written by Tony Dowler. The first version looked like this \(this version has been reformatted and edited for grammar only\):
+Let’s look at how one move developed over time. Hack and slash was one of the earliest Dungeon World moves, originally written by Tony Dowler. The first version looked like this (this version has been reformatted and edited for grammar only):
 
 ---
 
@@ -211,7 +211,7 @@ When you wade into combat, attacking your enemies, deal damage to the enemy you�
 
 - Prevent one ally from taking damage this round
 - Kill one enemy of lower level than you or deal max damage to otherwise
-- Put an enemy right where you want them \(drive them off, prevent them from fleeing, etc.\)
+- Put an enemy right where you want them (drive them off, prevent them from fleeing, etc.)
 - Divide your damage amongst any number of targets you can reach with your weapon
 
 ---
@@ -223,7 +223,7 @@ The first problem with this move is that one of the options, preventing damage, 
 When you wade into combat, attacking your enemies, deal damage to the enemy you’re attacking, take that enemy’s damage, and roll+STR. ✴On a 10+ choose 2. ✴On a 7–9 choose 1.
 
 - Kill one enemy of lower level than you or deal max damage to otherwise
-- Put an enemy right where you want them \(drive them off, prevent them from fleeing, etc.\)
+- Put an enemy right where you want them (drive them off, prevent them from fleeing, etc.)
 - Divide your damage amongst any number of targets you can reach with your weapon
 
 ---
@@ -256,7 +256,7 @@ When you attack an enemy in melee, roll+STR. ✴On a 10+, you deal your damage t
 
 ---
 
-This version \(the final one\) allows a monster to “attack” not just deal damage. That opens up a whole host of interesting monster moves to be used. +1d6 damage instead of +2 makes the choice more exciting \(and slightly more powerful\). The rewording adds clarity.
+This version (the final one) allows a monster to “attack” not just deal damage. That opens up a whole host of interesting monster moves to be used. +1d6 damage instead of +2 makes the choice more exciting (and slightly more powerful). The rewording adds clarity.
 
 ## The GM
 

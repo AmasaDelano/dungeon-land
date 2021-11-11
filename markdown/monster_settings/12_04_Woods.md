@@ -4,7 +4,7 @@
 
 *Solitary, Stealthy, Amorphous*
 
-Thorns \(d10 damage, 1 piercing\) *Close, Reach, Messy*
+Thorns (d10 damage, 1 piercing) *Close, Reach, Messy*
 
 15 HP 1 Armor
 
@@ -19,7 +19,7 @@ Among the animals there exists a clear division ‘tween hunter and hunted. All 
 
 *Group, Small, Magical, Organized*
 
-Bite \(d8 damage\) *Close*
+Bite (d8 damage) *Close*
 
 6 HP 4 Armor
 
@@ -35,7 +35,7 @@ Now you see it, now you don’t. Hounds once owned by a sorcerer lord and imbued
 
 *Horde, Large, Organized, Intelligent*
 
-Bow \(d6+2 damage, 1 piercing\) *Close, Reach, Near*
+Bow (d6+2 damage, 1 piercing) *Close, Reach, Near*
 
 11 HP 1 Armor
 
@@ -51,7 +51,7 @@ Bow \(d6+2 damage, 1 piercing\) *Close, Reach, Near*
 
 *Solitary, Planar, Terrifying, Amorphous*
 
-Warping touch \(d10 damage ignores armor\) *Close*
+Warping touch (d10 damage ignores armor) *Close*
 
 23 HP 1 Armor
 
@@ -66,7 +66,7 @@ The barrier between Dungeon World and the elemental planes is not, as you might 
 
 *Group, Small, Hoarder*
 
-Beak \(d8 damage\) *Close*
+Beak (d8 damage) *Close*
 
 6 HP 1 Armor
 
@@ -80,7 +80,7 @@ Beak \(d8 damage\) *Close*
 
 *Solitary, Magical, Intelligent, Devious,*
 
-Crushing vines \(w\[2d8\]damage\) *Close*
+Crushing vines (w[2d8]damage) *Close*
 
 12 HP 2 Armor
 
@@ -96,7 +96,7 @@ More beautiful by far than any man or woman born in the civil realms. To gaze up
 
 *Group, Large, Organized, Intelligent*
 
-Talons \(b\[2d8\]+1 damage, 1 piercing\) *Close, Reach*
+Talons (b[2d8]+1 damage, 1 piercing) *Close, Reach*
 
 10 HP 1 Armor
 
@@ -112,7 +112,7 @@ Some the size of horses. Bigger, even—the kings and queens of the eagles. Thei
 
 *Horde, Intelligent, Organized*
 
-Sword \(b\[2d6\] damage\) *Close*
+Sword (b[2d6] damage) *Close*
 
 3 HP 2 Armor
 
@@ -128,7 +128,7 @@ Sword \(b\[2d6\] damage\) *Close*
 
 *Solitary, Magical, Intelligent, Organized*
 
-Arcane fire \(d10 damage ignores armor\) *Near, Far*
+Arcane fire (d10 damage ignores armor) *Near, Far*
 
 12 HP 0 Armor
 
@@ -143,7 +143,7 @@ True elvish magic isn’t like the spells of men. Mannish wizardry is all rotes 
 
 *Group, Large, Organized*
 
-Talons \(d8+3 damage\) *Close, Reach, Forceful*
+Talons (d8+3 damage) *Close, Reach, Forceful*
 
 10 HP 1 Armor
 
@@ -159,7 +159,7 @@ On first glance, one might mistake the griffin for another magical mistake like 
 
 *Group, Huge, Intelligent, Organized*
 
-Thrown rocks \(d8+3 damage\) *Reach, Near, Far, Forceful*
+Thrown rocks (d8+3 damage) *Reach, Near, Far, Forceful*
 
 10 HP 1 Armor
 
@@ -173,7 +173,7 @@ Ever seen an ogre before? Bigger than that. Dumber and meaner, too. Hope you lik
 
 *Group, Large, Intelligent*
 
-Club \(d8+5 damage\) *Close, Reach, Forceful*
+Club (d8+5 damage) *Close, Reach, Forceful*
 
 10 HP 1 Armor
 
@@ -187,7 +187,7 @@ A tale, then. Somewhere in the not-so-long history of the mannish race there was
 
 *Solitary*
 
-Tusks \(d10 damage, 3 piercing\) *Close, Messy*
+Tusks (d10 damage, 3 piercing) *Close, Messy*
 
 16 HP 1 Armor
 
@@ -200,7 +200,7 @@ The tusks of the razor boar shred metal plate like so much tissue. Voracious, sa
 
 *Group, Devious, Magical, Hoarder*
 
-Charge \(w\[2d8\] damage\) *Close*
+Charge (w[2d8] damage) *Close*
 
 10 HP 1 Armor
 
@@ -216,7 +216,7 @@ One of only a very few creatures to be found in the old woods that don’t outri
 
 *Horde, Tiny, Stealthy, Magical, Devious, Intelligent*
 
-Dagger \(w\[2d4\] damage\) *Hand*
+Dagger (w[2d4] damage) *Hand*
 
 3 HP 0 Armor
 
@@ -232,7 +232,7 @@ I’d classify them elementals, except that “being annoying” isn’t an elem
 
 *Group, Huge, Intelligent, Amorphous*
 
-Walloping branches \(d10+5 damage\) *Reach, Forceful*
+Walloping branches (d10+5 damage) *Reach, Forceful*
 
 21 HP 4 Armor
 
@@ -254,7 +254,7 @@ know the treants be thy foe
 
 *Solitary, Intelligent*
 
-Bite \(d10+2 damage, 1 piercing\) *Close, Messy*
+Bite (d10+2 damage, 1 piercing) *Close, Messy*
 
 12 HP 1 Armor
 
@@ -270,7 +270,7 @@ Bite \(d10+2 damage, 1 piercing\) *Close, Messy*
 
 *Horde, Organized*
 
-Bite \(d6 damage\) *Close*
+Bite (d6 damage) *Close*
 
 3 HP 1 Armor
 

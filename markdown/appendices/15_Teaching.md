@@ -4,11 +4,11 @@ Since you’ve read this book it’s likely at some point you’ll be teaching t
 
 ## Pitch It
 
-Before you play you’ll likely be explaining the game to your new players \(don’t just spring it on them, that’s not cool\). We call that the pitch: it’s explaining why you want to play Dungeon World and why you think they’ll like it.
+Before you play you’ll likely be explaining the game to your new players (don’t just spring it on them, that’s not cool). We call that the pitch: it’s explaining why you want to play Dungeon World and why you think they’ll like it.
 
 First and most importantly: put it in your own words. We can’t give you a script because the best way to get people excited about the game is to share your honest excitement. There are, however, some things you might want to touch on.
 
-With first-time roleplayers it’s best to focus on what roleplaying means in Dungeon World. Tell them what they’ll be doing \(portraying a character\) and what you’ll be doing \(portraying the world around them\). Mention the general conceit \(adventurers and adventure\). It’s usually a good idea to mention the role of the rules too, how they’re there to drive the action forward in interesting ways.
+With first-time roleplayers it’s best to focus on what roleplaying means in Dungeon World. Tell them what they’ll be doing (portraying a character) and what you’ll be doing (portraying the world around them). Mention the general conceit (adventurers and adventure). It’s usually a good idea to mention the role of the rules too, how they’re there to drive the action forward in interesting ways.
 
 With folks who’ve played RPGs before, especially those who’ve played other fantasy adventure games, you can focus more on what makes Dungeon World different from other similar games. Ease-of-play, the way the rules just step in at the right times, and the fast pace are all things that experienced roleplayers often appreciate.
 
@@ -28,7 +28,7 @@ Each player will encounter the rules that are important to their class. The figh
 
 If your players are particularly worried about making their characters “right” just give them the option of changing them later. Trying to cover every rule and give them all the context now will just slow the game down. In particular, don’t go over the basic moves in detail yet. Leave them out so that the players can read them and ask questions, but don’t waste time by explaining each. They’ll come up as needed.
 
-As the players introduce their characters and start setting bonds move from answering questions to asking them. Ask about why they chose what they did and what that means for their character. Ask about details established by their bonds. Let their choices establish the world around them. Take special note of anything that you think you might be able to make moves with \(like an estranged teacher or a simmering war\).
+As the players introduce their characters and start setting bonds move from answering questions to asking them. Ask about why they chose what they did and what that means for their character. Ask about details established by their bonds. Let their choices establish the world around them. Take special note of anything that you think you might be able to make moves with (like an estranged teacher or a simmering war).
 
 ### Start Play
 
@@ -36,7 +36,7 @@ Start play by concretely describing the world around them. Keep it brief and evo
 
 Ending with something that demands action is important. Don’t presume that new players will already know what they want to do. Giving them something to react to right away means you get straight to playing.
 
-Especially for new players make sure that the action they’re thrown into is something they have the tools to deal with. A fight is a good choice, as is a tense negotiation \(which can easily become a fight\). Keep it simple and let the complexity build.
+Especially for new players make sure that the action they’re thrown into is something they have the tools to deal with. A fight is a good choice, as is a tense negotiation (which can easily become a fight). Keep it simple and let the complexity build.
 
 Even in a fight keep to simple monsters: things that bleed, don’t have too much armor, and don’t have piercing. Give them a chance to get used to their armor and dealing damage before you start using the exceptions to those rules, like piercing and ignoring armor. Of course if the fiction dictates ignoring armor or piercing or a certain monster, use it, but don’t lead with those.
 
@@ -48,6 +48,6 @@ If you’re GMing for the first time focus on a few moves: Show Signs of an Appr
 
 After an hour or two of play the players will likely have everything down. As a first time GM you may take a bit longer to pick up all your moves, maybe a session or two. Just roll with it.
 
-If you find yourself struggling in the first session consider it a pilot, like the first episode of a TV show. Feel free to start over or retroactively change things. If a player decides that the thief just isn’t what they thought it was let them switch classes \(either remaking the same character or introducing someone new\). If your first adventure wasn’t working too well scrap it and start something new.
+If you find yourself struggling in the first session consider it a pilot, like the first episode of a TV show. Feel free to start over or retroactively change things. If a player decides that the thief just isn’t what they thought it was let them switch classes (either remaking the same character or introducing someone new). If your first adventure wasn’t working too well scrap it and start something new.
 
 While Dungeon World works great for one-shots the longer cycles of levels and bonds don’t really kick in for a bit. If your first one or two sessions go well consider scheduling out enough time for 5–10 more. Knowing that you’re planning to play that much longer gives you some space to plan out your fronts and resolve them.

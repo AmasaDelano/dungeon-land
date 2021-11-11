@@ -4,7 +4,7 @@
 
 *Solitary, Large, Construct, Terrifying*
 
-Slam \(d10+3 damage\) *Close, Reach, Forceful*
+Slam (d10+3 damage) *Close, Reach, Forceful*
 
 20 HP 1 Armor
 
@@ -19,13 +19,13 @@ Corpses sewn onto corpses make up the bulk of these shambling masses of dark mag
 
 *Solitary, Magical, Intelligent*
 
-Scream \(d10 damage\) *Near*
+Scream (d10 damage) *Near*
 
 16 HP 0 Armor
 
 **Special Qualities:** Insubstantial
 
-Come away from an encounter with one of these vengeful spirits merely deaf and count yourself lucky for the rest of your peaceful, silent days. Often mistaken at first glance for a ghost or wandering spirit, the banshee reveals a far more deadly talent for sonic assault when angered. And her anger comes easy. A victim of betrayal \(often by a loved one\) the banshee makes known her displeasure with a roar or scream that can putrefy flesh and rend the senses. If you can help her get her vengeance, they say she might grant rewards. Whether the affection of a spurned spirit is a thing you’d want, well, that’s another question. *Instinct*: To get revenge
+Come away from an encounter with one of these vengeful spirits merely deaf and count yourself lucky for the rest of your peaceful, silent days. Often mistaken at first glance for a ghost or wandering spirit, the banshee reveals a far more deadly talent for sonic assault when angered. And her anger comes easy. A victim of betrayal (often by a loved one) the banshee makes known her displeasure with a roar or scream that can putrefy flesh and rend the senses. If you can help her get her vengeance, they say she might grant rewards. Whether the affection of a spurned spirit is a thing you’d want, well, that’s another question. *Instinct*: To get revenge
 
 - Drown out all other sound with a ceaseless scream
 - Unleash a skull-splitting noise
@@ -35,11 +35,11 @@ Come away from an encounter with one of these vengeful spirits merely deaf and c
 
 *Solitary, Large, Intelligent, Hoarder*
 
-Smash \(d10+3 damage\) *Close, Reach, Forceful*
+Smash (d10+3 damage) *Close, Reach, Forceful*
 
 16 HP 1 Armor
 
-Most folk know that the undead feed on flesh. The warmth, blood and living tissue continue their unholy existence. This is true for most of the mindless dead, animated by black sorcery. Not so the devourer. When a particularly wicked person \(often a manipulator of men, an apostate priest or the like\) dies in a gruesome way, the dark powers of Dungeon World might bring them back to a kind of life. The devourer, however, does not feed on the flesh of men or elves. The devourer eats souls. It kills with a pleasure only the sentient can enjoy and in the moments of its victims’ expiry, draws breath like a drowning man and swallows a soul. What does it mean to have your soul eaten by such a creature? None dare ask for fear of finding out. *Instinct*: To feast on souls
+Most folk know that the undead feed on flesh. The warmth, blood and living tissue continue their unholy existence. This is true for most of the mindless dead, animated by black sorcery. Not so the devourer. When a particularly wicked person (often a manipulator of men, an apostate priest or the like) dies in a gruesome way, the dark powers of Dungeon World might bring them back to a kind of life. The devourer, however, does not feed on the flesh of men or elves. The devourer eats souls. It kills with a pleasure only the sentient can enjoy and in the moments of its victims’ expiry, draws breath like a drowning man and swallows a soul. What does it mean to have your soul eaten by such a creature? None dare ask for fear of finding out. *Instinct*: To feast on souls
 
 - Devour or trap dying soul
 - Bargain for a soul’s return
@@ -48,7 +48,7 @@ Most folk know that the undead feed on flesh. The warmth, blood and living tissu
 
 *Solitary, Huge*
 
-Bite \(d10+3 damage, 3 piercing\) *Reach, Messy*
+Bite (d10+3 damage, 3 piercing) *Reach, Messy*
 
 20 HP 2 Armor
 
@@ -60,7 +60,7 @@ Mystical sorcerers debate: is this creature truly undead or is it a golem made o
 
 *Horde, Organized*
 
-Rusty sword \(d6+1 damage\) *Close, Reach*
+Rusty sword (d6+1 damage) *Close, Reach*
 
 7 HP 2 Armor
 
@@ -75,7 +75,7 @@ In the Nordemark, the men and women tell tales in their wooden halls of a place 
 
 *Solitary, Devious, Terrifying*
 
-Phantom touch \(d6 damage\) *Close, Reach*
+Phantom touch (d6 damage) *Close, Reach*
 
 16 HP 0 Armor
 
@@ -91,7 +91,7 @@ Every culture tells the story the same way. You live, you love or you hate, you 
 
 *Group*
 
-Talons \(d8 damage, 1 piercing\) *Close, Messy*
+Talons (d8 damage, 1 piercing) *Close, Messy*
 
 10 HP 1 Armor
 
@@ -104,7 +104,7 @@ Hunger. Hunger hunger hunger. Desperate clinging void-stomach-emptiness hunger. 
 
 *Solitary, Magical, Intelligent, Cautious, Hoarder, Construct*
 
-Magical Force \(d10+3 damage, ignores armor\) *Near, Far*
+Magical Force (d10+3 damage, ignores armor) *Near, Far*
 
 16 HP 5 Armor
 
@@ -118,7 +118,7 @@ Magical Force \(d10+3 damage, ignores armor\) *Near, Far*
 
 *Group*
 
-Bite \(d8 damage\) *Close*
+Bite (d8 damage) *Close*
 
 10 HP 0 Armor
 
@@ -131,7 +131,7 @@ You never get away with murder. Not really. You might evade the law, might escap
 
 *Solitary, Divine, Hoarder*
 
-Smash \(d10+2 damage\) *Close*
+Smash (d10+2 damage) *Close*
 
 16 HP 1 Armor
 
@@ -145,13 +145,13 @@ There are cultures who revere the dead. They do not bury them in the cold earth 
 
 *Horde, Stealthy*
 
-Rend \(d6 damage\) *Close*
+Rend (d6 damage) *Close*
 
 7 HP 1 Armor
 
 **Special Qualities:** Wings
 
-Scholars of the necromantic arts will tell you that the appellation “undead” applies not only to those who have lived, died, and been returned to a sort of partway living state. It is the proper name of any creature whose energy originates beyond the Black Gates. The creature men call the nightwing is one such—empowered by the negative light of Death’s domain. Taking the shape of massive, shadowy, winged creatures \(some more bat-like, some like vultures, others like some ancient, leathery things\) nightwings travel in predatory flocks, swooping down to strip the flesh from cattle, horses and unlucky peasants out past curfew. Watch the night sky for their red eyes. Listen for their screeching call. And hope to the gods you have something to hide under until they pass. *Instinct*: To hunt
+Scholars of the necromantic arts will tell you that the appellation “undead” applies not only to those who have lived, died, and been returned to a sort of partway living state. It is the proper name of any creature whose energy originates beyond the Black Gates. The creature men call the nightwing is one such—empowered by the negative light of Death’s domain. Taking the shape of massive, shadowy, winged creatures (some more bat-like, some like vultures, others like some ancient, leathery things) nightwings travel in predatory flocks, swooping down to strip the flesh from cattle, horses and unlucky peasants out past curfew. Watch the night sky for their red eyes. Listen for their screeching call. And hope to the gods you have something to hide under until they pass. *Instinct*: To hunt
 
 - Attack from the night sky
 - Fly away with prey
@@ -160,7 +160,7 @@ Scholars of the necromantic arts will tell you that the appellation “undead”
 
 *Horde, Large, Magical, Construct*
 
-Shadow touch \(d6+1 damage\) *Close, Reach*
+Shadow touch (d6+1 damage) *Close, Reach*
 
 11 HP 4 Armor
 
@@ -175,7 +175,7 @@ We call to the elements. We call on fire, ever-burning. We summon water, life-gi
 
 *Horde, Large, Construct*
 
-Tail whip \(d6+1 damage\) *Close, Reach*
+Tail whip (d6+1 damage) *Close, Reach*
 
 11 HP 2 Armor
 
@@ -190,7 +190,7 @@ Tail whip \(d6+1 damage\) *Close, Reach*
 
 *Horde*
 
-Slam \(d6 damage\) *Close*
+Slam (d6 damage) *Close*
 
 7 HP 1 Armor
 
@@ -204,7 +204,7 @@ Dem bones, dem bones, dem dry bones. *Instinct*: To take the semblance of life
 
 *Solitary, Hoarder*
 
-Withering touch \(d10 damage\) *Close*
+Withering touch (d10 damage) *Close*
 
 12 HP 0 Armor
 
@@ -219,7 +219,7 @@ For some folk, when they pass, Death himself cannot release their grip on the pl
 
 *Group, Stealthy, Organized, Intelligent*
 
-Supernatural force \(d8+5 damage, 1 piercing\) *Close, Forceful*
+Supernatural force (d8+5 damage, 1 piercing) *Close, Forceful*
 
 10 HP 2 Armor
 
@@ -235,7 +235,7 @@ We fear them, because they call to us. So much like us, or how we hope to be: be
 
 *Horde, Organized, Intelligent*
 
-Pounce \(d6+1 damage 1 piercing\) *Close*
+Pounce (d6+1 damage 1 piercing) *Close*
 
 7 HP 1 Armor
 
@@ -250,7 +250,7 @@ Like the nightwing, the wight-wolf is a creature not spawned in our world. Someh
 
 *Horde*
 
-Bite \(d6 damage\) *Close*
+Bite (d6 damage) *Close*
 
 11 HP 1 Armor
 

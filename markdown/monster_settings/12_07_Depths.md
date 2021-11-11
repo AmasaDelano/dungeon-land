@@ -4,7 +4,7 @@
 
 *Group, Huge, Intelligent*
 
-Tentacle \(d10+3 damage\) *Reach*
+Tentacle (d10+3 damage) *Reach*
 
 18 HP 0 Armor
 
@@ -20,7 +20,7 @@ Deep below the surface of the world, in freshwater seas untouched by the sun, dw
 
 *Solitary, Huge, Magical, Divine*
 
-Bite \(b\[2d12\]+9 damage, 4 piercing\) *Reach, Forceful, Messy*
+Bite (b[2d12]+9 damage, 4 piercing) *Reach, Forceful, Messy*
 
 26 HP 5 Armor
 
@@ -36,7 +36,7 @@ The end of all things shall be a burning—of tree and earth and of the air itse
 
 *Solitary, Amorphous*
 
-Chaotic touch \(d10 damage\) *Close, Reach*
+Chaotic touch (d10 damage) *Close, Reach*
 
 19 HP 1 Armor
 
@@ -51,7 +51,7 @@ Driven from the city, a cultist finds sanctuary in towns and villages. Discovere
 
 *Group, Large, Cautious*
 
-Claws \(d8+1 damage, 3 piercing\) *Close, Reach, Messy*
+Claws (d8+1 damage, 3 piercing) *Close, Reach, Messy*
 
 10 HP 4 Armor
 
@@ -66,7 +66,7 @@ Your worst seafood nightmare come to life. A vicious sort of half-man half-crawd
 
 *Group, Intelligent, Organized*
 
-Poisoned blade \(d8 damage, 1 piercing\) *Close*
+Poisoned blade (d8 damage, 1 piercing) *Close*
 
 6 HP 1 Armor
 
@@ -80,7 +80,7 @@ It was not so simple a thing as a war over religion or territory. No disagreemen
 
 *Group, Intelligent, Organized*
 
-Barbed blade \(b\[2d8\]+2 damage, 1 piercing\) *Close*
+Barbed blade (b[2d8]+2 damage, 1 piercing) *Close*
 
 6 HP 2 Armor
 
@@ -93,7 +93,7 @@ The deep elves lost the sweetness and gentle peace of their bright cousins ages 
 
 *Solitary, Divine, Intelligent, Organized*
 
-Smite \(d10+2 damage\) *Close, Reach*
+Smite (d10+2 damage) *Close, Reach*
 
 14 HP 0 Armor
 
@@ -109,7 +109,7 @@ The spirits of the trees and the lady sunlight are far, far from home in the dep
 
 *Solitary, Huge, Terrifying, Cautious, Hoarder*
 
-Bite \(b\[2d12\]+5 damage, 4 piercing\) *Reach, Messy*
+Bite (b[2d12]+5 damage, 4 piercing) *Reach, Messy*
 
 16 HP 5 Armor
 
@@ -125,7 +125,7 @@ They are the greatest and most terrible things this world will ever have to offe
 
 *Solitary, Large*
 
-Rending claws \(d10+3 damage, 3 piercing\) *Close, Reach, Forceful*
+Rending claws (d10+3 damage, 3 piercing) *Close, Reach, Forceful*
 
 16 HP 1 Armor
 
@@ -138,7 +138,7 @@ with a maw of unbreakable teeth and claws to match, the render seems to enjoy li
 
 *Horde, Intelligent, Organized, Hoarder*
 
-Flaming hammer \(d6+2 damage\) *Close, Reach*
+Flaming hammer (d6+2 damage) *Close, Reach*
 
 7 HP 4 Armor
 
@@ -154,7 +154,7 @@ Dwarf-shaped and industrious, the magmin are among the deepest-dwellers of Dunge
 
 *Solitary, Large*
 
-Axe \(d10+1 damage\) *Close, Reach*
+Axe (d10+1 damage) *Close, Reach*
 
 16 HP 1 Armor
 
@@ -169,7 +169,7 @@ Axe \(d10+1 damage\) *Close, Reach*
 
 *Solitary, Intelligent, Organized, Hoarder, Magical*
 
-Bite \(d10 damage\) *Close, Reach*
+Bite (d10 damage) *Close, Reach*
 
 12 HP 2 Armor
 
@@ -183,7 +183,7 @@ Ambitious and territorial above nearly all else, the naga are very rarely found 
 
 *Horde, Large, Intelligent, Organized, Planar*
 
-Flaming spear \(b\[2d6\]+3 damage\) *Close, Reach, Near*
+Flaming spear (b[2d6]+3 damage) *Close, Reach, Near*
 
 7 HP 3 Armor
 
