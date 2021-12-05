@@ -1,8 +1,8 @@
 # The Cleric
 
-The lands of Dungeon World are a gods-forsaken mess. They’re lousy with the walking dead, beasts of all sorts, and the vast unnatural spaces between safe and temple-blessed civilizations. It is a godless world out there. That’s why it needs you.
+The lands of Dungeon World are a gods-forsaken mess. They're lousy with the walking dead, beasts of all sorts, and the vast unnatural spaces between safe and temple-blessed civilizations. It is a godless world out there. That's why it needs you.
 
-Bringing the glory of your god to the heathens isn’t just in your nature—it’s your calling. It falls to you to proselytize with sword and mace and spell. To cleave deep into the witless heart of the wilds and plant the seed of divinity there. Some say that it is best to keep god close to your heart. You know that’s rubbish. God lives at the edge of a blade.
+Bringing the glory of your god to the heathens isn't just in your nature—it's your calling. It falls to you to proselytize with sword and mace and spell. To cleave deep into the witless heart of the wilds and plant the seed of divinity there. Some say that it is best to keep god close to your heart. You know that's rubbish. God lives at the edge of a blade.
 
 Show the world who is lord.
 
@@ -46,7 +46,7 @@ Your faith is diverse. Choose one wizard spell. You can cast and be granted that
 
 ### Deity
 
-You serve and worship some deity or power which grants you spells. Give your god a name (maybe Helferth, Sucellus, Zorica or Krugon the Bleak) and choose your deity’s domain:
+You serve and worship some deity or power which grants you spells. Give your god a name (maybe Helferth, Sucellus, Zorica or Krugon the Bleak) and choose your deity's domain:
 
 - Healing and Restoration
 - Bloody Conquest
@@ -64,18 +64,18 @@ Choose one precept of your religion:
 
 ### Divine Guidance
 
-When you **petition your deity according to the precept of your religion**, you are granted some useful knowledge or boon related to your deity’s domain. The GM will tell you what.
+When you **petition your deity according to the precept of your religion**, you are granted some useful knowledge or boon related to your deity's domain. The GM will tell you what.
 
 ### Turn Undead
 
-When you **hold your holy symbol aloft and call on your deity for protection**, roll+WIS. ✴On a 7+, so long as you continue to pray and brandish your holy symbol, no undead may come within reach of you. ✴On a 10+, you also momentarily daze intelligent undead and cause mindless undead to flee. Aggression breaks the effects and they are able to act as normal. Intelligent undead may still find ways to harry you from afar. They’re clever like that.
+When you **hold your holy symbol aloft and call on your deity for protection**, roll+WIS. ✴On a 7+, so long as you continue to pray and brandish your holy symbol, no undead may come within reach of you. ✴On a 10+, you also momentarily daze intelligent undead and cause mindless undead to flee. Aggression breaks the effects and they are able to act as normal. Intelligent undead may still find ways to harry you from afar. They're clever like that.
 
 ### Commune
 
 When you **spend uninterrupted time (an hour or so) in quiet communion with your deity**, you:
 
 - Lose any spells already granted to you.
-- Are granted new spells (excluding rotes) of your choice whose total levels don’t exceed your own level+1, and none of which is a higher level than your own level (you may choose the same spell more than once).
+- Are granted new spells (excluding rotes) of your choice whose total levels don't exceed your own level+1, and none of which is a higher level than your own level (you may choose the same spell more than once).
 - Are granted each of your rotes once.
 
 ---
@@ -160,7 +160,7 @@ When you cast a spell you ignore the first -1 penalty from ongoing spells.
 
 ### First Aid
 
-Cure Light Wounds is a rote for you, and therefore doesn’t count against your limit of granted spells.
+Cure Light Wounds is a rote for you, and therefore doesn't count against your limit of granted spells.
 
 ### Divine Intervention
 
@@ -174,8 +174,8 @@ When you **take damage and embrace the pain**, you may take +1d4 damage (ignorin
 
 When you cast a spell, on a 10+ you have the option of choosing from the 7–9 list. If you do, you may choose one of these effects as well:
 
-- The spell’s effects are doubled
-- The spell’s targets are doubled
+- The spell's effects are doubled
+- The spell's targets are doubled
 
 ### Orison for Guidance
 
@@ -215,7 +215,7 @@ You ignore the -1 penalty from two spells you maintain.
 
 *Requires: First Aid*
 
-Cure Moderate Wounds is a rote for you, and therefore doesn’t count against your limit of granted spells.
+Cure Moderate Wounds is a rote for you, and therefore doesn't count against your limit of granted spells.
 
 ### Divine Invincibility
 
@@ -241,8 +241,8 @@ When you wear no armor or shield you get 3 armor.
 
 When you cast a spell, on a 10–11 you have the option of choosing from the 7–9 list. If you do, you may choose one of these effects as well. On a 12+ you get to choose one of these effects for free.
 
-- The spell’s effects are doubled
-- The spell’s targets are doubled
+- The spell's effects are doubled
+- The spell's targets are doubled
 
 ### Multiclass Dabbler
 
@@ -274,7 +274,7 @@ The symbol of your deity appears before you and gestures towards the direction o
 
 ---
 
-It’s up to the creativity of your deity (and the GM) to communicate as much as possible through the motions and gestures of your deity’s symbol. You don’t get visions or a voice from heaven, just some visual cue of what your deity would have you do (even if it’s not in your best interest).
+It's up to the creativity of your deity (and the GM) to communicate as much as possible through the motions and gestures of your deity's symbol. You don't get visions or a voice from heaven, just some visual cue of what your deity would have you do (even if it's not in your best interest).
 
 ### Level 1 Spells
 
@@ -310,7 +310,7 @@ The weapon you hold while casting does +1d4 damage until you dismiss this spell.
 
 ---
 
-Casting Magic Weapon on the same weapon again has no effect. No matter how many times you cast it on the same weapon it’s still just magic +1d4 damage.
+Casting Magic Weapon on the same weapon again has no effect. No matter how many times you cast it on the same weapon it's still just magic +1d4 damage.
 
 That said, even a weak enchantment is nothing to be scoffed at. Having a magic weapon may give you an advantage against some of the stranger beasts of Dungeon World, ghosts and the like. The exact effects depend on the monster and circumstances, so make the most of it.
 
@@ -334,8 +334,8 @@ A corpse converses with you briefly. It will answer any three questions you pose
 
 You invoke a hungry spirit to possess a recently-dead body and serve you. This creates a zombie that follows your orders to the best of its limited abilities. Treat the zombie as a character, but with access to only the basic moves. It has a +1 modifier for all stats and 1 HP. The zombie also gets your choice of 1d4 of these traits:
 
-- It’s talented. Give one stat a +2 modifier.
-- It’s durable. It has +2 HP for each level you have.
+- It's talented. Give one stat a +2 modifier.
+- It's durable. It has +2 HP for each level you have.
 - It has a functioning brain and can complete complex tasks.
 - It does not appear obviously dead, at least for a day or two.
 
@@ -343,7 +343,7 @@ The zombie lasts until it is destroyed by taking damage in excess of its HP, or 
 
 ---
 
-Treating the zombie as your character means you make moves with its stats based on the fiction, just like always. Unless its brain is functioning on its own, the zombie can’t do much besides follow the last order it was given, so you’d better stay close. Even if its brain works it’s still bound to follow your orders.
+Treating the zombie as your character means you make moves with its stats based on the fiction, just like always. Unless its brain is functioning on its own, the zombie can't do much besides follow the last order it was given, so you'd better stay close. Even if its brain works it's still bound to follow your orders.
 
 #### Cure Moderate Wounds
 
@@ -355,7 +355,7 @@ You staunch bleeding and set bones through magic. Heal yourself or an ally you t
 
 *Level 3, Ongoing*
 
-Choose an area you can see: it’s filled with supernatural darkness and shadow. While this spell is ongoing you take -1 to cast a spell.
+Choose an area you can see: it's filled with supernatural darkness and shadow. While this spell is ongoing you take -1 to cast a spell.
 
 #### Resurrection
 
@@ -363,12 +363,12 @@ Choose an area you can see: it’s filled with supernatural darkness and shadow.
 
 Tell the GM you would like to resurrect a corpse whose soul has not yet fully departed this world. Resurrection is always possible, but the GM will give you one or more (possibly all) of these conditions to fulfill:
 
-- It’s going to take days/weeks/months
+- It's going to take days/weeks/months
 - You must get help from \_\_\_\_
 - It will require a lot of money
 - You must sacrifice \_\_\_\_ to do it
 
-The GM may, depending on the circumstances, allow you to resurrect the corpse now, with the understanding that the conditions must be met before it’s permanent, or require you to meet the conditions before the corpse is resurrected.
+The GM may, depending on the circumstances, allow you to resurrect the corpse now, with the understanding that the conditions must be met before it's permanent, or require you to meet the conditions before the corpse is resurrected.
 
 #### Hold Person
 
@@ -470,7 +470,7 @@ Your deity brings the unnatural weather of your choice to pass. Rain of blood or
 
 *Level 9*
 
-Choose one event in the target’s past. All effects of that event, including damage, poison, disease, and magical effects, are ended and repaired. HP and diseases are healed, poisons are neutralized, magical effects are ended.
+Choose one event in the target's past. All effects of that event, including damage, poison, disease, and magical effects, are ended and repaired. HP and diseases are healed, poisons are neutralized, magical effects are ended.
 
 #### Divine Presence
 
@@ -488,4 +488,4 @@ The mindless undead creature you touch is destroyed and you steal its death ener
 
 *Level 9, Ongoing*
 
-Name a city, town, encampment, or other place where people live. As long as this spell is active that place is beset by a plague appropriate to your deity’s domains (locusts, death of the first born, etc.) While this spell is ongoing you take -1 to cast a spell.
+Name a city, town, encampment, or other place where people live. As long as this spell is active that place is beset by a plague appropriate to your deity's domains (locusts, death of the first born, etc.) While this spell is ongoing you take -1 to cast a spell.

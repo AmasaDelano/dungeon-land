@@ -4,7 +4,7 @@
 
 ## Names
 
-*Names*: Gorm, Si-Yi, Priscilla, Sen, Xia, Anneira, Haepha, Lur, Shar, Korrin, Nkosi, Fafnir, Qua, Sacer, Vercin’geto, Barbozar, Clovis, Frael, Thra raxes, Sillius, Sha Sheena, Khamisi
+*Names*: Gorm, Si-Yi, Priscilla, Sen, Xia, Anneira, Haepha, Lur, Shar, Korrin, Nkosi, Fafnir, Qua, Sacer, Vercin'geto, Barbozar, Clovis, Frael, Thra raxes, Sillius, Sha Sheena, Khamisi
 
 *Titles*: the Glorious, the Hungry, the Irascible, the Undefeated, the Gluttonous, Foesmasher, Bonebreaker, the Mirthful, the Melancholic, All Mighty, the Giant, the Triumphant
 
@@ -18,7 +18,7 @@ Mighty thews, Long shanks, Scrawny body, or Supple body
 
 Strange tattoos, Unusual jewelry, or Unmarred by decoration
 
-Scraps, Silks, Scavenger’s outfit, or Weather inappropriate clothes
+Scraps, Silks, Scavenger's outfit, or Weather inappropriate clothes
 
 ## Stats
 
@@ -83,7 +83,7 @@ Teach someone the ways of your people.
 
 ## Gear
 
-Your load is 8+STR. You carry dungeon rations (5 uses, 1 weight), a dagger (hand, 1 weight), and some token of where you’ve traveled or where you’re from. Choose your weapon:
+Your load is 8+STR. You carry dungeon rations (5 uses, 1 weight), a dagger (hand, 1 weight), and some token of where you've traveled or where you're from. Choose your weapon:
 
 - Axe (close, 1 weight)
 - Two handed sword (close, +1 damage, 2 weight)
@@ -99,7 +99,7 @@ Fill in the name of one of your companions in at least one:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ is puny and foolish, but amusing to me.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_’s ways are strange and confusing.
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_'s ways are strange and confusing.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ is always getting into trouble—I must protect them from themselves.
 
@@ -127,7 +127,7 @@ At the end of a session, if during this session you have crushed your enemies, s
 
 ### Wide-Wanderer
 
-You’ve travelled the wide world over. When you **arrive someplace** ask the GM about any important traditions, rituals, and so on, they’ll tell you what you need to know.
+You've travelled the wide world over. When you **arrive someplace** ask the GM about any important traditions, rituals, and so on, they'll tell you what you need to know.
 
 ### Usurper
 

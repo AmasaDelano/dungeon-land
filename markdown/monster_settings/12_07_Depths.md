@@ -10,7 +10,7 @@ Tentacle (d10+3 damage) *Reach*
 
 **Special Qualities:** Telepathy
 
-Deep below the surface of the world, in freshwater seas untouched by the sun, dwell the aboleth. Fish the size of whales, with strange growths of gelatinous feelers used to probe the lightless shores. They’re served by slaves: blind albino victims of any race unfortunate enough to stumble on them, drained of thought and life by the powers of the aboleth’s alien mind. In the depths they plot against each other, fishy cultists building and digging upward towards the surface until someday, they’ll breach it. For now, they sleep and dream and guide their pallid minions to do their bidding. *Instinct*: To command
+Deep below the surface of the world, in freshwater seas untouched by the sun, dwell the aboleth. Fish the size of whales, with strange growths of gelatinous feelers used to probe the lightless shores. They're served by slaves: blind albino victims of any race unfortunate enough to stumble on them, drained of thought and life by the powers of the aboleth's alien mind. In the depths they plot against each other, fishy cultists building and digging upward towards the surface until someday, they'll breach it. For now, they sleep and dream and guide their pallid minions to do their bidding. *Instinct*: To command
 
 - Invade a mind
 - Turn minions on them
@@ -84,7 +84,7 @@ Barbed blade (b[2d8]+2 damage, 1 piercing) *Close*
 
 6 HP 2 Armor
 
-The deep elves lost the sweetness and gentle peace of their bright cousins ages ago, but they did not abandon grace. They move with a swiftness and beauty that would bring a tear to any warrior’s eye. In the dark, they’ve practiced. A cruelty has infested their swordsmanship—a wickedness comes to the fore. Barbed blades and whips replace the shining pennant-spears of elven battles on the surface. The swordmasters of the deep elf clans do not merely seek to kill, but to punish with every stroke of their blades. Wickedness and pain are their currency. *Instinct*: To punish unbelievers
+The deep elves lost the sweetness and gentle peace of their bright cousins ages ago, but they did not abandon grace. They move with a swiftness and beauty that would bring a tear to any warrior's eye. In the dark, they've practiced. A cruelty has infested their swordsmanship—a wickedness comes to the fore. Barbed blades and whips replace the shining pennant-spears of elven battles on the surface. The swordmasters of the deep elf clans do not merely seek to kill, but to punish with every stroke of their blades. Wickedness and pain are their currency. *Instinct*: To punish unbelievers
 
 - Inflict pain beyond measure
 - Use the dark to advantage
@@ -160,7 +160,7 @@ Axe (d10+1 damage) *Close, Reach*
 
 **Special Qualities:** Unerring sense of direction
 
-“Head of a man, body of a bull. No, wait, I’ve got that backwards. It’s the bull’s head and the man’s body. Hooves sometimes? Is that right? I remember the old king said something about a maze? Blast\! You know I can’t think under this kind of pressure. What was that? Oh gods, I think it’s coming…” *Instinct*: To contain
+"Head of a man, body of a bull. No, wait, I've got that backwards. It's the bull's head and the man's body. Hooves sometimes? Is that right? I remember the old king said something about a maze? Blast\! You know I can't think under this kind of pressure. What was that? Oh gods, I think it's coming…" *Instinct*: To contain
 
 - Confuse them
 - Make them lost
@@ -173,7 +173,7 @@ Bite (d10 damage) *Close, Reach*
 
 12 HP 2 Armor
 
-Ambitious and territorial above nearly all else, the naga are very rarely found without a well-formed and insidious cult of followers. You’ll see it in many mountain towns—a snake sigil scrawled on a tavern wall or a local church burned to the ground. People going missing in the mines. Men and women wearing the mark of the serpent. At the core of it all lies a naga: an old race now fallen into obscurity, still preening with the head of a man over its coiled, serpent body. Variations of these creatures exist depending on their bloodline and original purpose, but they are all master manipulators and magical forces to be reckoned with. *Instinct*: To lead
+Ambitious and territorial above nearly all else, the naga are very rarely found without a well-formed and insidious cult of followers. You'll see it in many mountain towns—a snake sigil scrawled on a tavern wall or a local church burned to the ground. People going missing in the mines. Men and women wearing the mark of the serpent. At the core of it all lies a naga: an old race now fallen into obscurity, still preening with the head of a man over its coiled, serpent body. Variations of these creatures exist depending on their bloodline and original purpose, but they are all master manipulators and magical forces to be reckoned with. *Instinct*: To lead
 
 - Send a follower to their death
 - Use old magic
@@ -189,7 +189,7 @@ Flaming spear (b[2d6]+3 damage) *Close, Reach, Near*
 
 **Special Qualities:** Burrowing
 
-“The excavation uncovered what the reports called a basalt gate. Black stone carved with molten runes. When they dug it up, the magi declared it inert but further evidence indicates that was an incorrect claim. The entire team went missing. When we arrived, the gate was glowing. Its light filled the whole cavern. We could see from the entrance that the area had become full of these creatures—like men with red and orange skin, tall as an ogre but with a snake’s tail where their legs ought to be. They were clothed, too—some had black glass armor. They spoke to each other in a tongue that sounded like grease in a fire. I wanted to leave but the sergeant wouldn’t listen. You’ve already read what happened next, sir. I know I’m the only one that got back, but what I said is true. The gate is open, now. This is just the beginning\!” *Instinct*: To consume in flame
+"The excavation uncovered what the reports called a basalt gate. Black stone carved with molten runes. When they dug it up, the magi declared it inert but further evidence indicates that was an incorrect claim. The entire team went missing. When we arrived, the gate was glowing. Its light filled the whole cavern. We could see from the entrance that the area had become full of these creatures—like men with red and orange skin, tall as an ogre but with a snake's tail where their legs ought to be. They were clothed, too—some had black glass armor. They spoke to each other in a tongue that sounded like grease in a fire. I wanted to leave but the sergeant wouldn't listen. You've already read what happened next, sir. I know I'm the only one that got back, but what I said is true. The gate is open, now. This is just the beginning\!" *Instinct*: To consume in flame
 
 - Summon elemental fire
 - Melt away deception

@@ -1,8 +1,8 @@
 # The Thief
 
-You’ve heard them, sitting around the campfire. Bragging about this battle or that. About how their gods are smiling on your merry band. You count your coins and smile to yourself—this is the thrill above all. You alone know the secret of Dungeon World—filthy filthy lucre.
+You've heard them, sitting around the campfire. Bragging about this battle or that. About how their gods are smiling on your merry band. You count your coins and smile to yourself—this is the thrill above all. You alone know the secret of Dungeon World—filthy filthy lucre.
 
-Sure, they give you lip for all the times you’ve snuck off alone but without you, who among them wouldn’t have been dissected by a flying guillotine or poisoned straight to death by some ancient needle trap? So, let them complain. When you’re done with all this delving you’ll toast their hero’s graves.
+Sure, they give you lip for all the times you've snuck off alone but without you, who among them wouldn't have been dissected by a flying guillotine or poisoned straight to death by some ancient needle trap? So, let them complain. When you're done with all this delving you'll toast their hero's graves.
 
 From your castle. Full of gold. You rogue.
 
@@ -67,7 +67,7 @@ When you **attack a surprised or defenseless enemy with a melee weapon**, you ca
 
 ---
 
-Reducing armor until they repair it means that they lose armor until they do something that compensates for your damage. If you’re fighting an armored knight that might mean a fresh suit of armor, but for a thick-hided ogre it’s until they’ve had time to heal up (or protect the wound you left).
+Reducing armor until they repair it means that they lose armor until they do something that compensates for your damage. If you're fighting an armored knight that might mean a fresh suit of armor, but for a thick-hided ogre it's until they've had time to heal up (or protect the wound you left).
 
 ### Flexible Morals
 
@@ -75,16 +75,16 @@ When someone tries to detect your alignment you can tell them any alignment you 
 
 ### Poisoner
 
-You’ve mastered the care and use of a poison. Choose a poison from the list below; that poison is no longer dangerous for you to use. You also start with three uses of the poison you choose. Whenever you have time to gather materials and a safe place to brew you can make three uses of the poison you choose for free. Note that some poisons are applied, meaning you have to carefully apply it to the target or something they eat or drink. Touch poisons just need to touch the target, they can even be used on the blade of a weapon.
+You've mastered the care and use of a poison. Choose a poison from the list below; that poison is no longer dangerous for you to use. You also start with three uses of the poison you choose. Whenever you have time to gather materials and a safe place to brew you can make three uses of the poison you choose for free. Note that some poisons are applied, meaning you have to carefully apply it to the target or something they eat or drink. Touch poisons just need to touch the target, they can even be used on the blade of a weapon.
 
 - Oil of Tagit (applied): The target falls into a light sleep
 - Bloodweed (touch): The target deals -1d4 damage ongoing until cured
 - Goldenroot (applied): The target treats the next creature they see as a trusted ally, until proved otherwise
-- Serpent’s Tears (touch): Anyone dealing damage to the target rolls twice and takes the better result.
+- Serpent's Tears (touch): Anyone dealing damage to the target rolls twice and takes the better result.
 
 ---
 
-In order to make more doses of your chosen poison you need to be reasonably able to gather the required materials. If you’re locked up at the top of a tower you’re not going to be able to get the materials you need.
+In order to make more doses of your chosen poison you need to be reasonably able to gather the required materials. If you're locked up at the top of a tower you're not going to be able to get the materials you need.
 
 ## Alignment
 
@@ -149,31 +149,31 @@ When you **make a show of flashing around your most valuable possession**, choos
 
 ---
 
-In order to use this move it’s really got to be your most valuable possession. It’s the honest value you place on it that draws others, no lies.
+In order to use this move it's really got to be your most valuable possession. It's the honest value you place on it that draws others, no lies.
 
 ### Shoot First
 
-You’re never caught by surprise. When an enemy would get the drop on you, you get to act first instead.
+You're never caught by surprise. When an enemy would get the drop on you, you get to act first instead.
 
 ### Poison Master
 
-After you’ve used a poison once it’s no longer dangerous for you to use.
+After you've used a poison once it's no longer dangerous for you to use.
 
 ### Envenom
 
-You can apply even complex poisons with a pinprick. When you apply a poison that’s not dangerous for you to use to your weapon it’s touch instead of applied.
+You can apply even complex poisons with a pinprick. When you apply a poison that's not dangerous for you to use to your weapon it's touch instead of applied.
 
 ### Brewer
 
-When you have time to gather materials and a safe place to brew you can create three doses of any one poison you’ve used before.
+When you have time to gather materials and a safe place to brew you can create three doses of any one poison you've used before.
 
 ### Underdog
 
-When you’re outnumbered, you have +1 armor.
+When you're outnumbered, you have +1 armor.
 
 ### Connections
 
-When you put out word to the criminal underbelly about something you want or need, roll+CHA. ✴On a 10+, someone has it, just for you. ✴On a 7–9, you’ll have to settle for something close or it comes with strings attached, your call.
+When you put out word to the criminal underbelly about something you want or need, roll+CHA. ✴On a 10+, someone has it, just for you. ✴On a 7–9, you'll have to settle for something close or it comes with strings attached, your call.
 
 **When you gain a level from 6–10, choose from these moves or the level 2–5 moves.**
 
@@ -193,18 +193,18 @@ When you use trap expert you always get +1 hold, even on a 6-. On a 12+ you get 
 
 *Replaces: Brewer*
 
-When you have you have time to gather materials and a safe place to brew you can create three doses of any poison you’ve used before. Alternately you can describe the effects of a poison you’d like to create. The GM will tell you that you can create it, but with one or more caveats:
+When you have you have time to gather materials and a safe place to brew you can create three doses of any poison you've used before. Alternately you can describe the effects of a poison you'd like to create. The GM will tell you that you can create it, but with one or more caveats:
 
 - It will only work under specific circumstances
 - The best you can manage is a weaker version
-- It’ll take a while to take effect
-- It’ll have obvious side effects
+- It'll take a while to take effect
+- It'll have obvious side effects
 
 ### Serious Underdog
 
 *Replaces: Underdog*
 
-You have +1 armor. When you’re outnumbered, you have +2 armor instead.
+You have +1 armor. When you're outnumbered, you have +2 armor instead.
 
 ### Evasion
 
@@ -216,21 +216,21 @@ You can throw any melee weapon, using it to volley. A thrown melee weapon is gon
 
 ### Escape Route
 
-When you’re in too deep and need a way out, name your escape route and roll+DEX. ✴On a 10+ you’re gone. ✴On a 7–9 you can stay or go, but if you go it costs you: leave something behind or take something with you, the GM will tell you what.
+When you're in too deep and need a way out, name your escape route and roll+DEX. ✴On a 10+ you're gone. ✴On a 7–9 you can stay or go, but if you go it costs you: leave something behind or take something with you, the GM will tell you what.
 
 ### Disguise
 
-When you have time and materials you can create a disguise that will fool anyone into thinking you’re another creature of about the same size and shape. Your actions can give you away but your appearance won’t.
+When you have time and materials you can create a disguise that will fool anyone into thinking you're another creature of about the same size and shape. Your actions can give you away but your appearance won't.
 
 ---
 
-Your disguise covers your appearance and any basics like accents and limps. It doesn’t grant you any special knowledge of the target, so if someone asks you what your favorite color is you’d better think fast. Defying danger with CHA is a common part of maintaining a disguise.
+Your disguise covers your appearance and any basics like accents and limps. It doesn't grant you any special knowledge of the target, so if someone asks you what your favorite color is you'd better think fast. Defying danger with CHA is a common part of maintaining a disguise.
 
 ### Heist
 
 When you take time to make a plan to steal something, name the thing you want to steal and ask the GM these questions. When acting on the answers you and your allies take +1 forward.
 
-- Who will notice it’s missing?
-- What’s its most powerful defense?
+- Who will notice it's missing?
+- What's its most powerful defense?
 - Who will come after it?
 - Who else wants it?

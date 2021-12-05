@@ -1,12 +1,12 @@
 # The Fighter
 
-It’s a thankless job—living day to day by your armor and the skill of your arm. To dive heedlessly into danger. They won’t be playing golden horns for the time you took that knife to the ribs for them in the bar in Bucksberg. No flock of angels to sing of the time you dragged them, still screaming, from the edge of the Pits of Madness, no.
+It's a thankless job—living day to day by your armor and the skill of your arm. To dive heedlessly into danger. They won't be playing golden horns for the time you took that knife to the ribs for them in the bar in Bucksberg. No flock of angels to sing of the time you dragged them, still screaming, from the edge of the Pits of Madness, no.
 
 Forget them.
 
 You do this for the guts and the glory. The scream of battle and the hot, hot blood of it. You are a beast of iron. Your friends may carry blades of forged steel but, fighter, you are steel. While your traveling companions might moan about their wounds over a campfire in the wilderness, you bear your scars with pride.
 
-You are the wall—let every danger smash itself to nothing on you. In the end, you’ll be the last one standing.
+You are the wall—let every danger smash itself to nothing on you. In the end, you'll be the last one standing.
 
 ## Names
 
@@ -54,7 +54,7 @@ When you defy danger and **use your small size to your advantage**, take +1.
 
 ### Human
 
-Once per battle you may reroll a single damage roll (yours or someone else’s).
+Once per battle you may reroll a single damage roll (yours or someone else's).
 
 **You start with these moves:**
 
@@ -115,7 +115,7 @@ Choose a look:
 
 ---
 
-The base description you choose is just a description. Choosing a spear doesn’t give you Close range, for example. You could choose a spear as the description, then Hand as the range. Your spear is something special, or your technique with it is different, just describe why your weapon has the tags you’ve chosen.
+The base description you choose is just a description. Choosing a spear doesn't give you Close range, for example. You could choose a spear as the description, then Hand as the range. Your spear is something special, or your technique with it is different, just describe why your weapon has the tags you've chosen.
 
 ## Alignment
 
@@ -173,7 +173,7 @@ When you **consult the spirits that reside within your signature weapon**, they 
 
 ---
 
-The exact nature of the spirits (and therefore what knowledge they can offer to you) is up to you and the GM to decide. Maybe they’re dead ancestors, echoes of people you’ve slain, or a minor demon. Up to you.
+The exact nature of the spirits (and therefore what knowledge they can offer to you) is up to you and the GM to decide. Maybe they're dead ancestors, echoes of people you've slain, or a minor demon. Up to you.
 
 ### Armor Mastery
 
@@ -181,7 +181,7 @@ When you **make your armor take the brunt of damage dealt to you**, the damage i
 
 ---
 
-Armor and shields that are reduced to 0 armor are effectively destroyed. You’ll pretty much be paying for a new one anyway, so you might as well drop them and haul out some gold instead.
+Armor and shields that are reduced to 0 armor are effectively destroyed. You'll pretty much be paying for a new one anyway, so you might as well drop them and haul out some gold instead.
 
 ### Improved Weapon
 
@@ -229,7 +229,7 @@ When you **choose to let your armor take the brunt of damage dealt to you**, the
 
 *Requires: Seeing Red*
 
-When you **enter combat**, roll+CHA. ✴On a 10+, hold 2. ✴On a 7-9, hold 1. Spend your hold to make eye contact with an NPC present, who freezes or flinches and can’t act until you break it off. ✴On a 6-, your enemies immediately identify you as their biggest threat.
+When you **enter combat**, roll+CHA. ✴On a 10+, hold 2. ✴On a 7-9, hold 1. Spend your hold to make eye contact with an NPC present, who freezes or flinches and can't act until you break it off. ✴On a 6-, your enemies immediately identify you as their biggest threat.
 
 ### Taste of Blood
 
@@ -249,13 +249,13 @@ Get one move from another class. Treat your level as one lower for choosing the 
 
 You gain +2 armor.
 
-### Through Death’s Eyes
+### Through Death's Eyes
 
-When you **go into battle**, roll+WIS. ✴On a 10+, name someone who will live **and** someone who will die. ✴On a 7-9, name someone who will live **or** someone who will die. Name NPCs, not player characters. The GM will make your vision come true, if it’s even remotely possible. ✴On a 6- you see your own death and consequently take -1 ongoing throughout the battle.
+When you **go into battle**, roll+WIS. ✴On a 10+, name someone who will live **and** someone who will die. ✴On a 7-9, name someone who will live **or** someone who will die. Name NPCs, not player characters. The GM will make your vision come true, if it's even remotely possible. ✴On a 6- you see your own death and consequently take -1 ongoing throughout the battle.
 
 ### Eye for Weaponry
 
-When you look over an enemy’s weaponry, ask the GM how much damage they do.
+When you look over an enemy's weaponry, ask the GM how much damage they do.
 
 ### Superior Warrior
 

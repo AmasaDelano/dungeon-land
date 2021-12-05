@@ -1,6 +1,6 @@
 # The Paladin
 
-Hell awaits. An eternity of torment in fire or ice or whatever best suits the sins of the damned throngs of Dungeon World. All that stands between the pits of that grim torture and salvation is you. Holy man, armored war machine, templar of the Good and the Light, right? The cleric may say his prayers at night to the gods, dwelling in their heavens. The fighter may wield his sharp sword in the name of “good” but you know. Only you.
+Hell awaits. An eternity of torment in fire or ice or whatever best suits the sins of the damned throngs of Dungeon World. All that stands between the pits of that grim torture and salvation is you. Holy man, armored war machine, templar of the Good and the Light, right? The cleric may say his prayers at night to the gods, dwelling in their heavens. The fighter may wield his sharp sword in the name of "good" but you know. Only you.
 
 Eyes, hands, and sweet killing blow of the gods, you are. Yours is the gift of righteousness and virtue. Of justice. Vision, too. A purity of intent that your companions do not have.
 
@@ -36,7 +36,7 @@ Your base damage is d10.
 
 ### Human
 
-When you **pray for guidance, even for a moment, and ask, “What here is evil?”** the GM will tell you, honestly.
+When you **pray for guidance, even for a moment, and ask, "What here is evil?"** the GM will tell you, honestly.
 
 **You start with these moves:**
 
@@ -112,7 +112,7 @@ Choose one:
 
 Fill in the name of one of your companions in at least one:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_’s misguided behavior endangers their very soul\!
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_'s misguided behavior endangers their very soul\!
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ has stood by me in battle and can be trusted completely.
 
@@ -126,11 +126,11 @@ I respect the beliefs of \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ but hope they will somed
 
 ### Divine Favor
 
-Dedicate yourself to a deity (name a new one or choose one that’s already been established). You gain the commune and cast a spell cleric moves. When you select this move, treat yourself as a cleric of level 1 for using spells. Every time you gain a level thereafter, increase your effective cleric level by 1.
+Dedicate yourself to a deity (name a new one or choose one that's already been established). You gain the commune and cast a spell cleric moves. When you select this move, treat yourself as a cleric of level 1 for using spells. Every time you gain a level thereafter, increase your effective cleric level by 1.
 
 ### Bloody Aegis
 
-When you take damage you can grit your teeth and accept the blow. If you do you take no damage but instead suffer a debility of your choice. If you already have all six debilities you can’t use this move.
+When you take damage you can grit your teeth and accept the blow. If you do you take no damage but instead suffer a debility of your choice. If you already have all six debilities you can't use this move.
 
 ### Smite
 
@@ -174,7 +174,7 @@ When you **see divine magic as it happens**, you can ask the GM which deity gran
 
 ---
 
-Your +1 forward applies to anything you do based on your knowledge of the spell’s effects: defying it, defending against it, using it to your advantage, etc.
+Your +1 forward applies to anything you do based on your knowledge of the spell's effects: defying it, defending against it, using it to your advantage, etc.
 
 ### Holy Smite
 

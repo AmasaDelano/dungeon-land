@@ -2,7 +2,7 @@
 
 Sometimes the players will come across someone who becomes important in the moment. When the ritual goes wrong and a poor captive gets the power cosmic what does that villager do with it? Who were they?
 
-When you need a quick NPC all you need is an instinct and some way to pursue it. We call that a knack, it can be anything from a skill to a title to a debt owed. Combine the two and you have an NPC who has something they want and a way to try to get it—you’re ready to go.
+When you need a quick NPC all you need is an instinct and some way to pursue it. We call that a knack, it can be anything from a skill to a title to a debt owed. Combine the two and you have an NPC who has something they want and a way to try to get it—you're ready to go.
 
 ## 100 Instincts
 
@@ -77,7 +77,7 @@ When you need a quick NPC all you need is an instinct and some way to pursue it.
 69. To raise dragons
 70. To live up to expectations
 71. To become someone else
-72. To do what can’t be done
+72. To do what can't be done
 73. To be remembered in song
 74. To be forgotten
 75. To find true love
