@@ -19,7 +19,7 @@ During the conversation, this basic loop will repeat itself over and over:
 
 This flowchart lays out the basic flow of the game, including the basic results of **moves**, which are described later in this section.
 
-![Gameplay Flowchart](illustrations/gameplay_flowchart.png)
+![Gameplay Flowchart](illustrations/gameplay_flowchart.jpg)
 
 ### The Fiction
 
