@@ -84,6 +84,10 @@ The GM will then tell you what vow or vows is required of you to maintain your b
 - Truth (forbidden: lies)
 - Hospitality (required: comfort to those in need, no matter who they are)
 
+---
+
+If you choose the boon "Invulnerability to \_\_\_\_\_\_\_," discuss as a table a few examples of damage you would be invulnerable to, to make sure you're on the same page.
+
 ## Alignment
 
 **Choose an alignment:**

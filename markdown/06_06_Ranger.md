@@ -86,6 +86,10 @@ Choose as many weaknesses as its instinct:
 
 *Flighty, savage, slow, broken, frightening, forgetful, stubborn, lame*
 
+---
+
+Your animal companion doesn't have its own damage or HP. When it makes an attack on its own, or when it suffers an attack, look to the GM to find out what happens.
+
 ### Command
 
 When you **work with your animal companion on something it's trained in**…
@@ -213,7 +217,7 @@ When you strike an enemy with two weapons at once, add an extra 1d8 damage for y
 
 ### Smaug's Belly
 
-When you know your target's weakest point your arrows have 2 piercing.
+When you know your target's weakest point and aim for it, your arrows have 2 piercing.
 
 ### Strider
 

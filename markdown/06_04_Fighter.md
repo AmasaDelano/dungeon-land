@@ -69,7 +69,7 @@ When you **use pure strength to destroy an inanimate obstacle**, roll+STR. ✴On
 
 ---
 
-This is for bashing your way onto the next thing. If what you're destroying isn't inanimate (for example, a stone golem), then this move doesn't apply. If what you're destroying isn't an obstacle (for example, a boulder in the middle of a field), then this move doesn't apply.
+This is for bashing your way onto the next thing. If the action you take can't destroy the obstacle, then the move doesn't trigger at all. If what you're destroying isn't inanimate (for example, a stone golem), then this move doesn't apply. If what you're destroying isn't an obstacle (for example, a boulder in the middle of a field you can just walk around), then this move doesn't apply.
 
 ### Armored
 
@@ -165,7 +165,7 @@ I worry about the ability of \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ to survive in the du
 
 ### Merciless
 
-When you deal damage, deal +1d4 damage.
+You are merciless. When you deal damage, deal +1d4 damage.
 
 ### Heirloom
 

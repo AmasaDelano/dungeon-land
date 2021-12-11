@@ -31,7 +31,7 @@ If your character has a Strength score of 15, that's not *fiction*, that's just 
 
 The fiction dictates what happens in the game. If something doesn't make sense in the fiction, it doesn't happen.
 
-If someone says something that doesn't make sense to the GM or aonther player, or that contradicts something that was already said, everyone stops and talks about it until it makes sense. Sometimes, there was just a misunderstanding about the world or what was happening, in which case the misunderstanding gets cleared up. Sometimes, someone forgot what was said a while ago, in which case everyone gets a reminder. Sometimes, someone didn't realize an action was possible, in which case they get a good explanation of it.
+If someone says something that doesn't make sense to the GM or aonther player, or that contradicts something that was already said, everyone stops and talks about it until the situation makes sense to everyone. Sometimes, there was just a misunderstanding about the world or what was happening, in which case the misunderstanding gets cleared up. Sometimes, someone forgot what was said a while ago, in which case everyone gets a reminder. Sometimes, someone didn't realize an action was possible, in which case they get a good explanation of it.
 
 The conversation isn't allowed to move on until what's being said makes sense to everyone and there are no contradictions.
 
@@ -136,7 +136,7 @@ For example, if Isaac tells the GM that his character dashes past a crazed axe-w
 
 For another example, if Isaac tells the GM that he wants to roll to hack and slash the crazed axe-wielding orc standing in his way, his character *first* has to attack the orc in melee, and Isaac should describe his character doing that. To do it, you do it.
 
-Everyone at the table should listen for when moves trigger, not just the GM. If it's ever unclear whether or not a move has been triggered, everyone should work together to clarify what's happening in the fiction. Ask questions of everyone involved until everyone sees the situation the same way, and then roll the dice, or don't, as the situation requires.
+Everyone at the table should listen for when moves trigger, not just the GM. If it's ever unclear whether or not a move has been triggered, everyone should work together to clarify what's happening in the fiction. Ask questions of everyone involved until everyone sees the situation the same way, and apply the move's effects, or don't, as the situation requires.
 
 ### Moves and Dice
 
@@ -162,7 +162,8 @@ The effects of moves are always about the fictional world the characters inhabit
 
 Once you've figured out what the effects of the move are, apply them to the fiction and go back to the conversation. Always return to what's going on in the game.
 
-If a move asks you make a choice, the choice you make, like all move effects, dictates things that happen in the fiction in addition to any more mechanical effects. The choice you make on the 10+ result of hack and slash to deal more damage at the cost of opening yourself up is exactly what's happening to your character: they have enough advantage that they can stay safe or push their luck. If a choice in a move doesn't make sense or can't be applied to the fiction, then you can't make that choice.
+If a move asks you make a choice, the choice you make, like all move effects, dictates things that happen in the fiction in addition to any more mechanical effects. If a choice in a move doesn't make sense or can't be applied to the fiction, then you can't make that choice.
+<!-- The choice you make on the 10+ result of hack and slash to deal more damage at the cost of opening yourself up is exactly what's happening to your character: they have enough advantage that they can stay safe or push their luck. -->
 
 Some moves have immediate mechanical effects, like dealing damage or giving someone a bonus to their next roll. These effects are always a reflection of the fictional world the characters are in; make sure to use the fiction when describing the effects of the move.
 
@@ -241,7 +242,7 @@ A GM character that takes stun damage will act accordingly, staggering around fo
 
 ### Armor
 
-Armor mitigates damage. When a character takes damage, they subtract their armor from the damage dealt. For example, a character that takes 5 damage with 1 armor would only lose 4 HP. This might mean a blow is turned away completely—that's fine, it's what armor is for!
+Whenever a character or monster takes damage, they subtract their armor from the damage dealt. For example, a character that takes 5 damage with 1 armor would only lose 4 HP. This might mean a blow is turned away completely—that's fine, it's what armor is for!
 
 > The orc just cut me with his nasty knife. That means I take d8+2 damage. I rolled a 5, so I take 7 damage. But, I have 2 armor, so that means I only take 5 damage.
 
@@ -249,6 +250,8 @@ Temporary or circumstantial armor works the same way as armor that you wear. Whe
 
 - 1 armor for partial cover
 - 2 armor for major cover
+
+If a monster's armor comes from a particular source, and your attack negates that source, their armor may be lower against future attacks. For example, a Knight has 4 armor: 3 armor from their plate armor and 1 armor from their shield. If you knock their shield out of their hand, they would only have 3 armor against your next attack. If you're unsure where a monster's armor comes from, or whether or not that armor has been negated, use the full armor amount for every attack.
 
 ### Healing
 

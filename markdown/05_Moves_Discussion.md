@@ -15,9 +15,9 @@ Each move is presented here starting with its name, then the rules of the move. 
 When you **attack one or more prepared enemies in melee**, roll+STR. ✴On a 10+, you deal your damage to them and choose one:
 
 - Avoid their attack
-- Deal +1d6 damage, opening yourself up to their attack
+- Deal +1d6 damage, opening yourself up to their simultaneous attack
 
-✴On a 7–9, you deal your damage to them and they make an attack against you.
+✴On a 7–9, you deal your damage to them and they simultaneously make an attack against you.
 
 ---
 
@@ -25,7 +25,7 @@ Hack and slash is for attacking a prepared enemy plain and simple. If the enemy 
 
 If the action that triggers the move could reasonably hurt multiple targets, roll once and apply damage to each target (they each get their armor).
 
-The enemy's counterattack can be any GM move made directly with that creature. A goblin might just attack you back, or they might jam a poisoned needle into your veins. Life's tough, isn't it?
+The enemy's counterattack can be any GM move made directly with that creature. A goblin might just attack you back, or they might jam a poisoned needle into your veins. Life's tough, isn't it? If an enemy makes an attack against you as the result of a hack and slash, the enemy's attack always comes through, regardless of how much damage your attack deals to them.
 
 Note that an "attack" is some action that a player undertakes that has a chance of causing physical harm to someone else. Attacking a dragon with inch-thick metal scales full of magical energy using a typical sword is like swinging a meat cleaver at a tank: it just isn't going to cause any harm, so hack and slash doesn't apply. Note that circumstances can change that: if you're in a position to stab the dragon on its soft underbelly (good luck with getting there) it could hurt, so it's an attack.
 
@@ -148,12 +148,12 @@ Which stat applies depends on what action you take and your action has to trigge
 
 ## Defend
 
-When you **stand in defense of a person, item, or location** under attack, roll+CON. ✴On a 10+, hold 3. ✴On a 7–9, hold 1. As long as you stand in defense, when you or the thing you defend is attacked you may spend hold, 1 for 1, to choose an option:
+When you **stand in defense of a person, item, or location** under attack, roll+CON. ✴On a 10+, hold 3. ✴On a 7–9, hold 1. As long as you stand in defense, when you or the thing you defend suffers an attack, you may spend hold, 1 for 1, to choose an option:
 
-- Redirect an attack from the thing you defend to yourself
-- Halve the attack's effect or damage
-- Open up the attacker to an ally, giving that ally +1 forward against the attacker
-- Deal damage to the attacker equal to your level
+- Redirect the attack from the thing you defend to yourself.
+- Halve the attack's effect or damage.
+- Open up the attacker to an ally, giving that ally +1 forward against the attacker.
+- Deal damage to the attacker equal to your level.
 
 When you're no longer near what you defend or you stop devoting your attention to incoming attacks, you lose all remaining hold.
 
@@ -161,7 +161,7 @@ When you're no longer near what you defend or you stop devoting your attention t
 
 Defending something means standing nearby and focusing on preventing attacks against that thing or stopping anyone from getting near it. When you're no longer nearby or you stop devoting your attention to incoming attacks then you lose any hold you might have had.
 
-You can only spend hold when someone makes an attack on you or the thing you're defending. The choices you can make depend on the attacker and the type of attack. In particular, you can't deal damage to an attacker who you can't reach with your weapon.
+You can only spend hold when you or the thing you're defending suffer an attack from someone. If it makes sense in the fiction, you can spend more than one hold per attack. The choices you can make depend on the attacker and the type of attack. In particular, you can't deal damage to an attacker who you can't reach with your weapon. If your damage kills your attacker, their attack might not land.
 
 An attack is any action you can interfere with that has harmful effects. Swords and arrows are attacks, of course, but so are spells, grabs, and charges.
 
@@ -201,9 +201,7 @@ Defending yourself is certainly an option. It amounts to giving up on making att
 
 ## Spout Lore
 
-When you **wonder if or declare that you know something about the world**, the GM will tell you what's common knowledge, then ask, "Do you think you know more?"
-
-If you say "Yes," **clarify what would be useful for you to know in this situation** and **explain why you probably know it**, then roll+INT. On a 10+, the GM will tell you something interesting and useful. On a 7–9, the GM will only tell you something interesting—it's on you to make it useful. On a 6-, the GM will tell you something true, though not necessarily what you wanted to know.
+When you **search your memory for knowledge or facts about something, clarify what would be useful for you to know in this situation** and roll+INT. On a 10+, the GM will tell you something interesting and useful. On a 7–9, the GM will only tell you something interesting—it's on you to make it useful. On a 6-, the GM will tell you something true, though not necessarily what you wanted to know. The GM may ask you how you know this. Tell them the truth, now.
 
 ---
 
@@ -241,9 +239,7 @@ Just in case it isn't clear: the answers are always true, even if the GM had to 
 
 ## Discern Realities
 
-When you **observe a situation or person**, the GM will tell you what's obvious and clear, then ask, "Do you want to learn more?"
-
-If you say "Yes," **clarify how you act to get extra info** and **what you pay close attention to**, then roll+WIS. On a 10+, ask the GM 3 questions from the list below. On a 7–9, ask 1.
+When you **take action to observe a situation or person and clarify what you pay close attention to**, roll+WIS. On a 10+, ask the GM 3 questions from the list below. On a 7–9, ask 1.
 
 The GM will answer your questions truthfully. Take +1 forward when acting on the answers.
 

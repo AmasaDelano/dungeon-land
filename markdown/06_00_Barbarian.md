@@ -42,7 +42,7 @@ You ignore the clumsy tag on armor you wear.
 
 ### Unencumbered, Unharmed
 
-So long as you are below your Load and neither wear armor nor carry a shield, take +1 armor.
+You move better without being weighed down. So long as you are below your Load and neither wear armor nor carry a shield, take +1 armor.
 
 **You start with all of these moves:**
 
@@ -56,6 +56,10 @@ Others may content themselves with just a taste of wine, or dominion over a serv
 - Conquest
 - Riches and property
 - Fame and glory
+
+---
+
+If you're not pursuing one of your appetites, this move doesn't apply. For example, if you have an appetite for pure destruction, and you defend yourself by deflecting blows without hurting your attackers or destroying anything, you roll 2d6 like normal when you defend.
 
 ### The Upper Hand
 
@@ -143,7 +147,7 @@ You may take a debility to immediately break free of any physical or mental rest
 
 ### Smash!
 
-When you **Hack & Slash**, on a 12+ deal your damage and choose something physical your target has (a weapon, their position, a limb): they lose it.
+When you **Hack & Slash**, on a 12+ deal your damage and choose something physical your target has (a weapon, their position, a limb, their head): they lose it.
 
 ### Indestructible Hunger
 
