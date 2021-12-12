@@ -16,3 +16,17 @@ Future updates to Dungeon Land will be made based on how well they accomplish th
 2. To make the rules of Dungeon World clear and easy-to-understand.
 3. To keep the learning curve flat, so new players can learn and understand how to play Dungeon World without reading any other documents, especially players who have never played either Dungeons & Dragons or Apocalypse World.
 4. To give clear and consistent definitions of terms which can be easily referred to.
+
+## Task List
+
+- Introduction - Leaving unchanged
+- Playing the Game - Drafted new version, needs playtesting
+- Basic and Special Moves - Drafted new versions, need to revisit and clean up discussions
+- Classes - Revised moves throughout, need playtesting
+- GM section - Haven't started yet
+- Monster section - Small changes, still need to revise "incorrect" monsters
+- Appendices - Haven't started yet
+
+## Changelog
+
+- 1.5.0.1 beta - First version
