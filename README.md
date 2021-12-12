@@ -20,8 +20,8 @@ Future updates to Dungeon Land will be made based on how well they accomplish th
 ## Task List
 
 - Introduction - Leaving unchanged
-- Playing the Game - Drafted new version, needs playtesting
-- Basic and Special Moves - Drafted new versions, need to revisit and clean up discussions
+- [Playing the Game](https://github.com/AmasaDelano/dungeon-land/blob/master/markdown/02_Playing_the_Game.md) - Drafted new version, needs playtesting
+- [Basic and Special Moves](https://github.com/AmasaDelano/dungeon-land/blob/master/markdown/05_Moves_Discussion.md) - Drafted new versions, need to revisit and clean up discussions
 - Classes - Revised moves throughout, need playtesting
 - GM section - Haven't started yet
 - Monster section - Small changes, still need to revise "incorrect" monsters
